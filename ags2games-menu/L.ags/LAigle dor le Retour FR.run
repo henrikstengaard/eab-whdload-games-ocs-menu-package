@@ -1,10 +1,10 @@
 ; HstWB Menu Item Run script for AGS2
 ; -----------------------------------
-;RunFile=A-Games:N/NorthAndSouthFilesNTSC/NorthAndSouthFilesNTSC.Slave
+;RunFile=A-Games:A/AigleDOrFr/AigleDOrFr.slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "N" "North & South NTSC Files"
+  execute S:AGS2Favourites "L" "LAigle dor le Retour FR"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,11 +19,11 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Whdload
-cd "A-Games:N/NorthAndSouthFilesNTSC/"
+cd "A-Games:A/AigleDOrFr/"
 IF EXISTS ENV:whdloadargs
-  whdload "NorthAndSouthFilesNTSC.Slave" $whdloadargs
+  whdload "AigleDOrFr.slave" $whdloadargs
 ELSE
-  whdload "NorthAndSouthFilesNTSC.Slave"
+  whdload "AigleDOrFr.slave"
 ENDIF
 
 ; Start AGS2 Run Post Script, if it exists

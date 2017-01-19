@@ -1,10 +1,10 @@
 ; HstWB Menu Item Run script for AGS2
 ; -----------------------------------
-;RunFile=A-Games:F/Flipit&Magnose/Flipit&Magnose.slave
+;RunFile=A-Games:R/Rody&Mastico2Fr/Rody&Mastico2Fr.Slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "F" "Flip-it & Magnose Water Ca"
+  execute S:AGS2Favourites "R" "Rody Mastico II FR"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,11 +19,11 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Whdload
-cd "A-Games:F/Flipit&Magnose/"
+cd "A-Games:R/Rody&Mastico2Fr/"
 IF EXISTS ENV:whdloadargs
-  whdload "Flipit&Magnose.slave" $whdloadargs
+  whdload "Rody&Mastico2Fr.Slave" $whdloadargs
 ELSE
-  whdload "Flipit&Magnose.slave"
+  whdload "Rody&Mastico2Fr.Slave"
 ENDIF
 
 ; Start AGS2 Run Post Script, if it exists
