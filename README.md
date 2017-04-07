@@ -4,7 +4,7 @@ EAB WHDLoad Games OCS Menu package contains menus for AGS2 and iGame with screen
 
 ## Requirements
 
-EAB WHDLoad Games AGA Menu package requires following applications and libraries are installed:
+EAB WHDLoad Games OCS Menu package requires following applications and libraries are installed:
 - MUI: Install MUI from http://aminet.net/util/libs/mui38usr.lha.
 - GuigFX MCC for MUI: Install "guigfx.mcc" from http://aminet.net/dev/mui/MCC_Guigfx.lha.
 - TextEditor MCC for MUI: Install "TextEditor.mcc" from http://aminet.net/dev/mui/MCC_TextEditor-15.47.lha or http://aminet.net/dev/mui/MCC_TextEditor_68k.lha depending on CPU is 68000 or better.
@@ -24,20 +24,20 @@ For manual installation without HstWB or ClassicWB, use following guides:
 
 ## Installation
 
-Download latest release from https://github.com/henrikstengaard/eab-whdload-games-aga-menu-package/releases and copy it to HstWB Installer "packages" directory, which typically is "c:\Program Files (x86)\HstWB Installer\Packages".
+Download latest release from https://github.com/henrikstengaard/eab-whdload-games-ocs-menu-package/releases and copy it to HstWB Installer "packages" directory, which typically is "c:\Program Files (x86)\HstWB Installer\Packages".
 
-Installation through HstWB Installer will install and configure EAB WHDLoad Games AGA Menu package using defined assigns.
+Installation through HstWB Installer will install and configure EAB WHDLoad Games OCS Menu package using defined assigns.
 
 ## Assigns
 
-Installation of EAB WHDLoad Games AGA Menu package requires and uses following assigns:
+Installation of EAB WHDLoad Games OCS Menu package requires and uses following assigns:
 
 - SYSTEMDIR: = DH0:
 - WHDLOADDIR: = DH1:
 
 AGS2 and iGame game frontends, AGS2 support files will be installed and configured in SYSTEMDIR: assign. AGS2 menus and WHDLOAD directories will be installed in WHDLOADDIR: assign.
 
-EAB WHDLoad Games AGA Menu package will automatically update SYSTEMDIR:S/User-Assign, SYSTEMDIR:S/Assign-Startup or SYSTEMDIR:S/Startup-Sequence with following assigns:
+EAB WHDLoad Games OCS Menu package will automatically update SYSTEMDIR:S/User-Assign, SYSTEMDIR:S/Assign-Startup or SYSTEMDIR:S/Startup-Sequence with following assigns:
 
 - A-Games: = WHDLOADDIR:WHDLoad/Games
 
@@ -231,7 +231,7 @@ Configure menus iterates through all .run files in WHDLOADDIR:Menu/AGS2Games or 
 
 ## Screenshots
 
-Screenshots of EAB WHDLoad Games AGA Menu package.
+Screenshots of EAB WHDLoad Games OCS Menu package.
 
 ### AGS2 screenshots
 
