@@ -1,5 +1,5 @@
 ;HstWB menu item data
-Name=Lemmings 2: The Tribes Intro 512KB
-RunFile=Intro512KB.slave
-AGS2Name=Lemmings 2 The Tribes I V2
-iGameName=Lemmings 2: The Tribes Intro 512KB
+Name=Lemmings 2: The Tribes 512KB
+RunFile=Lemmings2512KB.slave
+AGS2Name=Lemmings 2 The Tribes 512K
+iGameName=Lemmings 2: The Tribes 512KB

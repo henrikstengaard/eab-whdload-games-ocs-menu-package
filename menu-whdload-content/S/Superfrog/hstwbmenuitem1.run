@@ -1,7 +1,7 @@
 ; Whdload
 cd "A-Games:S/Superfrog/"
 IF EXISTS ENV:whdloadargs
-	whdload "SuperfrogIntro.Slave" $whdloadargs
+	whdload "Superfrog.Slave" $whdloadargs
 ELSE
-	whdload "SuperfrogIntro.Slave"
+	whdload "Superfrog.Slave"
 ENDIF
