@@ -10,6 +10,6 @@ ENDIF
 IF EXISTS "A-Games:T/TinyTroopsCDDe"
   Delete >NIL: "A-Games:T/TinyTroopsCDDe" ALL
 ENDIF
-IF EXISTS "A-Games:E/EmeraldMinesCD"
-  Delete >NIL: "A-Games:E/EmeraldMinesCD" ALL
+IF EXISTS "A-Games:EmeraldMinesCD"
+  Delete >NIL: "A-Games:EmeraldMinesCD" ALL
 ENDIF
