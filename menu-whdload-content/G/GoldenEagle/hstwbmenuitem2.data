@@ -1,5 +1,5 @@
 ;HstWB menu item data
-Name=Golden Eagle
-RunFile=GoldenEagle.slave
-AGS2Name=Golden Eagle
-iGameName=Golden Eagle
+Name=Golden Eagle Intro
+RunFile=Intro.slave
+AGS2Name=Golden Eagle Intro
+iGameName=Golden Eagle Intro

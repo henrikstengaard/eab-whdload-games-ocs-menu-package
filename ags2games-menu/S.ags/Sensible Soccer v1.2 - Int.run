@@ -18,7 +18,7 @@ IF EXISTS S:AGS2RunPre
   execute S:AGS2RunPre
 ENDIF
 
-; Whdload
+; Run WHDLoad
 cd "A-Games:S/SensibleSoccerIntEd/"
 IF EXISTS ENV:whdloadargs
   whdload "SensibleSoccerIntEd512K.Slave" $whdloadargs
