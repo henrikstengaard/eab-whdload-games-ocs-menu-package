@@ -1,0 +1,6 @@
+Name      : Stellar 7
+Language  : German
+Publisher : Dynamix
+Year      : 1991
+Players   : 1 Only
+RunFile   : Stellar7De.Slave

@@ -1,0 +1,7 @@
+Name      : Covert Action
+Language  : German
+Publisher : MicroProse Software
+Year      : 1992
+Genre     : Adventure - Miscellaneous
+Players   : 1 Only
+RunFile   : CovertActionDe.Slave

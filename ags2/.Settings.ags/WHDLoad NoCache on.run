@@ -1,0 +1,7 @@
+echo "*ec" NOLINE
+IF EXISTS S:WHDLoadArgAdd
+  execute S:WHDLoadArgAdd NoCache
+  echo "WHDLoad NoCache turned on"
+  wait 1
+  echo "*ec" NOLINE
+ENDIF

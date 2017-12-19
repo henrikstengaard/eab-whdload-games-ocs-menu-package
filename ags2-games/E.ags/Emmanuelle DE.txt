@@ -1,0 +1,7 @@
+Name      : Emmanuelle
+Language  : German
+Publisher : Tomahawk
+Year      : 1989
+Genre     : Adventure - Point and Click
+Players   : 1 Only
+RunFile   : EmmanuelleDe.Slave

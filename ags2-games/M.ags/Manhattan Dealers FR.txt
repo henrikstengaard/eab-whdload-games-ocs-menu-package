@@ -1,0 +1,6 @@
+Name      : Manhattan Dealers
+Language  : French
+Publisher : Silmarils
+Year      : 1988
+Players   : 1 Only
+RunFile   : ManhattanDealersFr.Slave

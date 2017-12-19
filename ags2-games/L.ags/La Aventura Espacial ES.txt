@@ -1,0 +1,6 @@
+Name      : La Aventura Espacial
+Language  : Spanish
+Publisher : Aventuras AD
+Year      : 1990
+Players   : 1
+RunFile   : LaAventuraEspacialEs.slave

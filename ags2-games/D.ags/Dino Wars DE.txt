@@ -1,0 +1,7 @@
+Name      : Dino Wars
+Language  : German
+Publisher : DigiTek Software
+Year      : 1991
+Genre     : Board - Miscellaneous
+Players   : 1 or 2
+RunFile   : DinoWarsDe.Slave

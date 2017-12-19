@@ -1,0 +1,6 @@
+Name      : Double Dragon II: The Revenge
+Version   : NTSC
+Publisher : Virgin Mastertronic
+Year      : 1989
+Players   : 1 or 2, Simultaneous
+RunFile   : DoubleDragon2NTSC.Slave

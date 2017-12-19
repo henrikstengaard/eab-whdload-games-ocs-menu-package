@@ -1,0 +1,6 @@
+Name      : Humans, The
+Language  : German
+Publisher : Mirage
+Year      : 1992
+Genre     : Arcade - Miscellaneous
+RunFile   : HumansDe.slave

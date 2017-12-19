@@ -1,0 +1,6 @@
+Name      : Operation Jupiter
+Language  : French
+Publisher : Infogrames
+Year      : 1988
+Players   : 1
+RunFile   : OperationJupiterFr.Slave

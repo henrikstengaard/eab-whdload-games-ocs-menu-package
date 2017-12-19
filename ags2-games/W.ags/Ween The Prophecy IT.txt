@@ -1,0 +1,7 @@
+Name      : Ween: The Prophecy
+Language  : Italian
+Publisher : Coktel Vision
+Year      : 1992
+Genre     : Adventure - Point and Click
+Players   : 1 Only
+RunFile   : WeenTheProphecyIt.slave

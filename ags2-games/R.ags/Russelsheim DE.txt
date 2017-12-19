@@ -1,0 +1,6 @@
+Name      : Rüsselsheim
+Language  : German
+Publisher : Impressions
+Year      : 1994
+Players   : 1 - 4 (1 simultaneous)
+RunFile   : RuesselsheimDe.Slave

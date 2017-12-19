@@ -1,0 +1,6 @@
+Name      : Space Quest IV
+Language  : German
+Publisher : Sierra
+Year      : 1992
+Players   : 1
+RunFile   : SpaceQuest4De.slave

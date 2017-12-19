@@ -1,0 +1,7 @@
+Name      : Dawn Patrol
+Language  : German
+Publisher : Empire Interactive
+Year      : 1994
+Genre     : Simulation - Flight
+Players   : 1 Only
+RunFile   : DawnPatrolDe.Slave

@@ -1,0 +1,7 @@
+echo "*ec" NOLINE
+IF EXISTS S:WHDLoadArgAdd
+  execute S:WHDLoadArgAdd Preload
+  echo "WHDLoad Preload turned on"
+  wait 1
+  echo "*ec" NOLINE
+ENDIF

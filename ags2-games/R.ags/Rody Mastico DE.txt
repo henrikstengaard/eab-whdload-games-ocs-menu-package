@@ -1,0 +1,4 @@
+Name      : Rody & Mastico
+Language  : German
+Players   : 1
+RunFile   : Rody&MasticoDe.Slave

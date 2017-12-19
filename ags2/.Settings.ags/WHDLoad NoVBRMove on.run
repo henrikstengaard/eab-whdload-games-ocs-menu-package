@@ -1,0 +1,7 @@
+echo "*ec" NOLINE
+IF EXISTS S:WHDLoadArgAdd
+  execute S:WHDLoadArgAdd NoVBRMove
+  echo "WHDLoad NoVBRMove turned on"
+  wait 1
+  echo "*ec" NOLINE
+ENDIF

@@ -1,0 +1,7 @@
+Name      : Maniac Mansion
+Language  : French
+Publisher : Lucasfilm Games
+Year      : 1989
+Genre     : Adventure - Point and Click
+Players   : 1 Only
+RunFile   : ManiacMansionFr.slave

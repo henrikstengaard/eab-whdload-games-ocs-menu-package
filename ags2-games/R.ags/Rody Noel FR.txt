@@ -1,0 +1,6 @@
+Name      : Rody Noël
+Language  : French
+Publisher : Lankhor
+Year      : 1991
+Players   : 1
+RunFile   : Rody&Mastico4RodyNoelFr.Slave

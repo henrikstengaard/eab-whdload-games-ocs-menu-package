@@ -1,0 +1,7 @@
+Name      : Guy Spy and the Crystals of Armageddon
+Version   : CDTV
+Publisher : ReadySoft
+Year      : 1992
+Genre     : Adventure - Miscellaneous
+Players   : 1 Only
+RunFile   : GuySpyCDTV.Slave

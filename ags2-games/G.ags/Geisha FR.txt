@@ -1,0 +1,6 @@
+Name      : Geisha
+Language  : French
+Publisher : Coktel Vision
+Year      : 1990
+Genre     : Adventure - Miscellaneous
+RunFile   : GeishaFr.Slave

@@ -1,0 +1,6 @@
+Name      : Mickey Jeu De Memoire
+Language  : French
+Publisher : Disney
+Year      : 1993
+Players   : 1
+RunFile   : MickeyJeuDeMemoireFr.Slave

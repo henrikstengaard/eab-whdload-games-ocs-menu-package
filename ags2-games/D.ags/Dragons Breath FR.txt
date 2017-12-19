@@ -1,0 +1,7 @@
+Name      : Dragons Breath
+Language  : French
+Publisher : Palace Software
+Year      : 1990
+Genre     : Strategy - Miscellaneous
+Players   : 1 to 3
+RunFile   : DragonsBreathFr.Slave

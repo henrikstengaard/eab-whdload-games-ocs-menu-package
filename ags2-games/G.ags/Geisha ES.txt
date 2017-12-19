@@ -1,0 +1,6 @@
+Name      : Geisha
+Language  : Spanish
+Publisher : Coktel Vision
+Year      : 1990
+Genre     : Adventure - Miscellaneous
+RunFile   : GeishaEs.Slave

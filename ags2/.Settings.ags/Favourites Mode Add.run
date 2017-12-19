@@ -1,0 +1,5 @@
+echo "*ec" NOLINE
+echo "add" >ENV:ags2favouritesmode
+echo "Set favourites mode to add"
+wait 1
+echo "*ec" NOLINE
