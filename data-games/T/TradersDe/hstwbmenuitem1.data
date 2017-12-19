@@ -1,0 +1,5 @@
+;HstWB menu item data
+Name=Traders DE
+RunFile=TradersDe.slave
+AGS2Name=Traders DE
+iGameName=Traders DE

@@ -1,0 +1,5 @@
+;HstWB menu item data
+Name=Burntime
+RunFile=Burntime.Slave
+AGS2Name=Burntime
+iGameName=Burntime

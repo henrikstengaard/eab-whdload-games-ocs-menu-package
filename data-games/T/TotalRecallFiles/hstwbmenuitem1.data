@@ -1,0 +1,5 @@
+;HstWB menu item data
+Name=Total Recall Files
+RunFile=TotalRecallFiles.Slave
+AGS2Name=Total Recall Files
+iGameName=Total Recall Files

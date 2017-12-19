@@ -1,0 +1,5 @@
+;HstWB menu item data
+Name=Clockwiser
+RunFile=Clockwiser.Slave
+AGS2Name=Clockwiser
+iGameName=Clockwiser

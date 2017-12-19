@@ -1,0 +1,5 @@
+;HstWB menu item data
+Name=Tornado
+RunFile=Tornado.slave
+AGS2Name=Tornado
+iGameName=Tornado

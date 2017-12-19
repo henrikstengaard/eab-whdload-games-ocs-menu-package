@@ -1,0 +1,5 @@
+;HstWB menu item data
+Name=Turrican Demo
+RunFile=TurricanDemo.Slave
+AGS2Name=Turrican Demo
+iGameName=Turrican Demo
