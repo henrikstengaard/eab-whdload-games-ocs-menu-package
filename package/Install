@@ -2,14 +2,14 @@
 ; -------------------------------------------------
 ;
 ; Author: Henrik Noerfjand Stengaard
-; Date: 2017-11-08
+; Date: 2017-12-18
 ;
 ; This script extracts and installs zip archives for EAB WHDLoad Games OCS Menu Package.
 
 
 ; Copy readme and screenshots to locale help for EAB WHDLoad Games OCS Menu
 IF NOT EXISTS SYSTEMDIR:Locale/Help/EAB-WHDLoad-Games-OCS-Menu
-  makepath >NIL: SYSTEMDIR:Locale/Help/EAB-WHDLoad-Games-OCS-Menu
+  MakePath >NIL: SYSTEMDIR:Locale/Help/EAB-WHDLoad-Games-OCS-Menu
   IF EXISTS SYSTEMDIR:Prefs/Env-Archive/Sys/def_drawer.info
     makeicon >NIL: SYSTEMDIR:Locale/Help/EAB-WHDLoad-Games-OCS-Menu FROM SYSTEMDIR:Prefs/Env-Archive/Sys/def_drawer.info 
   ELSE
@@ -34,41 +34,108 @@ copy >NIL: PACKAGEDIR:README SYSTEMDIR:Locale/Help/EAB-WHDLoad-Games-OCS-Menu
 copy >NIL: PACKAGEDIR:README.guide SYSTEMDIR:Locale/Help/EAB-WHDLoad-Games-OCS-Menu
 copy >NIL: PACKAGEDIR:README.info SYSTEMDIR:Locale/Help/EAB-WHDLoad-Games-OCS-Menu
 IF NOT EXISTS SYSTEMDIR:Locale/Help/EAB-WHDLoad-Games-OCS-Menu/screenshots
-  makepath >NIL: SYSTEMDIR:Locale/Help/EAB-WHDLoad-Games-OCS-Menu/screenshots
+  MakePath >NIL: SYSTEMDIR:Locale/Help/EAB-WHDLoad-Games-OCS-Menu/screenshots
 ENDIF
 copy >NIL: PACKAGEDIR:screenshots/#?.iff SYSTEMDIR:Locale/Help/EAB-WHDLoad-Games-OCS-Menu/screenshots
 
 
-echo "Installing Menu and WHDLoad drawers..."
-unzip -qq -o -x PACKAGEDIR:menu-whdload-drawers.zip -d WHDLOADDIR:
-
-echo "Installing AGS2 Games Menu..."
-IF NOT EXISTS "WHDLOADDIR:Menu/AGS2Games"
-  makedir "WHDLOADDIR:Menu/AGS2Games" >NIL:
+; Create systemdir games directory, if it doesn't exist
+IF NOT EXISTS SYSTEMDIR:Games
+  MakePath >NIL: SYSTEMDIR:Games
 ENDIF
-unzip -qq -o -x PACKAGEDIR:ags2games-menu.zip -d WHDLOADDIR:Menu/AGS2Games/
-protect >NIL: WHDLOADDIR:Menu/AGS2Games/AGS2 +rwe
-protect >NIL: WHDLOADDIR:Menu/AGS2Games/AGS2Helper +rwe
-protect >NIL: WHDLOADDIR:Menu/AGS2Games/AGS2Menu +rwe
+
+echo "Installing Frontends..."
+unzip -qq -o -x PACKAGEDIR:frontends.zip -d SYSTEMDIR:Games/
+
+
+echo "Installing Data Drawers..."
+unzip -qq -o -x PACKAGEDIR:data-drawers.zip -d WHDLOADDIR:
+IF NOT EXISTS WHDLOADDIR:HD-Games
+  MakePath >NIL: WHDLOADDIR:HD-Games
+ENDIF
+IF NOT EXISTS WHDLOADDIR:WHDLoad/Saves
+  MakePath >NIL: WHDLOADDIR:WHDLoad/Saves
+ENDIF
+
+echo "Configuring WHDLoad.prefs..."
+IF NOT EXISTS SYSTEMDIR:S
+  MakePath >NIL: SYSTEMDIR:S
+ENDIF
+IF NOT EXISTS "S:WHDLoad.prefs"
+  Copy >NIL: PACKAGEDIR:WHDLoad.prefs SYSTEMDIR:S
+ENDIF
+
+; Disable existing save path in WHDLoad.prefs
+rep "S:WHDLoad.prefs" "SavePath" ";SavePath"
+
+; Set save path in WHDLoad.prefs
+set whdloadsavesdir "`execute INSTALLDIR:S/CombinePath "$WHDLOADDIR" "WHDLoad/Saves"`"
+echo "SavePath=$whdloadsavesdir" >>S:WHDLoad.prefs
+
+; Disable existing splash deplay
+rep "S:WHDLoad.prefs" "SplashDelay" ";SplashDelay"
+
+; Set splash deplay in WHDLoad.prefs
+echo "SplashDelay=50" >>S:WHDLoad.prefs
+
+
+echo "Installing Base Menus..."
+IF NOT EXISTS "WHDLOADDIR:Menu/AGS2Games"
+  MakePath "WHDLOADDIR:Menu/AGS2Games" >NIL:
+ENDIF
+unzip -qq -o -x PACKAGEDIR:ags2.zip -d WHDLOADDIR:Menu/AGS2Games/
 IF NOT EXISTS "WHDLOADDIR:Menu/AGS2Games/Music"
-  makedir "WHDLOADDIR:Menu/AGS2Games/Music" >NIL:
+  MakePath "WHDLOADDIR:Menu/AGS2Games/Music" >NIL:
 ENDIF
 IF NOT EXISTS "WHDLOADDIR:Menu/AGS2Games/.Favourites.ags"
   IF NOT EXISTS "WHDLOADDIR:Menu/AGS2Games/.Favourites.ag_"
-    makedir >NIL: "WHDLOADDIR:Menu/AGS2Games/.Favourites.ag_"
+    MakePath >NIL: "WHDLOADDIR:Menu/AGS2Games/.Favourites.ag_"
   ENDIF
 ENDIF
 
-echo "Installing Menu WHDLoad Content..."
-unzip -qq -o -x PACKAGEDIR:menu-whdload-content.zip -d WHDLOADDIR:WHDLoad/Games/
+IF NOT EXISTS "WHDLOADDIR:Menu/HSTGames"
+  MakePath "WHDLOADDIR:Menu/HSTGames" >NIL:
+ENDIF
+unzip -qq -o -x PACKAGEDIR:hst.zip -d WHDLOADDIR:Menu/HSTGames/ 
+IF NOT EXISTS "WHDLOADDIR:Menu/HSTGames1MB"
+  MakePath "WHDLOADDIR:Menu/HSTGames1MB" >NIL:
+ENDIF
+unzip -qq -o -x PACKAGEDIR:hst.zip -d WHDLOADDIR:Menu/HSTGames1MB/
 
-; Create systemdir games directory, if it doesn't exist
-IF NOT EXISTS SYSTEMDIR:Games
-  makedir >NIL: SYSTEMDIR:Games
+
+; Install set
+set installset `RequestChoice "Games OCS menu set" "Select Games OCS menu set to install." "All|4GB"`
+
+IF $installset EQ 1 VAL
+  echo "Selected All"
+  echo "Installing AGS2 Games Menu..."
+  unzip -qq -o -x PACKAGEDIR:ags2-games.zip -d WHDLOADDIR:Menu/AGS2Games/
+  echo "Installing HST Games Menu..."
+  unzip -qq -o -x PACKAGEDIR:hst-games.zip -d WHDLOADDIR:Menu/HSTGames/
+  echo "Installing Games Frontends..."
+  unzip -qq -o -x PACKAGEDIR:frontends-games.zip -d SYSTEMDIR:Games/
+  echo "Installing Games Data..."
+  unzip -qq -o -x PACKAGEDIR:data-games.zip -d WHDLOADDIR:WHDLoad/Games/
 ENDIF
 
-echo "Installing AGS2 menu support files..."
-unzip -qq -o -x PACKAGEDIR:ags2menu-support-files.zip -d SYSTEMDIR:
+IF $installset EQ 0 VAL
+  echo "Selected 4GB"
+  echo "Installing AGS2 Games 4GB Menu..."
+  unzip -qq -o -x PACKAGEDIR:ags2-games4gb.zip -d WHDLOADDIR:Menu/AGS2Games/
+  echo "Installing HST Games 4GB Menu..."
+  unzip -qq -o -x PACKAGEDIR:hst-games4gb.zip -d WHDLOADDIR:Menu/HSTGames/
+  echo "Installing Games 4GB Frontends..."
+  unzip -qq -o -x PACKAGEDIR:frontends-games4gb.zip -d SYSTEMDIR:Games/
+  echo "Installing Games 4GB Data..."
+  unzip -qq -o -x PACKAGEDIR:data-games4gb.zip -d WHDLOADDIR:WHDLoad/Games/
+ENDIF 
+echo "Installing HST Games 4GB 1MB Menu..."
+unzip -qq -o -x PACKAGEDIR:hst-games4gb1mb.zip -d WHDLOADDIR:Menu/HSTGames1MB/
+
+
+echo "Installing System Files..."
+unzip -qq -o -x PACKAGEDIR:system-files.zip -d SYSTEMDIR:
+
 
 ; Add icon for configuration drawer, if it doesn't exist
 IF NOT EXISTS SYSTEMDIR:Programs/Configuration.info
@@ -96,140 +163,133 @@ ELSE
   ENDIF
 ENDIF
 
-; Fix read write execute flags for ags2 menu support files
-protect >NIL: SYSTEMDIR:C/Aren +rwe
-protect >NIL: SYSTEMDIR:C/basename +rwe
-protect >NIL: SYSTEMDIR:C/cut +rwe
-protect >NIL: SYSTEMDIR:C/dirname +rwe
-protect >NIL: SYSTEMDIR:C/EasyMOD +rwe
-protect >NIL: SYSTEMDIR:C/filepick +rwe
-protect >NIL: SYSTEMDIR:C/FRSort +rwe
-protect >NIL: SYSTEMDIR:C/FSearch +rwe
-protect >NIL: SYSTEMDIR:C/GetLines +rwe
-protect >NIL: SYSTEMDIR:C/Rep +rwe
-protect >NIL: SYSTEMDIR:C/ReqList +rwe
-protect >NIL: SYSTEMDIR:C/RequestString +rwe
-protect >NIL: SYSTEMDIR:C/sed +rwe
-protect >NIL: SYSTEMDIR:C/tail +rwe
-protect >NIL: SYSTEMDIR:C/tr +rwe
-protect >NIL: SYSTEMDIR:C/wc +rwe
 
-; Create settings directory, if it doesn't exist
-IF NOT EXISTS SYSTEMDIR:S/Settings
-  makedir >NIL: SYSTEMDIR:S/Settings
+; Create systemdir whdload prefs directory, if it doesn't exist
+IF NOT EXISTS SYSTEMDIR:Prefs/WHDLoad
+  MakePath >NIL: SYSTEMDIR:Prefs/WHDLoad
 ENDIF
 
-; Create default whdloadargs for ags2 menus, if it doesn't exist
-IF NOT EXISTS SYSTEMDIR:S/Settings/whdloadargs
-  echo "Preload" > SYSTEMDIR:S/Settings/whdloadargs
+; Create default whdloadargs, if it doesn't exist
+IF NOT EXISTS SYSTEMDIR:Prefs/WHDLoad/whdloadargs
+  echo "Preload" > SYSTEMDIR:Prefs/WHDLoad/whdloadargs
 ENDIF
 
-; Create ags2music settings to turn on music in ags2 menu
-IF NOT EXISTS SYSTEMDIR:S/Settings/ags2music
-  echo "" NOLINE > SYSTEMDIR:S/Settings/ags2music
+; Create systemdir ags2 prefs directory, if it doesn't exist
+IF NOT EXISTS SYSTEMDIR:Prefs/AGS2
+  MakePath >NIL: SYSTEMDIR:Prefs/AGS2
 ENDIF
 
-; Add ags2 startup to startup sequence, if it doesn't exist
-search SYSTEMDIR:S/Startup-Sequence "execute S:AGS2Startup" >NIL:
-IF WARN 
-  rep SYSTEMDIR:S/Startup-Sequence "BindDrivers" "IF EXISTS S:AGS2Startup*N  execute S:AGS2Startup*NENDIF*N*NBindDrivers"
+; Create ags2music prefs to turn on music in ags2 menu
+IF NOT EXISTS SYSTEMDIR:Prefs/AGS2/ags2music
+  echo "" NOLINE > SYSTEMDIR:Prefs/AGS2/ags2music
 ENDIF
 
-
-; Configure ClassicWB
-; -------------------
-
-; Skip, if assign startup doesn't exist
-IF NOT EXISTS SYSTEMDIR:S/Assign-Startup
-  SKIP hstwb
+; Create systemdir hst launcher prefs directory, if it doesn't exist
+IF NOT EXISTS SYSTEMDIR:Prefs/HSTLauncher
+  MakePath >NIL: SYSTEMDIR:Prefs/HSTLauncher
 ENDIF
 
-; Skip, if assign startup doesn't contain "ClassicWB"
-search SYSTEMDIR:S/Assign-Startup "ClassicWB" >NIL:
+; Create systemdir igame prefs directory, if it doesn't exist
+IF NOT EXISTS SYSTEMDIR:Prefs/iGame
+  MakePath >NIL: SYSTEMDIR:Prefs/iGame
+ENDIF
+
+; Add menu startup to startup sequence, if it doesn't exist
+search SYSTEMDIR:S/Startup-Sequence "execute S:Menu-Startup" >NIL:
 IF WARN
-  SKIP hstwb
+  ; Make backup of startup sequence, if it doesn't exist
+  IF NOT EXISTS SYSTEMDIR:S/Startup-Sequence.menu.bak
+    copy >NIL: SYSTEMDIR:S/Startup-Sequence SYSTEMDIR:S/Startup-Sequence.menu.bak
+  ENDIF
+
+  ; Check if startup sequence contains "BindDrivers"
+  search SYSTEMDIR:S/Startup-Sequence "BindDrivers" >NIL:
+  IF WARN
+    ; Add menu startup to beginning of startup sequence
+    echo "IF EXISTS S:Menu-Startup*N  execute S:Menu-Startup*NENDIF*N*NBindDrivers" >T:Startup-Sequence
+    echo "" >>T:Startup-Sequence
+    type SYSTEMDIR:S/Startup-Sequence >>T:Startup-Sequence
+  ELSE
+    ; Add menu startup before bind drivers in startup sequence
+    rep SYSTEMDIR:S/Startup-Sequence "BindDrivers" "IF EXISTS S:Menu-Startup*N  execute S:Menu-Startup*NENDIF*N*NBindDrivers"
+  ENDIF
 ENDIF
 
-echo "Configuring ClassicWB..."
 
+; Configure assigns
+; -----------------
 
-; Add or update A-Games to user-assign
-set gamespath "`execute INSTALLDIR:S/CombinePath "$WHDLOADDIR" "WHDLoad/Games"`"
+echo "Configuring Assigns..."
+
+; Create assign startup, if it doesn't exist
+IF NOT EXISTS SYSTEMDIR:S/Assign-Startup
+	echo "" NOLINE >SYSTEMDIR:S/Assign-Startup
+ENDIF
+
+; Add execute assign startup to startup sequence, if it not ClassicWB and doesn't contain execute assign startup
+search SYSTEMDIR:S/Startup-Sequence "ClassicWB" >NIL:
+IF WARN
+  search SYSTEMDIR:S/Startup-Sequence "execute S:Assign-Startup" >NIL:
+  IF WARN
+    rep SYSTEMDIR:S/Startup-Sequence "BindDrivers" "IF EXISTS S:Assign-Startup*N  execute S:Assign-Startup*NENDIF*N*NBindDrivers"
+  ENDIF
+ENDIF
+
+; Add or update A-Games assign
+set gamesdir "`execute INSTALLDIR:S/CombinePath "$WHDLOADDIR" "WHDLoad/Games"`"
 search SYSTEMDIR:S/Assign-Startup "A-Games:" >NIL:
 IF WARN 
-	echo "Assign >NIL: A-Games: $gamespath" >>SYSTEMDIR:S/Assign-Startup
+	echo "Assign >NIL: A-Games: $gamesdir" >>SYSTEMDIR:S/Assign-Startup
 ELSE
-  setenv updateassign `RequestChoice "Update assign" "A-Games: assign already exists and must be updated to*Npath '$gamespath'.*N*NNote: Updating assign requires a reboot after*Ninstallation is done!*N*NDo you want to update A-Games: assign?" "Yes|No"`
+  setenv updateassign `RequestChoice "Update assign" "A-Games: assign already exists and must be updated to*Npath '$gamesdir'.*N*NNote: Updating assign requires a reboot after*Ninstallation is done!*N*NDo you want to update A-Games: assign?" "Yes|No"`
   IF "$updateassign" EQ "1"
-    echo "$gamespath" >T:gamespath
-    set gamespath "`sed "s/\//\\\//g" T:gamespath`"
-    sed "s/\([Aa]-[Gg][Aa][Mm][Ee][Ss]:\)/\1 $gamespath;/" "SYSTEMDIR:S/Assign-Startup" >"T:Assign-Startup"
+    echo "$gamesdir" >T:_gamesdir
+    set gamesdir "`sed "s/\//\\\//g" T:_gamesdir`"
+    sed "s/\([Aa]-[Gg][Aa][Mm][Ee][Ss]:\)/\1 $gamesdir;/" "SYSTEMDIR:S/Assign-Startup" >"T:Assign-Startup"
     copy >NIL: "T:Assign-Startup" "SYSTEMDIR:S/Assign-Startup"
-  ENDIF   
-ENDIF
-
-SKIP configuremenus
-
-
-; Configure HstWB
-; ---------------
-LAB hstwb
-
-; Skip, if user assign doesn't exist
-IF EXISTS SYSTEMDIR:S/User-Assign
-  echo "Configuring HstWB..."
-ELSE
-  echo "Configuring Workbench..."
-	echo "" NOLINE >SYSTEMDIR:S/User-Assign
-ENDIF
-
-; Add execute user assign to startup sequence, if it doesn't exist
-search SYSTEMDIR:S/Startup-Sequence "execute S:User-Assign" >NIL:
-IF WARN 
-  rep SYSTEMDIR:S/Startup-Sequence "BindDrivers" "IF EXISTS S:User-Assign*N  execute S:User-Assign*NENDIF*N*NBindDrivers"
-ENDIF
-
-; Add or update A-Games to user-assign
-set gamespath "`execute INSTALLDIR:S/CombinePath "$WHDLOADDIR" "WHDLoad/Games"`"
-search SYSTEMDIR:S/User-Assign "A-Games:" >NIL:
-IF WARN 
-	echo "Assign >NIL: A-Games: $gamespath" >>SYSTEMDIR:S/User-Assign
-ELSE
-  setenv updateassign `RequestChoice "Update assign" "A-Games: assign already exists and must be updated to*Npath '$gamespath'.*N*NNote: Updating assign requires a reboot after*Ninstallation is done!*N*NDo you want to update A-Games: assign?" "Yes|No"`
-  IF "$updateassign" EQ "1"
-    echo "$gamespath" >T:gamespath
-    set gamespath "`sed "s/\//\\\//g" T:gamespath`"
-    sed "s/\([Aa]-[Gg][Aa][Mm][Ee][Ss]:\)/\1 $gamespath;/" "SYSTEMDIR:S/User-Assign" >"T:User-Assign"
-    copy >NIL: "T:User-Assign" "SYSTEMDIR:S/User-Assign"
   ENDIF   
 ENDIF
 
 
 ; Configure menus
-; ------------------------
+; ---------------
 LAB configuremenus
 
-; Add or update ags2 games menu dir to ags2menu.data
-set ags2gamesmenupath "`execute INSTALLDIR:S/CombinePath "$WHDLOADDIR" "Menu/AGS2Games"`"
-search SYSTEMDIR:S/AGS2Menu.data "AGS2GamesMenuDir=" >NIL:
-IF WARN 
-	echo "AGS2GamesMenuDir=$ags2gamesmenupath" >>SYSTEMDIR:S/AGS2Menu.data
+echo "Configuring Menus..."
+
+; Add or update AGS2Menus.cfg
+set ags2gamesdir "`execute INSTALLDIR:S/CombinePath "$WHDLOADDIR" "Menu/AGS2Games"`"
+search SYSTEMDIR:Prefs/AGS2/AGS2Menus.cfg "AGS2Games=" >NIL:
+IF WARN
+  echo "AGS2Games=$ags2gamesdir" >>SYSTEMDIR:Prefs/AGS2/AGS2Menus.cfg
 ELSE
-  rep SYSTEMDIR:S/AGS2Menu.data "AGS2GamesMenuDir=" "AGS2GamesMenuDir=$ags2gamesmenupath*N; "
+  rep SYSTEMDIR:Prefs/AGS2/AGS2Menus.cfg "AGS2Games=" "AGS2Games=$ags2gamesdir*N; "
 ENDIF
 
-; Add or update igame games menu dir to igamemenu.data
-set igamegamesmenupath "`execute INSTALLDIR:S/CombinePath "$SYSTEMDIR" "Games"`"
-search SYSTEMDIR:S/iGameMenu.data "iGameGamesMenuDir=" >NIL:
-IF WARN 
-	echo "iGameGamesMenuDir=$igamegamesmenupath" >>SYSTEMDIR:S/iGameMenu.data
+; Add or update iGameMenus.cfg
+set igamegamesdir "`execute INSTALLDIR:S/CombinePath "$SYSTEMDIR" "Games"`"
+search SYSTEMDIR:Prefs/iGame/iGameMenus.cfg "iGameGames=" >NIL:
+IF WARN
+  echo "iGameGames=$igamegamesdir" >>SYSTEMDIR:Prefs/iGame/iGameMenus.cfg
 ELSE
-  rep SYSTEMDIR:S/iGameMenu.data "iGameGamesMenuDir=" "iGameGamesMenuDir=$igamegamesmenupath*N; "
+  rep SYSTEMDIR:Prefs/iGame/iGameMenus.cfg "iGameGames=" "iGameGames=$igamegamesdir*N; "
 ENDIF
 
-echo "Installing Game Frontends..."
-unzip -qq -o -x PACKAGEDIR:game-frontends.zip -d SYSTEMDIR:Games/
-
+; Add or update HSTLauncherMenus.cfg
+set hstgamesdir "`execute INSTALLDIR:S/CombinePath "$WHDLOADDIR" "Menu/HSTGames"`"
+search SYSTEMDIR:Prefs/HSTLauncher/HSTLauncherMenus.cfg "HSTGames=" >NIL:
+IF WARN
+  echo "HSTGames=$hstgamesdir" >>SYSTEMDIR:Prefs/HSTLauncher/HSTLauncherMenus.cfg
+ELSE
+  rep SYSTEMDIR:Prefs/HSTLauncher/HSTLauncherMenus.cfg "HSTGames=" "HSTGames=$hstgamesdir*N; "
+ENDIF
+set hstgames1mbdir "`execute INSTALLDIR:S/CombinePath "$WHDLOADDIR" "Menu/HSTGames1MB"`"
+search SYSTEMDIR:Prefs/HSTLauncher/HSTLauncherMenus.cfg "HSTGames1MB=" >NIL:
+IF WARN
+  echo "HSTGames1MB=$hstgames1mbdir" >>SYSTEMDIR:Prefs/HSTLauncher/HSTLauncherMenus.cfg
+ELSE
+  rep SYSTEMDIR:Prefs/HSTLauncher/HSTLauncherMenus.cfg "HSTGames1MB=" "HSTGames=$hstgames1mbdir*N; "
+ENDIF
 
 ; End
 LAB end
