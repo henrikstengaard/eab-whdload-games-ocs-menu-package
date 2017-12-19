@@ -1,5 +1,0 @@
-echo "*ec"
-execute S:WHDLoadArgRemove Preload
-echo "WHDLoad Preload turned off"
-wait 3
-echo "*ec"

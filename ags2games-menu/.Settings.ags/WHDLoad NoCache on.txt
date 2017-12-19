@@ -1,6 +1,0 @@
-Turn on WHDLoad NoCache
-
-WHDLOAD will disable all caches.
-
-Use this option as an attempt to
-slow down games or demos.

@@ -1,5 +1,0 @@
-echo "*ec"
-execute S:WHDLoadArgAdd NoVBRMove
-echo "WHDLoad NoVBRMove turned on"
-wait 3
-echo "*ec"

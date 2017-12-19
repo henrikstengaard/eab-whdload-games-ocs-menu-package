@@ -1,5 +1,0 @@
-echo "*ec"
-execute S:WHDLoadArgAdd Preload
-echo "WHDLoad Preload turned on"
-wait 3
-echo "*ec"

@@ -1,5 +1,0 @@
-echo "*ec"
-execute S:WHDLoadArgRemove ButtonWait
-echo "WHDLoad ButtonWait turned off"
-wait 3
-echo "*ec"

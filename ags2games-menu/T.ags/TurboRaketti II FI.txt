@@ -1,6 +1,0 @@
-Name      : TurboRaketti II
-Language  : Finnish
-Publisher : (unknown)
-Year      : 1993
-Players   : 2 Only, Simultaneous
-RunFile   : TurboRaketti2Fi.Slave
