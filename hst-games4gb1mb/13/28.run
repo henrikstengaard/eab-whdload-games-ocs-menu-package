@@ -1,7 +1,7 @@
 ; Run WHDLoad
-cd "A-Games:L/Lotus/"
+cd "A-Games:L/LordsOfChaos&DataDisk/"
 IF EXISTS ENV:whdloadargs
-  whdload "Lotus.Slave" $whdloadargs
+  whdload "LordsOfChaos&DataDisk.Slave" $whdloadargs
 ELSE
-  whdload "Lotus.Slave"
+  whdload "LordsOfChaos&DataDisk.Slave"
 ENDIF

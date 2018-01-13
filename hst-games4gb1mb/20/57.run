@@ -1,7 +1,7 @@
 ; Run WHDLoad
-cd "A-Games:S/SonShuShi/"
+cd "A-Games:S/SoldierOfLight/"
 IF EXISTS ENV:whdloadargs
-  whdload "SonShuShi.Slave" $whdloadargs
+  whdload "SoldierOfLight.slave" $whdloadargs
 ELSE
-  whdload "SonShuShi.Slave"
+  whdload "SoldierOfLight.slave"
 ENDIF

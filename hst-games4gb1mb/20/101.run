@@ -1,7 +1,7 @@
 ; Run WHDLoad
-cd "A-Games:S/Stratego/"
+cd "A-Games:S/StegTheSlug/"
 IF EXISTS ENV:whdloadargs
-  whdload "Stratego.Slave" $whdloadargs
+  whdload "StegTheSlug.slave" $whdloadargs
 ELSE
-  whdload "Stratego.Slave"
+  whdload "StegTheSlug.slave"
 ENDIF

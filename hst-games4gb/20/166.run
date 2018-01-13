@@ -1,7 +1,7 @@
 ; Run WHDLoad
-cd "A-Games:S/SphericalWorlds/"
+cd "A-Games:S/Speedball/"
 IF EXISTS ENV:whdloadargs
-  whdload "SphericalWorlds.Slave" $whdloadargs
+  whdload "Speedball.slave" $whdloadargs
 ELSE
-  whdload "SphericalWorlds.Slave"
+  whdload "Speedball.slave"
 ENDIF

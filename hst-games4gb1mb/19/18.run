@@ -1,7 +1,7 @@
 ; Run WHDLoad
-cd "A-Games:R/Resolution101/"
+cd "A-Games:R/Renegades/"
 IF EXISTS ENV:whdloadargs
-  whdload "Resolution101.Slave" $whdloadargs
+  whdload "RenegadesEditor.Slave" $whdloadargs
 ELSE
-  whdload "Resolution101.Slave"
+  whdload "RenegadesEditor.Slave"
 ENDIF

@@ -1,7 +1,7 @@
 ; Run WHDLoad
-cd "A-Games:T/Tracker/"
+cd "A-Games:T/TowerToppler/"
 IF EXISTS ENV:whdloadargs
-  whdload "Tracker.Slave" $whdloadargs
+  whdload "TowerToppler.slave" $whdloadargs
 ELSE
-  whdload "Tracker.Slave"
+  whdload "TowerToppler.slave"
 ENDIF

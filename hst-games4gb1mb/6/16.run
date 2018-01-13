@@ -1,7 +1,7 @@
 ; Run WHDLoad
-cd "A-Games:E/Erik/"
+cd "A-Games:E/Entity/"
 IF EXISTS ENV:whdloadargs
-  whdload "Erik.Slave" $whdloadargs
+  whdload "Entity.slave" $whdloadargs
 ELSE
-  whdload "Erik.Slave"
+  whdload "Entity.slave"
 ENDIF

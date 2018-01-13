@@ -1,7 +1,7 @@
 ; Run WHDLoad
-cd "A-Games:S/Subbuteo/"
+cd "A-Games:S/Stryx/"
 IF EXISTS ENV:whdloadargs
-  whdload "Subbuteo.Slave" $whdloadargs
+  whdload "Stryx.Slave" $whdloadargs
 ELSE
-  whdload "Subbuteo.Slave"
+  whdload "Stryx.Slave"
 ENDIF

@@ -1,7 +1,7 @@
 ; Run WHDLoad
-cd "A-Games:T/TubularWorldsECS/"
+cd "A-Games:T/TopGear2/"
 IF EXISTS ENV:whdloadargs
-  whdload "TubularWorldsECS512K.Slave" $whdloadargs
+  whdload "TopGear2.Slave" $whdloadargs
 ELSE
-  whdload "TubularWorldsECS512K.Slave"
+  whdload "TopGear2.Slave"
 ENDIF

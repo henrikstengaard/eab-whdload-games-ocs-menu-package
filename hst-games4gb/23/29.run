@@ -1,7 +1,7 @@
 ; Run WHDLoad
-cd "A-Games:V/Vyrus/"
+cd "A-Games:V/VroomMultiPlayer/"
 IF EXISTS ENV:whdloadargs
-  whdload "Vyrus.Slave" $whdloadargs
+  whdload "VroomMultiplayer.Slave" $whdloadargs
 ELSE
-  whdload "Vyrus.Slave"
+  whdload "VroomMultiplayer.Slave"
 ENDIF

@@ -1,7 +1,7 @@
 ; Run WHDLoad
-cd "A-Games:T/TrexWarrior/"
+cd "A-Games:T/Toki/"
 IF EXISTS ENV:whdloadargs
-  whdload "TrexWarrior.slave" $whdloadargs
+  whdload "Toki.Slave" $whdloadargs
 ELSE
-  whdload "TrexWarrior.slave"
+  whdload "Toki.Slave"
 ENDIF

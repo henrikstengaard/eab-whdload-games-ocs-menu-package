@@ -1,7 +1,7 @@
 ; Run WHDLoad
-cd "A-Games:S/Subtrade/"
+cd "A-Games:S/StripPoker2+&DataDisk1/"
 IF EXISTS ENV:whdloadargs
-  whdload "Subtrade.slave" $whdloadargs
+  whdload "StripPoker2+&DataDisk1.Slave" $whdloadargs
 ELSE
-  whdload "Subtrade.slave"
+  whdload "StripPoker2+&DataDisk1.Slave"
 ENDIF

@@ -1,7 +1,7 @@
 ; Run WHDLoad
-cd "A-Games:T/TurboCup/"
+cd "A-Games:T/Tornado/"
 IF EXISTS ENV:whdloadargs
-  whdload "TurboCup.Slave" $whdloadargs
+  whdload "Tornado.slave" $whdloadargs
 ELSE
-  whdload "TurboCup.Slave"
+  whdload "Tornado.slave"
 ENDIF

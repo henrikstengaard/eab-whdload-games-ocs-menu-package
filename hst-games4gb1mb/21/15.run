@@ -1,7 +1,7 @@
 ; Run WHDLoad
-cd "A-Games:T/Terramex/"
+cd "A-Games:T/TennisCup512Kb/"
 IF EXISTS ENV:whdloadargs
-  whdload "Terramex.Slave" $whdloadargs
+  whdload "TennisCup512Kb.Slave" $whdloadargs
 ELSE
-  whdload "Terramex.Slave"
+  whdload "TennisCup512Kb.Slave"
 ENDIF

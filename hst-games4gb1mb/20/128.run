@@ -1,7 +1,7 @@
 ; Run WHDLoad
-cd "A-Games:S/SuperSpaceInvaders/"
+cd "A-Games:S/SuperMonacoGP/"
 IF EXISTS ENV:whdloadargs
-  whdload "SuperSpaceInvaders.slave" $whdloadargs
+  whdload "SuperMonacoGP.slave" $whdloadargs
 ELSE
-  whdload "SuperSpaceInvaders.slave"
+  whdload "SuperMonacoGP.slave"
 ENDIF

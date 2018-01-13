@@ -1,7 +1,7 @@
 ; Run WHDLoad
-cd "A-Games:S/Spot/"
+cd "A-Games:S/SpellBound/"
 IF EXISTS ENV:whdloadargs
-  whdload "Spot.Slave" $whdloadargs
+  whdload "SpellBound.Slave" $whdloadargs
 ELSE
-  whdload "Spot.Slave"
+  whdload "SpellBound.Slave"
 ENDIF

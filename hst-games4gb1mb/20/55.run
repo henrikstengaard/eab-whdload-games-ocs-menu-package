@@ -1,7 +1,7 @@
 ; Run WHDLoad
-cd "A-Games:S/SolomonsKey2/"
+cd "A-Games:S/SoccerPinball/"
 IF EXISTS ENV:whdloadargs
-  whdload "SolomonsKey2.Slave" $whdloadargs
+  whdload "SoccerPinball.slave" $whdloadargs
 ELSE
-  whdload "SolomonsKey2.Slave"
+  whdload "SoccerPinball.slave"
 ENDIF

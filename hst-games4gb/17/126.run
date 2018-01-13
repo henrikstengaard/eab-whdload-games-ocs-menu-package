@@ -1,7 +1,7 @@
 ; Run WHDLoad
-cd "A-Games:P/Puzznic/"
+cd "A-Games:P/PushOver/"
 IF EXISTS ENV:whdloadargs
-  whdload "Puzznic.Slave" $whdloadargs
+  whdload "PushOver.slave" $whdloadargs
 ELSE
-  whdload "Puzznic.Slave"
+  whdload "PushOver.slave"
 ENDIF

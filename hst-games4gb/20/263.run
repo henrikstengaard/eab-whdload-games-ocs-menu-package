@@ -1,7 +1,7 @@
 ; Run WHDLoad
-cd "A-Games:S/Swooper/"
+cd "A-Games:S/SuperTwintris/"
 IF EXISTS ENV:whdloadargs
-  whdload "Swooper.Slave" $whdloadargs
+  whdload "SuperTwintris.Slave" $whdloadargs
 ELSE
-  whdload "Swooper.Slave"
+  whdload "SuperTwintris.Slave"
 ENDIF

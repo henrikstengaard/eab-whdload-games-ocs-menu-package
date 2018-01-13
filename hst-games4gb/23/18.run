@@ -1,7 +1,7 @@
 ; Run WHDLoad
-cd "A-Games:V/VitalLight/"
+cd "A-Games:V/Virus/"
 IF EXISTS ENV:whdloadargs
-  whdload "VitalLight.slave" $whdloadargs
+  whdload "Virus.slave" $whdloadargs
 ELSE
-  whdload "VitalLight.slave"
+  whdload "Virus.slave"
 ENDIF

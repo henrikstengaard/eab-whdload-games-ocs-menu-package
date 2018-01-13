@@ -1,7 +1,7 @@
 ; Run WHDLoad
-cd "A-Games:S/SheFox/"
+cd "A-Games:S/ShadowWarriors/"
 IF EXISTS ENV:whdloadargs
-  whdload "SheFox.slave" $whdloadargs
+  whdload "ShadowWarriors.Slave" $whdloadargs
 ELSE
-  whdload "SheFox.slave"
+  whdload "ShadowWarriors.Slave"
 ENDIF

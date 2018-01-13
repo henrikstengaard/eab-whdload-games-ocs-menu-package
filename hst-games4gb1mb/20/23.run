@@ -1,7 +1,7 @@
 ; Run WHDLoad
-cd "A-Games:S/SevenGatesOfJambalaImage/"
+cd "A-Games:S/SensibleSoccerIntEd/"
 IF EXISTS ENV:whdloadargs
-  whdload "SevenGatesOfJambalaImage.slave" $whdloadargs
+  whdload "SensibleSoccerIntEd512K.Slave" $whdloadargs
 ELSE
-  whdload "SevenGatesOfJambalaImage.slave"
+  whdload "SensibleSoccerIntEd512K.Slave"
 ENDIF

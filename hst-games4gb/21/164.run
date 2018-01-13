@@ -1,7 +1,7 @@
 ; Run WHDLoad
-cd "A-Games:T/TurnNBurn/"
+cd "A-Games:T/TotalEclipse/"
 IF EXISTS ENV:whdloadargs
-  whdload "TurnNBurn.slave" $whdloadargs
+  whdload "TotalEclipse.Slave" $whdloadargs
 ELSE
-  whdload "TurnNBurn.slave"
+  whdload "TotalEclipse.Slave"
 ENDIF

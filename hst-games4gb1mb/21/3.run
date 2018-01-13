@@ -1,7 +1,7 @@
 ; Run WHDLoad
-cd "A-Games:G/GamesSummerEdition/"
+cd "A-Games:F/FourCrystalsOfTrazere/"
 IF EXISTS ENV:whdloadargs
-  whdload "GamesSummerEdition.Slave" $whdloadargs
+  whdload "FourCrystalsOfTrazere.Slave" $whdloadargs
 ELSE
-  whdload "GamesSummerEdition.Slave"
+  whdload "FourCrystalsOfTrazere.Slave"
 ENDIF

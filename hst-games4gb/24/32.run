@@ -1,7 +1,7 @@
 ; Run WHDLoad
-cd "A-Games:W/WembleyRugbyLeague/"
+cd "A-Games:W/WembleyIntSoccer/"
 IF EXISTS ENV:whdloadargs
-  whdload "WembleyRugbyLeague.Slave" $whdloadargs
+  whdload "WembleyIntSoccer.Slave" $whdloadargs
 ELSE
-  whdload "WembleyRugbyLeague.Slave"
+  whdload "WembleyIntSoccer.Slave"
 ENDIF

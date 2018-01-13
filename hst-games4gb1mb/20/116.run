@@ -1,7 +1,7 @@
 ; Run WHDLoad
-cd "A-Games:S/SummerGames&SummerGames2/"
+cd "A-Games:S/SuburbanCommando/"
 IF EXISTS ENV:whdloadargs
-  whdload "SummerGames&SummerGames2.slave" $whdloadargs
+  whdload "SuburbanCommando.Slave" $whdloadargs
 ELSE
-  whdload "SummerGames&SummerGames2.slave"
+  whdload "SuburbanCommando.Slave"
 ENDIF

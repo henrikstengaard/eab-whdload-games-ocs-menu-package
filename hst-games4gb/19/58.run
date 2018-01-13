@@ -1,7 +1,7 @@
 ; Run WHDLoad
-cd "A-Games:R/RoboCop/"
+cd "A-Games:R/RobinsonsRequiem/"
 IF EXISTS ENV:whdloadargs
-  whdload "RoboCop.Slave" $whdloadargs
+  whdload "RobinsonsRequiem.Slave" $whdloadargs
 ELSE
-  whdload "RoboCop.Slave"
+  whdload "RobinsonsRequiem.Slave"
 ENDIF

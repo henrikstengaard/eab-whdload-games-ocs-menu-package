@@ -1,7 +1,7 @@
 ; Run WHDLoad
-cd "A-Games:M/MortonStrikesBack/"
+cd "A-Games:M/MortalKombat21MB/"
 IF EXISTS ENV:whdloadargs
-  whdload "MortonStrikesBack.Slave" $whdloadargs
+  whdload "MortalKombat21MB.slave" $whdloadargs
 ELSE
-  whdload "MortonStrikesBack.Slave"
+  whdload "MortalKombat21MB.slave"
 ENDIF

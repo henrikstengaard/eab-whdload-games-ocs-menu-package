@@ -1,7 +1,7 @@
 ; Run WHDLoad
-cd "A-Games:D/DrFruit/"
+cd "A-Games:D/DreamWeb/"
 IF EXISTS ENV:whdloadargs
-  whdload "DrFruit.Slave" $whdloadargs
+  whdload "DreamWeb.Slave" $whdloadargs
 ELSE
-  whdload "DrFruit.Slave"
+  whdload "DreamWeb.Slave"
 ENDIF

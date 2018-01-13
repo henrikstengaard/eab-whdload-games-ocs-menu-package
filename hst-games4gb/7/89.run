@@ -1,7 +1,7 @@
 ; Run WHDLoad
-cd "A-Games:F/FootballManager2/"
+cd "A-Games:F/FootballGlory/"
 IF EXISTS ENV:whdloadargs
-  whdload "FootballManager2.slave" $whdloadargs
+  whdload "FootballGlory.Slave" $whdloadargs
 ELSE
-  whdload "FootballManager2.slave"
+  whdload "FootballGlory.Slave"
 ENDIF

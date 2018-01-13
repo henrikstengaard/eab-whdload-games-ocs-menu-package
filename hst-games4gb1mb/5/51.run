@@ -1,7 +1,7 @@
 ; Run WHDLoad
-cd "A-Games:D/DynastyWars/"
+cd "A-Games:D/DynamiteDux/"
 IF EXISTS ENV:whdloadargs
-  whdload "DynastyWars.slave" $whdloadargs
+  whdload "DynamiteDux.Slave" $whdloadargs
 ELSE
-  whdload "DynastyWars.slave"
+  whdload "DynamiteDux.Slave"
 ENDIF

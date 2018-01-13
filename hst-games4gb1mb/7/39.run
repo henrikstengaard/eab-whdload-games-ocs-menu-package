@@ -1,7 +1,7 @@
 ; Run WHDLoad
-cd "A-Games:F/FutureShock/"
+cd "A-Games:F/FullContact/"
 IF EXISTS ENV:whdloadargs
-  whdload "FutureShock.slave" $whdloadargs
+  whdload "FullContact.slave" $whdloadargs
 ELSE
-  whdload "FutureShock.slave"
+  whdload "FullContact.slave"
 ENDIF

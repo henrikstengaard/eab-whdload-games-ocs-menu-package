@@ -1,7 +1,7 @@
 ; Run WHDLoad
-cd "A-Games:S/SecretOfMonkeyIsland/"
+cd "A-Games:S/SecondSamurai/"
 IF EXISTS ENV:whdloadargs
-  whdload "SecretOfMonkeyIsland.slave" $whdloadargs
+  whdload "SecondSamurai.slave" $whdloadargs
 ELSE
-  whdload "SecretOfMonkeyIsland.slave"
+  whdload "SecondSamurai.slave"
 ENDIF

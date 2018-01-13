@@ -1,7 +1,7 @@
 ; Run WHDLoad
-cd "A-Games:S/Supremacy/"
+cd "A-Games:S/SuperScrambleSimulator/"
 IF EXISTS ENV:whdloadargs
-  whdload "Supremacy.Slave" $whdloadargs
+  whdload "SuperScrambleSimulator.slave" $whdloadargs
 ELSE
-  whdload "Supremacy.Slave"
+  whdload "SuperScrambleSimulator.slave"
 ENDIF

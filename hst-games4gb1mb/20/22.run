@@ -1,7 +1,7 @@
 ; Run WHDLoad
-cd "A-Games:S/Sentinel/"
+cd "A-Games:S/SensibleSoccerEuro/"
 IF EXISTS ENV:whdloadargs
-  whdload "Sentinel.slave" $whdloadargs
+  whdload "SensibleSoccerEuro512K.Slave" $whdloadargs
 ELSE
-  whdload "Sentinel.slave"
+  whdload "SensibleSoccerEuro512K.Slave"
 ENDIF

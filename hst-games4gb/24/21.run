@@ -1,7 +1,7 @@
 ; Run WHDLoad
-cd "A-Games:W/Waterloo/"
+cd "A-Games:W/WarZoneParadox/"
 IF EXISTS ENV:whdloadargs
-  whdload "Waterloo.Slave" $whdloadargs
+  whdload "WarzoneParadox.Slave" $whdloadargs
 ELSE
-  whdload "Waterloo.Slave"
+  whdload "WarzoneParadox.Slave"
 ENDIF

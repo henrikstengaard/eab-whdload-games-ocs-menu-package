@@ -1,7 +1,7 @@
 ; Run WHDLoad
-cd "A-Games:M/MissionElevator/"
+cd "A-Games:M/Minskies/"
 IF EXISTS ENV:whdloadargs
-  whdload "MissionElevator.Slave" $whdloadargs
+  whdload "Minskies.slave" $whdloadargs
 ELSE
-  whdload "MissionElevator.Slave"
+  whdload "Minskies.slave"
 ENDIF

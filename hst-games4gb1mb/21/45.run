@@ -1,7 +1,7 @@
 ; Run WHDLoad
-cd "A-Games:T/TowerOfBabel/"
+cd "A-Games:T/TournamentGolf/"
 IF EXISTS ENV:whdloadargs
-  whdload "TowerOfBabel.Slave" $whdloadargs
+  whdload "TournamentGolf.Slave" $whdloadargs
 ELSE
-  whdload "TowerOfBabel.Slave"
+  whdload "TournamentGolf.Slave"
 ENDIF

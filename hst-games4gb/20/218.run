@@ -1,7 +1,7 @@
 ; Run WHDLoad
-cd "A-Games:S/STUNRunner/"
+cd "A-Games:S/Strider2/"
 IF EXISTS ENV:whdloadargs
-  whdload "STUNRunner.Slave" $whdloadargs
+  whdload "Strider2.Slave" $whdloadargs
 ELSE
-  whdload "STUNRunner.Slave"
+  whdload "Strider2.Slave"
 ENDIF

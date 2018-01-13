@@ -1,7 +1,7 @@
 ; Run WHDLoad
-cd "A-Games:S/SensibleSoccer/"
+cd "A-Games:S/Seek&Destroy/"
 IF EXISTS ENV:whdloadargs
-  whdload "SensibleSoccer512K.Slave" $whdloadargs
+  whdload "Seek&Destroy.Slave" $whdloadargs
 ELSE
-  whdload "SensibleSoccer512K.Slave"
+  whdload "Seek&Destroy.Slave"
 ENDIF

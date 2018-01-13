@@ -1,7 +1,7 @@
 ; Run WHDLoad
-cd "A-Games:V/VroomMultiPlayer/"
+cd "A-Games:V/Vroom&DataDisk/"
 IF EXISTS ENV:whdloadargs
-  whdload "VroomMultiplayer.Slave" $whdloadargs
+  whdload "DataDisk.Slave" $whdloadargs
 ELSE
-  whdload "VroomMultiplayer.Slave"
+  whdload "DataDisk.Slave"
 ENDIF

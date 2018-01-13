@@ -1,7 +1,7 @@
 ; Run WHDLoad
-cd "A-Games:T/ThemePark/"
+cd "A-Games:T/TheirFinestHour&Missions/"
 IF EXISTS ENV:whdloadargs
-  whdload "ThemePark.Slave" $whdloadargs
+  whdload "TheirFinestHour&Missions.Slave" $whdloadargs
 ELSE
-  whdload "ThemePark.Slave"
+  whdload "TheirFinestHour&Missions.Slave"
 ENDIF

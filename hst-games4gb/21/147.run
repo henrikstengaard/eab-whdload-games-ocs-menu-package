@@ -1,7 +1,7 @@
 ; Run WHDLoad
-cd "A-Games:T/TrapsNTreasures/"
+cd "A-Games:T/TipOff/"
 IF EXISTS ENV:whdloadargs
-  whdload "TrapsNTreasures.Slave" $whdloadargs
+  whdload "TipOff.Slave" $whdloadargs
 ELSE
-  whdload "TrapsNTreasures.Slave"
+  whdload "TipOff.Slave"
 ENDIF

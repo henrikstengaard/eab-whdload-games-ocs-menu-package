@@ -1,7 +1,7 @@
 ; Run WHDLoad
-cd "A-Games:D/DogsOfWar/"
+cd "A-Games:D/DizzysExcellentAdventures/"
 IF EXISTS ENV:whdloadargs
-  whdload "DogsOfWar.Slave" $whdloadargs
+  whdload "Disk1.Slave" $whdloadargs
 ELSE
-  whdload "DogsOfWar.Slave"
+  whdload "Disk1.Slave"
 ENDIF

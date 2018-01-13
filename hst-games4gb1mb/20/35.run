@@ -1,7 +1,7 @@
 ; Run WHDLoad
-cd "A-Games:S/SideArms/"
+cd "A-Games:S/ShockWave/"
 IF EXISTS ENV:whdloadargs
-  whdload "SideArms.slave" $whdloadargs
+  whdload "ShockWave.Slave" $whdloadargs
 ELSE
-  whdload "SideArms.slave"
+  whdload "ShockWave.Slave"
 ENDIF

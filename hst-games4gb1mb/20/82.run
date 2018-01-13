@@ -1,7 +1,7 @@
 ; Run WHDLoad
-cd "A-Games:S/SpindizzyWorlds/"
+cd "A-Games:S/SpellboundDizzy/"
 IF EXISTS ENV:whdloadargs
-  whdload "SpindizzyWorlds.slave" $whdloadargs
+  whdload "SpellboundDizzy.Slave" $whdloadargs
 ELSE
-  whdload "SpindizzyWorlds.slave"
+  whdload "SpellboundDizzy.Slave"
 ENDIF

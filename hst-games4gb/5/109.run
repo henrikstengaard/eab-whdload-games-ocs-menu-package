@@ -1,7 +1,7 @@
 ; Run WHDLoad
-cd "A-Games:D/DragonTiles/"
+cd "A-Games:D/Dragonstone/"
 IF EXISTS ENV:whdloadargs
-  whdload "DragonTiles.Slave" $whdloadargs
+  whdload "Dragonstone.Slave" $whdloadargs
 ELSE
-  whdload "DragonTiles.Slave"
+  whdload "Dragonstone.Slave"
 ENDIF

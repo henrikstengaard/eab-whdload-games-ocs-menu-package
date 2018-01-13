@@ -1,7 +1,7 @@
 ; Run WHDLoad
-cd "A-Games:S/SlipStream/"
+cd "A-Games:S/SkyHighStuntman/"
 IF EXISTS ENV:whdloadargs
-  whdload "SlipStream.Slave" $whdloadargs
+  whdload "SkyHighStuntman.Slave" $whdloadargs
 ELSE
-  whdload "SlipStream.Slave"
+  whdload "SkyHighStuntman.Slave"
 ENDIF

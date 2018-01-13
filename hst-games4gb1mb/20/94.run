@@ -1,7 +1,7 @@
 ; Run WHDLoad
-cd "A-Games:S/StarTrash/"
+cd "A-Games:S/Starblaze/"
 IF EXISTS ENV:whdloadargs
-  whdload "StarTrash.slave" $whdloadargs
+  whdload "Starblaze.slave" $whdloadargs
 ELSE
-  whdload "StarTrash.slave"
+  whdload "Starblaze.slave"
 ENDIF

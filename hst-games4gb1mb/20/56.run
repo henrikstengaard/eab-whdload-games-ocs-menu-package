@@ -1,7 +1,7 @@
 ; Run WHDLoad
-cd "A-Games:S/SonicBoom/"
+cd "A-Games:S/Soldier2000/"
 IF EXISTS ENV:whdloadargs
-  whdload "SonicBoom.slave" $whdloadargs
+  whdload "Soldier2000.Slave" $whdloadargs
 ELSE
-  whdload "SonicBoom.slave"
+  whdload "Soldier2000.Slave"
 ENDIF

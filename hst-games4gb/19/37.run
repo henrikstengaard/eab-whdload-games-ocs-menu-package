@@ -1,7 +1,7 @@
 ; Run WHDLoad
-cd "A-Games:R/Reunion/"
+cd "A-Games:R/ReturnToGenesis/"
 IF EXISTS ENV:whdloadargs
-  whdload "Reunion.slave" $whdloadargs
+  whdload "ReturnToGenesis.Slave" $whdloadargs
 ELSE
-  whdload "Reunion.slave"
+  whdload "ReturnToGenesis.Slave"
 ENDIF
