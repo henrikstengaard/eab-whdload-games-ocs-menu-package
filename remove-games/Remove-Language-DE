@@ -64,9 +64,6 @@ ENDIF
 IF EXISTS "A-Games:B/BuckRogersCountdownDdayDe"
   Delete >NIL: "A-Games:B/BuckRogersCountdownDdayDe" ALL
 ENDIF
-IF EXISTS "A-Games:B/BundesligaManagerHattDe"
-  Delete >NIL: "A-Games:B/BundesligaManagerHattDe" ALL
-ENDIF
 IF EXISTS "A-Games:B/BurntimeDe"
   Delete >NIL: "A-Games:B/BurntimeDe" ALL
 ENDIF
@@ -582,57 +579,6 @@ IF EXISTS "A-Games:Z/ZakMcKrackenDe"
 ENDIF
 IF EXISTS "A-Games:Z/ZombiDe"
   Delete >NIL: "A-Games:Z/ZombiDe" ALL
-ENDIF
-IF EXISTS "A-Games:0-9/1869AGADe"
-  Delete >NIL: "A-Games:0-9/1869AGADe" ALL
-ENDIF
-IF EXISTS "A-Games:B/BiingAGADe"
-  Delete >NIL: "A-Games:B/BiingAGADe" ALL
-ENDIF
-IF EXISTS "A-Games:B/BurntimeAGADe"
-  Delete >NIL: "A-Games:B/BurntimeAGADe" ALL
-ENDIF
-IF EXISTS "A-Games:C/ChristophKolumbusAGADe"
-  Delete >NIL: "A-Games:C/ChristophKolumbusAGADe" ALL
-ENDIF
-IF EXISTS "A-Games:C/CivilizationAGADe"
-  Delete >NIL: "A-Games:C/CivilizationAGADe" ALL
-ENDIF
-IF EXISTS "A-Games:C/ClouDeAGA"
-  Delete >NIL: "A-Games:C/ClouDeAGA" ALL
-ENDIF
-IF EXISTS "A-Games:C/ClouDeAGA&Profidisk"
-  Delete >NIL: "A-Games:C/ClouDeAGA&Profidisk" ALL
-ENDIF
-IF EXISTS "A-Games:D/DreamWebAGADe"
-  Delete >NIL: "A-Games:D/DreamWebAGADe" ALL
-ENDIF
-IF EXISTS "A-Games:L/LordsOfTheRealmAGADe"
-  Delete >NIL: "A-Games:L/LordsOfTheRealmAGADe" ALL
-ENDIF
-IF EXISTS "A-Games:L/LordsOfTheRealmAGADeFast"
-  Delete >NIL: "A-Games:L/LordsOfTheRealmAGADeFast" ALL
-ENDIF
-IF EXISTS "A-Games:P/PenthouseHotNumsDlxAGADe"
-  Delete >NIL: "A-Games:P/PenthouseHotNumsDlxAGADe" ALL
-ENDIF
-IF EXISTS "A-Games:R/ReunionAGADe"
-  Delete >NIL: "A-Games:R/ReunionAGADe" ALL
-ENDIF
-IF EXISTS "A-Games:R/RuesselsheimDeAGA"
-  Delete >NIL: "A-Games:R/RuesselsheimDeAGA" ALL
-ENDIF
-IF EXISTS "A-Games:S/SeelenturmAGADe"
-  Delete >NIL: "A-Games:S/SeelenturmAGADe" ALL
-ENDIF
-IF EXISTS "A-Games:S/SimonTheSorcererAGADe"
-  Delete >NIL: "A-Games:S/SimonTheSorcererAGADe" ALL
-ENDIF
-IF EXISTS "A-Games:S/StarTrek25thAnnivAGADe"
-  Delete >NIL: "A-Games:S/StarTrek25thAnnivAGADe" ALL
-ENDIF
-IF EXISTS "A-Games:V/VerteidigerKrone2CD32De"
-  Delete >NIL: "A-Games:V/VerteidigerKrone2CD32De" ALL
 ENDIF
 IF EXISTS "A-Games:DinoWarsDe"
   Delete >NIL: "A-Games:DinoWarsDe" ALL

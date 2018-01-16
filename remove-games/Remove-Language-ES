@@ -97,6 +97,3 @@ ENDIF
 IF EXISTS "A-Games:W/WeenTheProphecyEs"
   Delete >NIL: "A-Games:W/WeenTheProphecyEs" ALL
 ENDIF
-IF EXISTS "A-Games:D/DefensorDeLaCorona2CD32Es"
-  Delete >NIL: "A-Games:D/DefensorDeLaCorona2CD32Es" ALL
-ENDIF

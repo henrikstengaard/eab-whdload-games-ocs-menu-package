@@ -10,18 +10,6 @@ ENDIF
 IF EXISTS "A-Games:T/TinyTroopsCDDe"
   Delete >NIL: "A-Games:T/TinyTroopsCDDe" ALL
 ENDIF
-IF EXISTS "A-Games:U/UltimateXTremeRacingCD"
-  Delete >NIL: "A-Games:U/UltimateXTremeRacingCD" ALL
-ENDIF
-IF EXISTS "A-Games:C/CapitalPunishmentAGACD"
-  Delete >NIL: "A-Games:C/CapitalPunishmentAGACD" ALL
-ENDIF
-IF EXISTS "A-Games:C/CivilizationAGACD"
-  Delete >NIL: "A-Games:C/CivilizationAGACD" ALL
-ENDIF
-IF EXISTS "A-Games:V/VirtualKarting2AGACD"
-  Delete >NIL: "A-Games:V/VirtualKarting2AGACD" ALL
-ENDIF
 IF EXISTS "A-Games:EmeraldMinesCD"
   Delete >NIL: "A-Games:EmeraldMinesCD" ALL
 ENDIF

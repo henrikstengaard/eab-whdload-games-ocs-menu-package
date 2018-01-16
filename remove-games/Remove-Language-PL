@@ -64,12 +64,6 @@ ENDIF
 IF EXISTS "A-Games:W/WisielecPl"
   Delete >NIL: "A-Games:W/WisielecPl" ALL
 ENDIF
-IF EXISTS "A-Games:A/AceBallAGAPl"
-  Delete >NIL: "A-Games:A/AceBallAGAPl" ALL
-ENDIF
-IF EXISTS "A-Games:A/AlfabetSmierciAGAPl"
-  Delete >NIL: "A-Games:A/AlfabetSmierciAGAPl" ALL
-ENDIF
 IF EXISTS "A-Games:WPotrzaskuPl"
   Delete >NIL: "A-Games:WPotrzaskuPl" ALL
 ENDIF

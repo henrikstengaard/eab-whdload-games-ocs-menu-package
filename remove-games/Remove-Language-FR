@@ -454,27 +454,6 @@ ENDIF
 IF EXISTS "A-Games:Z/ZombiFr"
   Delete >NIL: "A-Games:Z/ZombiFr" ALL
 ENDIF
-IF EXISTS "A-Games:D/DefenseurCouronne2CD32Fr"
-  Delete >NIL: "A-Games:D/DefenseurCouronne2CD32Fr" ALL
-ENDIF
-IF EXISTS "A-Games:D/DetroitAGAFr"
-  Delete >NIL: "A-Games:D/DetroitAGAFr" ALL
-ENDIF
-IF EXISTS "A-Games:L/LordsOfTheRealmAGAFr"
-  Delete >NIL: "A-Games:L/LordsOfTheRealmAGAFr" ALL
-ENDIF
-IF EXISTS "A-Games:L/LordsOfTheRealmAGAFrFast"
-  Delete >NIL: "A-Games:L/LordsOfTheRealmAGAFrFast" ALL
-ENDIF
-IF EXISTS "A-Games:S/SimonTheSorcererAGAFr"
-  Delete >NIL: "A-Games:S/SimonTheSorcererAGAFr" ALL
-ENDIF
-IF EXISTS "A-Games:S/StarTrek25thAnnivAGAFr"
-  Delete >NIL: "A-Games:S/StarTrek25thAnnivAGAFr" ALL
-ENDIF
-IF EXISTS "A-Games:T/TellerFr"
-  Delete >NIL: "A-Games:T/TellerFr" ALL
-ENDIF
 IF EXISTS "A-Games:TrivialPursuitFr"
   Delete >NIL: "A-Games:TrivialPursuitFr" ALL
 ENDIF
