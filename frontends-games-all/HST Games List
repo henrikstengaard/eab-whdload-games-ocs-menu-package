@@ -1,4 +1,4 @@
-Assign     Entry                       RunFile                           iGame
+Assign     Entry                       RunFile                           HST Launcher
 A-Games:   1000ccTurbo                 1000ccTurbo.Slave                 1000cc Turbo
 A-Games:   1000Miglia                  1000Miglia.Slave                  1000 Miglia
 A-Games:   1869                        1869.Slave                        1869
@@ -115,10 +115,10 @@ A-Games:   ApanoSin                    ApanoSin.Slave                    Apano S
 A-Games:   ApanoSinDe                  ApanoSinDe.Slave                  Apano Sin DE
 A-Games:   APBFiles                    APBFiles.slave                    APB Files
 A-Games:   APBImage                    APBImage.slave                    All Points Bulletin Image
-A-Games:   ApidyaAudios                ApidyaAudios.Slave                Apidya
 A-Games:   ApidyaAudios                Apidya.slave                      Apidya
-A-Games:   ApidyaKaiko                 ApidyaKaiko.Slave                 Apidya
+A-Games:   ApidyaAudios                ApidyaAudios.Slave                Apidya
 A-Games:   ApidyaKaiko                 Apidya.slave                      Apidya
+A-Games:   ApidyaKaiko                 ApidyaKaiko.Slave                 Apidya
 A-Games:   Apocalypse                  Apocalypse.Slave                  Apocalypse
 A-Games:   Apprentice                  Apprentice.slave                  Apprentice
 A-Games:   Aquablast                   Aquablast.slave                   Aquablast
@@ -2864,10 +2864,10 @@ A-Games:   Vyrus                       Vyrus.Slave                       Vyrus
 A-Games:   WackyDarts                  WackyDarts.slave                  Wacky Darts
 A-Games:   WackyRaces                  WackyRaces.Slave                  Wacky Races
 A-Games:   WacusTheDetectivePl         WacusTheDetectivePl.Slave         Wacus the Detective PL
-A-Games:   WalkerCrunched              WalkerCrunched.Slave              Walker Crunched
 A-Games:   WalkerCrunched              WalkerCrunchedNoSpeech.Slave      Walker NoSpeech Crunched
-A-Games:   WalkerDecrunched            WalkerDecrunched.Slave            Walker Decrunched
+A-Games:   WalkerCrunched              WalkerCrunched.Slave              Walker Crunched
 A-Games:   WalkerDecrunched            WalkerDecrunchedNoSpeech.Slave    Walker NoSpeech Decrunched
+A-Games:   WalkerDecrunched            WalkerDecrunched.Slave            Walker Decrunched
 A-Games:   Wall                        Wall.Slave                        Wall, The
 A-Games:   Wanderer3D                  Wanderer3D.Slave                  Wanderer 3D
 A-Games:   Wanted                      Wanted.Slave                      Wanted

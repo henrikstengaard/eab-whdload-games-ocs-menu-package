@@ -115,10 +115,10 @@ A-Games:   ApanoSin                    ApanoSin.Slave                    Apano S
 A-Games:   ApanoSinDe                  ApanoSinDe.Slave                  Apano Sin DE                 Apano Sin DE
 A-Games:   APBFiles                    APBFiles.slave                    APB Files                    APB Files
 A-Games:   APBImage                    APBImage.slave                    All Points Bulletin Image    All Points Bulletin Image
-A-Games:   ApidyaAudios                ApidyaAudios.Slave                Apidya                       Apidya
 A-Games:   ApidyaAudios                Apidya.slave                      Apidya                       Apidya
-A-Games:   ApidyaKaiko                 ApidyaKaiko.Slave                 Apidya                       Apidya
+A-Games:   ApidyaAudios                ApidyaAudios.Slave                Apidya                       Apidya
 A-Games:   ApidyaKaiko                 Apidya.slave                      Apidya                       Apidya
+A-Games:   ApidyaKaiko                 ApidyaKaiko.Slave                 Apidya                       Apidya
 A-Games:   Apocalypse                  Apocalypse.Slave                  Apocalypse                   Apocalypse
 A-Games:   Apprentice                  Apprentice.slave                  Apprentice                   Apprentice
 A-Games:   Aquablast                   Aquablast.slave                   Aquablast                    Aquablast
@@ -2864,10 +2864,10 @@ A-Games:   Vyrus                       Vyrus.Slave                       Vyrus  
 A-Games:   WackyDarts                  WackyDarts.slave                  Wacky Darts                  Wacky Darts
 A-Games:   WackyRaces                  WackyRaces.Slave                  Wacky Races                  Wacky Races
 A-Games:   WacusTheDetectivePl         WacusTheDetectivePl.Slave         Wacus the Detective PL       Wacus the Detective PL
-A-Games:   WalkerCrunched              WalkerCrunched.Slave              Walker Crunched              Walker Crunched
 A-Games:   WalkerCrunched              WalkerCrunchedNoSpeech.Slave      Walker NoSpeech Crunched     Walker NoSpeech Crunched
-A-Games:   WalkerDecrunched            WalkerDecrunched.Slave            Walker Decrunched            Walker Decrunched
+A-Games:   WalkerCrunched              WalkerCrunched.Slave              Walker Crunched              Walker Crunched
 A-Games:   WalkerDecrunched            WalkerDecrunchedNoSpeech.Slave    Walker NoSpeech Decrunched   Walker NoSpeech Decrunched
+A-Games:   WalkerDecrunched            WalkerDecrunched.Slave            Walker Decrunched            Walker Decrunched
 A-Games:   Wall                        Wall.Slave                        Wall. The                    Wall, The
 A-Games:   Wanderer3D                  Wanderer3D.Slave                  Wanderer 3D                  Wanderer 3D
 A-Games:   Wanted                      Wanted.Slave                      Wanted                       Wanted
