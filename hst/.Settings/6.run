@@ -1,2 +1,9 @@
-execute S:WHDLoadArgAdd ButtonWait
-echo "WHDLoad ButtonWait turned on"
+Set confirm `RequestChoice "Update show installed" "Update Hst Launcher menu '$hstlauncherdir'*Nto only show installed entries?*N(this can take several minutes)" "Yes|No"`
+IF $confirm EQ 1 VAL 
+  fsearch "$hstlauncherdir" PAT menu.lst ALL >T:_hstlstfiles1
+  fsearch "$hstlauncherdir" PAT search.lst ALL >>T:_hstlstfiles1
+  sed "s/^\(.\)/execute S:HSTLauncherListUpdate *"\1/" "T:_hstlstfiles1" >"T:_hstlstfiles2"
+  sed "s/\(.\)$/\1*" *"EXIST*"/" "T:_hstlstfiles2" >"T:_hstlstfiles3"
+  execute "T:_hstlstfiles3"
+  delete T:_hstlstfiles#? >NIL:
+ENDIF
