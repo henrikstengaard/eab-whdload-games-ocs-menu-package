@@ -5,12 +5,12 @@ Adrenalynn	A/Adrenalynn	A-Games:A/Adrenalynn/Adrenalynn.Slave
 Advanced Ski Simulator	A/Advanced Ski Simulator	A-Games:A/AdvancedSkiSimulator/AdvancedSkiSimulator.slave
 Adventures of Quik & Silva, The	A/Adventures of Quik Silva.	A-Games:A/AdventuresOfQuik&Silva/AdventuresOfQuik&Silva.Slave
 Adventures of Robin Hood, The	A/Adventures of Robin Hood.	A-Games:A/AdventuresOfRobinHood/AdventuresOfRobinHood.slave
-Afterburner	A/Afterburner	A-Games:A/AfterBurnerActivision/AfterBurnerActivision.Slave
-After Burner	A/After Burner	A-Games:A/AfterBurnerSega/AfterBurnerSega.slave
+Afterburner	A/Afterburner	A-Games:A/AfterBurner/AfterBurner.Slave
+Afterburner NTSC	A/Afterburner NTSC	A-Games:A/AfterBurnerNTSC/AfterBurnerNTSC.slave
 After the War	A/After the War	A-Games:A/AfterTheWar/AfterTheWar.Slave
-Agony	A/Agony	A-Games:A/Agony/Agony.Slave
+Agony	A/Agony	A-Games:A/Agony/Agony.slave
 Agony Demo	A/Agony Demo	A-Games:A/AgonyDemo/AgonyDemo.slave
-Agony NTSC	A/Agony NTSC	A-Games:A/AgonyNTSC/AgonyNTSC.Slave
+Agony NTSC	A/Agony NTSC	A-Games:A/AgonyNTSC/AgonyNTSC.slave
 Airball	A/Airball	A-Games:A/Airball/Airball.slave
 Airborne Ranger	A/Airborne Ranger	A-Games:A/AirborneRanger/AirborneRanger.Slave
 Alcatraz	A/Alcatraz	A-Games:A/Alcatraz/Alcatraz.slave
@@ -32,6 +32,7 @@ APB Files	A/APB Files	A-Games:A/APBFiles/APBFiles.slave
 All Points Bulletin Image	A/All Points Bulletin Image	A-Games:A/APBImage/APBImage.slave
 Apidya	A/Apidya	A-Games:A/ApidyaAudios/ApidyaAudios.slave
 Apidya	A/Apidya 	A-Games:A/ApidyaKaiko/ApidyaKaiko.slave
+Apidya SE	A/Apidya SE	A-Games:A/ApidyaSpecialEdition/ApidyaSE.slave
 Apprentice	A/Apprentice	A-Games:A/Apprentice/Apprentice.slave
 Aquaventura	A/Aquaventura	A-Games:A/Aquaventura/Aquaventura.Slave
 Aquaventura NTSC	A/Aquaventura NTSC	A-Games:A/AquaventuraNTSC/AquaventuraNTSC.Slave
@@ -58,7 +59,8 @@ Atlantyda PL	A/Atlantyda PL	A-Games:A/AtlantydaPl/AtlantydaPl.slave
 Atomic Robo-Kid	A/Atomic Robo-Kid	A-Games:A/AtomicRoboKid/AtomicRobokid.slave
 Atomino	A/Atomino	A-Games:A/Atomino/Atomino.slave
 Atomino DE	A/Atomino DE	A-Games:A/AtominoDe/AtominoDe.slave
-Atomix	A/Atomix	A-Games:A/Atomix/atomix.slave
+Atomino NTSC	A/Atomino NTSC	A-Games:A/AtominoNTSC/AtominoNTSC.slave
+Atomix	A/Atomix	A-Games:A/Atomix/Atomix.Slave
 Atom Smasher	A/Atom Smasher	A-Games:A/AtomSmasher/AtomSmasher.Slave
 Aunt Arctic Adventure	A/Aunt Arctic Adventure	A-Games:A/AuntArcticAdventure/AuntArcticAdventure.Slave
 AWESOME	A/AWESOME	A-Games:A/Awesome/Awesome.Slave

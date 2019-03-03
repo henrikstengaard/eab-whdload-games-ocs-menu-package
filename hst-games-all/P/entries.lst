@@ -28,7 +28,7 @@ Penthouse Hot Numbers Deluxe DE	P/Penthouse Hot Numbers Delu	A-Games:P/Penthouse
 Perihelion	P/Perihelion	A-Games:P/Perihelion/Perihelion.Slave
 Persian Gulf Inferno, The	P/Persian Gulf Inferno. The	A-Games:P/PersianGulfInferno/PersianGulfInferno.Slave
 Personal Nightmare	P/Personal Nightmare	A-Games:P/PersonalNightmare/PersonalNightmare.Slave
-Peter Beardsley's International Football	P/Peter Beardsleys Internati	A-Games:P/PeterBeardsleysIF/PeterBeardsleysIF.Slave
+Peter Beardsley's International Football NTSC	P/Peter Beardsleys Internati	A-Games:P/PeterBeardsleysIFNTSC/PeterBeardsleysIFNTSC.Slave
 Peter Schmeichel Soccer	P/Peter Schmeichel Soccer	A-Games:P/PeterSchmeichelSoccer/PeterSchmeichelSoccer.Slave
 PGA European Tour	P/PGA European Tour	A-Games:P/PGAEuropeanTour/PGAEuropeanTour.Slave
 PGA Tour Golf	P/PGA Tour Golf	A-Games:P/PGATourGolf/PGATourGolf.Slave
@@ -43,6 +43,7 @@ Phobia	P/Phobia	A-Games:P/Phobia/Phobia.Slave
 Photon Storm	P/Photon Storm	A-Games:P/PhotonStorm/PhotonStorm.slave
 Pick 'n Pile	P/Pick n Pile	A-Games:P/PickNPile/PickNPile.Slave
 Pinball Dreams	P/Pinball Dreams	A-Games:P/PinballDreams/PinballDreams.Slave
+Pinball Dreams NTSC	P/Pinball Dreams NTSC	A-Games:P/PinballDreamsNTSC/PinballDreamsNTSC.Slave
 Pinball Fantasies	P/Pinball Fantasies	A-Games:P/PinballFntsies/PinballFntsies.slave
 Pinball Hazard	P/Pinball Hazard	A-Games:P/PinballHazard/PinballHazard.Slave
 Pinball Magic	P/Pinball Magic	A-Games:P/PinballMagic/PinballMagic.Slave
@@ -52,7 +53,7 @@ Pinball Wizard Prerelease	P/Pinball Wizard Prerelease	A-Games:P/PinballWizardPre
 Pinkie	P/Pinkie	A-Games:P/Pinkie/Pinkie.slave
 Pink Panther	P/Pink Panther	A-Games:P/PinkPanther/PinkPanther.slave
 Pinomania	P/Pinomania	A-Games:P/Pinomania/Pinomania.Slave
-Pipe Dream	P/Pipe Dream	A-Games:P/PipeDream/PipeDream.Slave
+Pipe Dream NTSC	P/Pipe Dream NTSC	A-Games:P/PipeDreamNTSC/PipeDreamNTSC.Slave
 Pipeline	P/Pipeline	A-Games:P/PipelineNomad/PipelineNomad.Slave
 Pipeline	P/Pipeline 	A-Games:P/PipelineOracle/PipelineOracle.Slave
 Pipe Mania	P/Pipe Mania	A-Games:P/PipeMania/PipeMania.Slave
@@ -62,7 +63,7 @@ Pixie and Dixie	P/Pixie and Dixie	A-Games:P/Pixie&Dixie/Pixie&Dixie.Slave
 Pizza Connection DE	P/Pizza Connection DE	A-Games:P/PizzaConnectionDe/PizzaConnectionDe.Slave
 Plague, The	P/Plague. The	A-Games:P/Plague/Plague.slave
 Plan 9 from Outer Space	P/Plan 9 from Outer Space	A-Games:P/Plan9FromOuterSpace/Plan9FromOuterSpace.Slave
-Platoon	P/Platoon	A-Games:P/Platoon/Platoon.Slave
+Platoon NTSC	P/Platoon NTSC	A-Games:P/PlatoonNTSC/PlatoonNTSC.Slave
 Player Manager	P/Player Manager	A-Games:P/PlayerManager/PlayerManager.slave
 Player Manager 2	P/Player Manager 2	A-Games:P/PlayerManager2/PlayerManager2.Slave
 Player Manager DE	P/Player Manager DE	A-Games:P/PlayerManagerDe/PlayerManagerDe.slave
@@ -71,12 +72,16 @@ Player Manager IT	P/Player Manager IT	A-Games:P/PlayerManagerIt/PlayerManagerIt.
 Playroom, The: La Chambre De Peppy FR	P/Playroom. The La Chambre D	A-Games:P/PlayroomFr/PlayroomFr.Slave
 Plotting	P/Plotting	A-Games:P/Plotting/Plotting.slave
 Plutos	P/Plutos	A-Games:P/Plutos/Plutos.Slave
-Pod	P/Pod	A-Games:P/Pod/Pod.Slave
+Plutos NTSC	P/Plutos NTSC	A-Games:P/PlutosNTSC/PlutosNTSC.Slave
+Pod	P/Pod	A-Games:P/Pod/Pod.slave
 Poker Nights: Teresa Personally DE	P/Poker Nights Teresa Person	A-Games:P/PokerNightsDe/PokerNightsDe.Slave
 Police Quest	P/Police Quest	A-Games:P/PoliceQuest/PoliceQuest.slave
 Police Quest II	P/Police Quest II	A-Games:P/PoliceQuest2/PoliceQuest2.slave
-Police Quest III: The Kindred	P/Police Quest III The Kindr	A-Games:P/PoliceQuest3/PoliceQuest3.slave
-Police Quest III: The Kindred DE	P/Police Quest III The Ki V2	A-Games:P/PoliceQuest3De/PoliceQuest3De.slave
+Police Quest III: The Kindred DE	P/Police Quest III The Kindr	A-Games:P/PoliceQuest3De/PoliceQuest3De.slave
+Police Quest III: The Kindred	P/Police Quest III The Ki V2	A-Games:P/PoliceQuest3DeMT32/PoliceQuest3DeMT32.slave
+Police Quest III: The Kindred NTSC	P/Police Quest III The Ki V3	A-Games:P/PoliceQuest3NTSC/PoliceQuest3NTSC.slave
+Police Quest III: The Kindred	P/Police Quest III The Ki V4	A-Games:P/PoliceQuest3NTSCMT32/PoliceQuest3NTSCMT32.slave
+Police Quest NTSC	P/Police Quest NTSC	A-Games:P/PoliceQuestNTSC/PoliceQuestNTSC.slave
 Pong	P/Pong	A-Games:P/Pong/Pong.slave
 Pool	P/Pool	A-Games:P/Pool/Pool.Slave
 Pool of Radiance	P/Pool of Radiance	A-Games:P/PoolOfRadiance/PoolOfRadiance.Slave
@@ -88,8 +93,9 @@ Populous	P/Populous 	A-Games:P/Populous/Populous.Slave
 Populous DataDisk	P/Populous DataDisk	A-Games:P/Populous&DataDisks/Populous&DataDisks.Slave
 Populous DataDisk	P/Populous DataDisk 	A-Games:P/Populous&DataDisks/Populous&DataDisks.Slave
 Populous II: Trials of the Olympian Gods	P/Populous II Trials of the	A-Games:P/Populous2/Populous2.slave
-Populous II: Trials of the Olympian Gods ChallengeGames	P/Populous II Trials of the 	A-Games:P/Populous2&ChallengeGames/Populous2.slave
-Populous II: Trials of the Olympian Gods ChallengeGames	P/Populous II Trials of t V2	A-Games:P/Populous2&ChallengeGames/ChallengeGames.slave
+Populous II: Trials of the Olympian Gods ChallengeGames	P/Populous II Trials of the 	A-Games:P/Populous2&ChallengeGames/ChallengeGames.slave
+Populous II: Trials of the Olympian Gods ChallengeGames	P/Populous II Trials of t V2	A-Games:P/Populous2&ChallengeGames/Populous2.slave
+Populous NTSC	P/Populous NTSC	A-Games:P/PopulousNTSC/PopulousNTSC.Slave
 Populous World Editor	P/Populous World Editor	A-Games:P/PopulousWorldEditor/PopulousWorldEditor.Slave
 Portal	P/Portal	A-Games:P/Portal/Portal.slave
 Portes du Temps, Les FR	P/Portes du Temps. Les FR	A-Games:P/PortesDuTempsFr/PortesDuTempsFr.Slave
@@ -114,6 +120,7 @@ P.P. Hammer	P/P.P. Hammer	A-Games:P/PPHammer/PPHammer.Slave
 Predator	P/Predator	A-Games:P/Predator/Predator.Slave
 Predator 2	P/Predator 2	A-Games:P/Predator2/Predator2.Slave
 Prehistorik	P/Prehistorik	A-Games:P/Prehistorik/Prehistorik.slave
+Prehistorik CDTV	P/Prehistorik CDTV	A-Games:P/PrehistorikCDTV/PrehistorikCDTV.slave
 Premiere	P/Premiere	A-Games:P/Premiere/Premiere.Slave
 Premier Manager	P/Premier Manager	A-Games:P/PremierManager/PremierManager.Slave
 Premier Manager II	P/Premier Manager II	A-Games:P/PremierManager2/PremierManager2.Slave
@@ -129,10 +136,11 @@ Prison	P/Prison	A-Games:P/Prison/Prison.Slave
 Prison NTSC	P/Prison NTSC	A-Games:P/PrisonNTSC/PrisonNTSC.Slave
 Pro Boxing Simulator	P/Pro Boxing Simulator	A-Games:P/ProBoxingSimulator/ProBoxingSimulator.Slave
 Profezia IT	P/Profezia IT	A-Games:P/ProfeziaIt/ProfeziaIt.Slave
-Project-X	P/Project-X	A-Games:P/ProjectX/ProjectX.Slave
+Project-X	P/Project-X	A-Games:P/ProjectX/ProjectX.slave
 Project-X	P/Project-X 	A-Games:P/ProjectXBonusLevel/ProjectXBonusLevel.Slave
 Project-X Special Edition 93	P/Project-X Special Edition	A-Games:P/ProjectXSE/ProjectXSE.Slave
-Project-X	P/Project-X  	A-Games:P/ProjectXv2/ProjectXv2.Slave
+Project-X 2017	P/Project-X 2017	A-Games:P/ProjectXSE2017/ProjectXSE2017.slave
+Project-X	P/Project-X  	A-Games:P/ProjectXv2/ProjectXv2.slave
 Projectyle	P/Projectyle	A-Games:P/Projectyle/Projectyle.slave
 Prophecy I: The Viking Child	P/Prophecy I The Viking Chil	A-Games:P/Prophecy1VikingChild/Prophecy1VikingChild.Slave
 Pro Powerboat Simulator	P/Pro Powerboat Simulator	A-Games:P/ProPowerBoatSimulator/ProPowerBoatSimulator.Slave

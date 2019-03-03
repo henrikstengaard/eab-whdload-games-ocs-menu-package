@@ -1,10 +1,11 @@
 Federation Quest 1: BSS Jane Seymour	F/Federation Quest 1 BSS Jan	A-Games:B/BSSJaneSeymour/BSSJaneSeymour.slave
 F1	F/F1	A-Games:F/F1/F1.slave
 F-16 Combat Pilot	F/F-16 Combat Pilot	A-Games:F/F16CombatPilot/F16CombatPilot.slave
-F-19 Stealth Fighter	F/F-19 Stealth Fighter	A-Games:F/F19StealthFighter/F19StealthFighter.Slave
+F-19 Stealth Fighter	F/F-19 Stealth Fighter	A-Games:F/F19StealthFighter/F19StealthFighter.slave
+F-19 Stealth Fighter NTSC	F/F-19 Stealth Fighter NTSC	A-Games:F/F19StealthFighterNTSC/F19StealthFighterNTSC.slave
 F1 Tornado	F/F1 Tornado	A-Games:F/F1Tornado/F1Tornado.Slave
 F29 Retaliator	F/F29 Retaliator	A-Games:F/F29Retaliator/F29Retaliator.Slave
-F40 Pursuit Simulator	F/F40 Pursuit Simulator	A-Games:F/F40PursuitSimulator/F40PursuitSimulator.Slave
+F40 Pursuit Simulator NTSC	F/F40 Pursuit Simulator NTSC	A-Games:F/F40PursuitSimulatorNTSC/F40PursuitSimulatorNTSC.Slave
 Fallen Angel	F/Fallen Angel	A-Games:F/FallenAngel/FallenAngel.slave
 Fantasy World Dizzy	F/Fantasy World Dizzy	A-Games:F/FantasyWorldDizzy/FantasyWorldDizzy.Slave
 Fast Brain PL	F/Fast Brain PL	A-Games:F/FastBrainPl/FastBrainPl.slave
@@ -35,6 +36,7 @@ Franco Baresi World Cup Kick Off IT	F/Franco Baresi World Cup Ki	A-Games:F/Franc
 Frankenstein	F/Frankenstein	A-Games:F/Frankenstein/Frankenstein.slave
 Freak Out	F/Freak Out	A-Games:F/FreakOut/FreakOut.slave
 Frenetic	F/Frenetic	A-Games:F/Frenetic/Frenetic.Slave
+Fright Night 512K	F/Fright Night 512K	A-Games:F/FrightNight512k/FrightNight512k.Slave
 Frost Byte	F/Frost Byte	A-Games:F/FrostByte/FrostByte.Slave
 Full Contact	F/Full Contact	A-Games:F/FullContact/FullContact.slave
 Future Shock	F/Future Shock	A-Games:F/FutureShock/FutureShock.slave

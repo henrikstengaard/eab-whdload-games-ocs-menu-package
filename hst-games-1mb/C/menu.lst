@@ -1,14 +1,11 @@
 Cabal	C/Cabal	A-Games:C/Cabal/Cabal.slave
 Cabaret Asteroids	C/Cabaret Asteroids	A-Games:C/CabaretAsteroids/CabaretAsteroids.slave
 Cabaret Asteroids	C/Cabaret Asteroids 	A-Games:C/CabaretAsteroidsRepacked/CabaretAsteroidsRepacked.slave
-Cadaver	C/Cadaver	A-Games:C/Cadaver/Cadaver.Slave
-Cadaver: The Pay Off CadaverThePayoff	C/Cadaver The Pay Off Cadave	A-Games:C/Cadaver&CadaverThePayoff/Cadaver&CadaverThePayoff.Slave
+Cadaver: The Pay Off	C/Cadaver The Pay Off	A-Games:C/Cadaver&ThePayoff/Cadaver&ThePayoff.slave
 Cadaver Demos	C/Cadaver Demos	A-Games:C/CadaverDemos/CadaverDemos.slave
-Cadaver: The Pay Off	C/Cadaver The Pay Off	A-Games:C/CadaverThePayoff/CadaverThePayoff.Slave
 California Games II	C/California Games II	A-Games:C/CaliforniaGames2/CaliforniaGames2.slave
-Captain Fizz Meets the Blaster-Trons	C/Captain Fizz Meets the Bla	A-Games:C/CaptainFizz/CaptainFizz.slave
 Captain Planet and the Planeteers	C/Captain Planet and the Pla	A-Games:C/CaptainPlanet&Planeteers/CaptainPlanet&Planeteers.Slave
-Carcharodon: White Sharks	C/Carcharodon White Sharks	A-Games:C/Carcharodon/Carcharodon.Slave
+Carcharodon: White Sharks	C/Carcharodon White Sharks	A-Games:C/Carcharodon/Carcharodon.slave
 Cardiaxx	C/Cardiaxx	A-Games:C/CardiaxxElectronicZoo/CardiaxxElectronicZoo.Slave
 Cardiaxx	C/Cardiaxx 	A-Games:C/CardiaxxTeam17/CardiaxxTeam17.Slave
 Carl Lewis Challenge, The	C/Carl Lewis Challenge. The	A-Games:C/CarlLewisChallenge/CarlLewisChallenge.slave
@@ -25,8 +22,8 @@ Champion Driver	C/Champion Driver	A-Games:C/ChampionDriver/ChampionDriver.Slave
 Charlie J. Cool	C/Charlie J. Cool	A-Games:C/CharlieJCool/CharlieJCool.slave
 Chase HQ	C/Chase HQ	A-Games:C/ChaseHQ/ChaseHQ.Slave
 Chase HQ II: Special Criminal Investigation	C/Chase HQ II Special Crimin	A-Games:C/ChaseHQ2/ChaseHQ2.slave
-Chip's Challenge	C/Chips Challenge	A-Games:C/ChipsChallengeEpyx/ChipsChallengeEpyx.Slave
-Chip's Challenge	C/Chips Challenge 	A-Games:C/ChipsChallengeUSGold/ChipsChallengeUSGold.Slave
+Chip's Challenge	C/Chips Challenge	A-Games:C/ChipsChallenge/ChipsChallenge.Slave
+Chip's Challenge NTSC	C/Chips Challenge NTSC	A-Games:C/ChipsChallengeNTSC/ChipsChallengeNTSC.Slave
 Chrome	C/Chrome	A-Games:C/Chrome/Chrome.Slave
 Chubby Gristle	C/Chubby Gristle	A-Games:C/ChubbyGristle/ChubbyGristle.Slave
 Chuckie Egg	C/Chuckie Egg	A-Games:C/ChuckieEgg/ChuckieEgg.Slave
@@ -53,7 +50,7 @@ Corporation 1Disk	C/Corporation 1Disk	A-Games:C/Corporation1Disk/Corporation1Dis
 Corporation 2Disk	C/Corporation 2Disk	A-Games:C/Corporation2Disk/Corporation2Disk.Slave
 Corx	C/Corx	A-Games:C/Corx/Corx.Slave
 Cosmic Pirate	C/Cosmic Pirate	A-Games:C/CosmicPirate/CosmicPirate.Slave
-Cosmic Relief: Prof. Renegade to the Rescue	C/Cosmic Relief Prof. Renega	A-Games:C/CosmicRelief/CosmicRelief.Slave
+Cosmic Relief: Prof. Renegade to the Rescue NTSC	C/Cosmic Relief Prof. Renega	A-Games:C/CosmicReliefNTSC/CosmicReliefNTSC.Slave
 Count Duckula	C/Count Duckula	A-Games:C/CountDuckula/CountDuckula.slave
 Cover Girl Strip Poker	C/Cover Girl Strip Poker	A-Games:C/CoverGirlStripPoker/CoverGirlStripPoker.slave
 Crack Down	C/Crack Down	A-Games:C/Crackdown/Crackdown.slave
@@ -64,8 +61,8 @@ Crazy Sue ...Goes On	C/Crazy Sue ...Goes On	A-Games:C/CrazySueGoesOn/CrazySueGoe
 Creatures	C/Creatures	A-Games:C/Creatures/Creatures.Slave
 Crime Wave	C/Crime Wave	A-Games:C/CrimeWave/CrimeWave.slave
 Crossbow: The Legend of William Tell	C/Crossbow The Legend of Wil	A-Games:C/CrossbowLegendWilliamTell/CrossbowLegendWilliamTell.Slave
-Crystal Hammer	C/Crystal Hammer	A-Games:C/CrystalHammerV1/CrystalHammerV1.Slave
-Crystal Hammer	C/Crystal Hammer 	A-Games:C/CrystalHammerV2/CrystalHammerV2.Slave
+Crystal Hammer	C/Crystal Hammer	A-Games:C/CrystalHammerV1/CrystalHammerV1.slave
+Crystal Hammer	C/Crystal Hammer 	A-Games:C/CrystalHammerV2/CrystalHammerV2.slave
 Crystal Palace	C/Crystal Palace	A-Games:C/CrystalPalace/CrystalPalace.slave
 Custodian	C/Custodian	A-Games:C/Custodian/Custodian.Slave
 Cyber Assault	C/Cyber Assault	A-Games:C/CyberAssault/CyberAssault.Slave

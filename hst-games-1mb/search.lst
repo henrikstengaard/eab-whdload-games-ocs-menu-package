@@ -14,12 +14,12 @@ Adrenalynn	A/Adrenalynn	A-Games:A/Adrenalynn/Adrenalynn.Slave
 Advanced Ski Simulator	A/Advanced Ski Simulator	A-Games:A/AdvancedSkiSimulator/AdvancedSkiSimulator.slave
 Adventures of Quik & Silva, The	A/Adventures of Quik Silva.	A-Games:A/AdventuresOfQuik&Silva/AdventuresOfQuik&Silva.Slave
 Adventures of Robin Hood, The	A/Adventures of Robin Hood.	A-Games:A/AdventuresOfRobinHood/AdventuresOfRobinHood.slave
-Afterburner	A/Afterburner	A-Games:A/AfterBurnerActivision/AfterBurnerActivision.Slave
-After Burner	A/After Burner	A-Games:A/AfterBurnerSega/AfterBurnerSega.slave
+Afterburner	A/Afterburner	A-Games:A/AfterBurner/AfterBurner.Slave
+Afterburner NTSC	A/Afterburner NTSC	A-Games:A/AfterBurnerNTSC/AfterBurnerNTSC.slave
 After the War	A/After the War	A-Games:A/AfterTheWar/AfterTheWar.Slave
-Agony	A/Agony	A-Games:A/Agony/Agony.Slave
+Agony	A/Agony	A-Games:A/Agony/Agony.slave
 Agony Demo	A/Agony Demo	A-Games:A/AgonyDemo/AgonyDemo.slave
-Agony NTSC	A/Agony NTSC	A-Games:A/AgonyNTSC/AgonyNTSC.Slave
+Agony NTSC	A/Agony NTSC	A-Games:A/AgonyNTSC/AgonyNTSC.slave
 Airball	A/Airball	A-Games:A/Airball/Airball.slave
 Airborne Ranger	A/Airborne Ranger	A-Games:A/AirborneRanger/AirborneRanger.Slave
 Alcatraz	A/Alcatraz	A-Games:A/Alcatraz/Alcatraz.slave
@@ -41,6 +41,7 @@ APB Files	A/APB Files	A-Games:A/APBFiles/APBFiles.slave
 All Points Bulletin Image	A/All Points Bulletin Image	A-Games:A/APBImage/APBImage.slave
 Apidya	A/Apidya	A-Games:A/ApidyaAudios/ApidyaAudios.slave
 Apidya	A/Apidya 	A-Games:A/ApidyaKaiko/ApidyaKaiko.slave
+Apidya SE	A/Apidya SE	A-Games:A/ApidyaSpecialEdition/ApidyaSE.slave
 Apprentice	A/Apprentice	A-Games:A/Apprentice/Apprentice.slave
 Aquaventura	A/Aquaventura	A-Games:A/Aquaventura/Aquaventura.Slave
 Aquaventura NTSC	A/Aquaventura NTSC	A-Games:A/AquaventuraNTSC/AquaventuraNTSC.Slave
@@ -50,6 +51,7 @@ Archer MacLean Presents: Billard Americain	A/Archer MacLean Presents Bi	A-Games:
 Archer Maclean's Pool	A/Archer Macleans Pool	A-Games:A/ArcherMacLeansPool/ArcherMacLeansPool.Slave
 Archipelagos	A/Archipelagos	A-Games:A/Archipelagos/Archipelagos.Slave
 Archipelagos NTSC	A/Archipelagos NTSC	A-Games:A/ArchipelagosNTSC/ArchipelagosNTSC.Slave
+UN Squadron	U/UN Squadron	A-Games:A/Area88/Area88.slave
 Arena	A/Arena	A-Games:A/Arena/Arena.slave
 Arkanoid	A/Arkanoid	A-Games:A/Arkanoid/Arkanoid.Slave
 Arkanoid NTSC	A/Arkanoid NTSC	A-Games:A/ArkanoidNTSC/ArkanoidNTSC.Slave
@@ -67,7 +69,8 @@ Atlantyda PL	A/Atlantyda PL	A-Games:A/AtlantydaPl/AtlantydaPl.slave
 Atomic Robo-Kid	A/Atomic Robo-Kid	A-Games:A/AtomicRoboKid/AtomicRobokid.slave
 Atomino	A/Atomino	A-Games:A/Atomino/Atomino.slave
 Atomino DE	A/Atomino DE	A-Games:A/AtominoDe/AtominoDe.slave
-Atomix	A/Atomix	A-Games:A/Atomix/atomix.slave
+Atomino NTSC	A/Atomino NTSC	A-Games:A/AtominoNTSC/AtominoNTSC.slave
+Atomix	A/Atomix	A-Games:A/Atomix/Atomix.Slave
 Atom Smasher	A/Atom Smasher	A-Games:A/AtomSmasher/AtomSmasher.Slave
 Aunt Arctic Adventure	A/Aunt Arctic Adventure	A-Games:A/AuntArcticAdventure/AuntArcticAdventure.Slave
 AWESOME	A/AWESOME	A-Games:A/Awesome/Awesome.Slave
@@ -78,6 +81,7 @@ Baby Jo in 'Going Home'	B/Baby Jo in Going Home	A-Games:B/BabyJoInGoingHome/Baby
 Backlash	B/Backlash	A-Games:B/Backlash/Backlash.Slave
 Back to the Future Part II	B/Back to the Future Part II	A-Games:B/BackToTheFuturePart2/BackToTheFuturePart2.slave
 Back to the Future Part III	B/Back to the Future Part V2	A-Games:B/BackToTheFuturePart3/BackToTheFuturePart3.Slave
+Back to the Future Part III NTSC	B/Back to the Future Part V3	A-Games:B/BackToTheFuturePart3NTSC/BackToTheFuturePart3NTSC.Slave
 Bad Company	B/Bad Company	A-Games:B/BadCompany/BadCompany.slave
 Bad Dudes vs. Dragonninja NTSC	B/Bad Dudes vs. Dragonninja	A-Games:B/BadDudesNTSC/BadDudesNTSC.Slave
 Bad Dudes vs. Dragonninja	B/Bad Dudes vs. Dragonninja 	A-Games:B/BadDudesVsDragonNinja/BadDudesVsDragonNinja.slave
@@ -126,8 +130,8 @@ Blazing Thunder	B/Blazing Thunder	A-Games:B/BlazingThunder/BlazingThunder.Slave
 Blinky's Scary School	B/Blinkys Scary School	A-Games:B/BlinkysScarySchool/BlinkysScarySchool.Slave
 Blood Money	B/Blood Money	A-Games:B/BloodMoney/BloodMoney.slave
 Bloodwych	B/Bloodwych	A-Games:B/Bloodwych/Bloodwych.Slave
-Bloodwych ExtendedLevels	B/Bloodwych ExtendedLevels	A-Games:B/Bloodwych&ExtendedLevels/Bloodwych.Slave
-Bloodwych ExtendedLevels	B/Bloodwych ExtendedLevels 	A-Games:B/Bloodwych&ExtendedLevels/ExtendedLevels.Slave
+Bloodwych ExtendedLevels	B/Bloodwych ExtendedLevels	A-Games:B/Bloodwych&ExtendedLevels/ExtendedLevels.Slave
+Bloodwych ExtendedLevels	B/Bloodwych ExtendedLevels 	A-Games:B/Bloodwych&ExtendedLevels/Bloodwych.Slave
 Blue Angel 69	B/Blue Angel 69	A-Games:B/BlueAngel69/BlueAngel69.slave
 Blues Brothers, The	B/Blues Brothers. The	A-Games:B/BluesBrothers/BluesBrothers.Slave
 BMX Simulator	B/BMX Simulator	A-Games:B/BMXSimulator/BMXSimulator.Slave
@@ -140,7 +144,7 @@ Botics	B/Botics	A-Games:B/Botics/Botics.slave
 Brainball	B/Brainball	A-Games:B/Brainball/Brainball.slave
 Brain Blasters, The	B/Brain Blasters. The	A-Games:B/BrainBlasters/BrainBlasters.Slave
 Brat	B/Brat	A-Games:B/Brat/Brat.slave
-Brataccas	B/Brataccas	A-Games:B/Brataccas/Brataccas.Slave
+Brataccas NTSC	B/Brataccas NTSC	A-Games:B/BrataccasNTSC/BrataccasNTSC.Slave
 Brides of Dracula	B/Brides of Dracula	A-Games:B/BridesOfDracula/BridesOfDracula.slave
 Federation Quest 1: BSS Jane Seymour	F/Federation Quest 1 BSS Jan	A-Games:B/BSSJaneSeymour/BSSJaneSeymour.slave
 Bubble Bobble	B/Bubble Bobble	A-Games:B/BubbleBobble/BubbleBobble.Slave
@@ -153,14 +157,11 @@ Buggy Boy	B/Buggy Boy 	A-Games:B/BuggyBoy/BuggyBoy.slave
 Cabal	C/Cabal	A-Games:C/Cabal/Cabal.slave
 Cabaret Asteroids	C/Cabaret Asteroids	A-Games:C/CabaretAsteroids/CabaretAsteroids.slave
 Cabaret Asteroids	C/Cabaret Asteroids 	A-Games:C/CabaretAsteroidsRepacked/CabaretAsteroidsRepacked.slave
-Cadaver	C/Cadaver	A-Games:C/Cadaver/Cadaver.Slave
-Cadaver: The Pay Off CadaverThePayoff	C/Cadaver The Pay Off Cadave	A-Games:C/Cadaver&CadaverThePayoff/Cadaver&CadaverThePayoff.Slave
+Cadaver: The Pay Off	C/Cadaver The Pay Off	A-Games:C/Cadaver&ThePayoff/Cadaver&ThePayoff.slave
 Cadaver Demos	C/Cadaver Demos	A-Games:C/CadaverDemos/CadaverDemos.slave
-Cadaver: The Pay Off	C/Cadaver The Pay Off	A-Games:C/CadaverThePayoff/CadaverThePayoff.Slave
 California Games II	C/California Games II	A-Games:C/CaliforniaGames2/CaliforniaGames2.slave
-Captain Fizz Meets the Blaster-Trons	C/Captain Fizz Meets the Bla	A-Games:C/CaptainFizz/CaptainFizz.slave
 Captain Planet and the Planeteers	C/Captain Planet and the Pla	A-Games:C/CaptainPlanet&Planeteers/CaptainPlanet&Planeteers.Slave
-Carcharodon: White Sharks	C/Carcharodon White Sharks	A-Games:C/Carcharodon/Carcharodon.Slave
+Carcharodon: White Sharks	C/Carcharodon White Sharks	A-Games:C/Carcharodon/Carcharodon.slave
 Cardiaxx	C/Cardiaxx	A-Games:C/CardiaxxElectronicZoo/CardiaxxElectronicZoo.Slave
 Cardiaxx	C/Cardiaxx 	A-Games:C/CardiaxxTeam17/CardiaxxTeam17.Slave
 Carl Lewis Challenge, The	C/Carl Lewis Challenge. The	A-Games:C/CarlLewisChallenge/CarlLewisChallenge.slave
@@ -179,8 +180,8 @@ Vector Championship Run	V/Vector Championship Run	A-Games:C/ChampionshipRun/Cham
 Charlie J. Cool	C/Charlie J. Cool	A-Games:C/CharlieJCool/CharlieJCool.slave
 Chase HQ	C/Chase HQ	A-Games:C/ChaseHQ/ChaseHQ.Slave
 Chase HQ II: Special Criminal Investigation	C/Chase HQ II Special Crimin	A-Games:C/ChaseHQ2/ChaseHQ2.slave
-Chip's Challenge	C/Chips Challenge	A-Games:C/ChipsChallengeEpyx/ChipsChallengeEpyx.Slave
-Chip's Challenge	C/Chips Challenge 	A-Games:C/ChipsChallengeUSGold/ChipsChallengeUSGold.Slave
+Chip's Challenge	C/Chips Challenge	A-Games:C/ChipsChallenge/ChipsChallenge.Slave
+Chip's Challenge NTSC	C/Chips Challenge NTSC	A-Games:C/ChipsChallengeNTSC/ChipsChallengeNTSC.Slave
 Chrome	C/Chrome	A-Games:C/Chrome/Chrome.Slave
 Chubby Gristle	C/Chubby Gristle	A-Games:C/ChubbyGristle/ChubbyGristle.Slave
 Chuckie Egg	C/Chuckie Egg	A-Games:C/ChuckieEgg/ChuckieEgg.Slave
@@ -207,7 +208,7 @@ Corporation 1Disk	C/Corporation 1Disk	A-Games:C/Corporation1Disk/Corporation1Dis
 Corporation 2Disk	C/Corporation 2Disk	A-Games:C/Corporation2Disk/Corporation2Disk.Slave
 Corx	C/Corx	A-Games:C/Corx/Corx.Slave
 Cosmic Pirate	C/Cosmic Pirate	A-Games:C/CosmicPirate/CosmicPirate.Slave
-Cosmic Relief: Prof. Renegade to the Rescue	C/Cosmic Relief Prof. Renega	A-Games:C/CosmicRelief/CosmicRelief.Slave
+Cosmic Relief: Prof. Renegade to the Rescue NTSC	C/Cosmic Relief Prof. Renega	A-Games:C/CosmicReliefNTSC/CosmicReliefNTSC.Slave
 Count Duckula	C/Count Duckula	A-Games:C/CountDuckula/CountDuckula.slave
 Cover Girl Strip Poker	C/Cover Girl Strip Poker	A-Games:C/CoverGirlStripPoker/CoverGirlStripPoker.slave
 Crack Down	C/Crack Down	A-Games:C/Crackdown/Crackdown.slave
@@ -218,8 +219,8 @@ Crazy Sue ...Goes On	C/Crazy Sue ...Goes On	A-Games:C/CrazySueGoesOn/CrazySueGoe
 Creatures	C/Creatures	A-Games:C/Creatures/Creatures.Slave
 Crime Wave	C/Crime Wave	A-Games:C/CrimeWave/CrimeWave.slave
 Crossbow: The Legend of William Tell	C/Crossbow The Legend of Wil	A-Games:C/CrossbowLegendWilliamTell/CrossbowLegendWilliamTell.Slave
-Crystal Hammer	C/Crystal Hammer	A-Games:C/CrystalHammerV1/CrystalHammerV1.Slave
-Crystal Hammer	C/Crystal Hammer 	A-Games:C/CrystalHammerV2/CrystalHammerV2.Slave
+Crystal Hammer	C/Crystal Hammer	A-Games:C/CrystalHammerV1/CrystalHammerV1.slave
+Crystal Hammer	C/Crystal Hammer 	A-Games:C/CrystalHammerV2/CrystalHammerV2.slave
 Crystal Palace	C/Crystal Palace	A-Games:C/CrystalPalace/CrystalPalace.slave
 Custodian	C/Custodian	A-Games:C/Custodian/Custodian.Slave
 Cyber Assault	C/Cyber Assault	A-Games:C/CyberAssault/CyberAssault.Slave
@@ -233,7 +234,8 @@ Cyberzerk	C/Cyberzerk	A-Games:C/Cyberzerk/Cyberzerk.slave
 Daley Thompson's Olympic Challenge 1Disk	D/Daley Thompsons Olympic Ch	A-Games:D/DaleyThompsonsOC1Disk/DaleyThompsonsOC1Disk.Slave
 Daley Thompson's Olympic Challenge 2Disk	D/Daley Thompsons Olympic V2	A-Games:D/DaleyThompsonsOC2Disk/DaleyThompsonsOC2Disk.Slave
 Damocles - Mercenary II	D/Damocles - Mercenary II	A-Games:D/Damocles/Damocles.slave
-Dan Dare III: The Escape	D/Dan Dare III The Escape	A-Games:D/DanDare3/DanDare3.slave
+Damocles - Mercenary II NTSC	D/Damocles - Mercenary II NT	A-Games:D/DamoclesNTSC/DamoclesNTSC.slave
+Dan Dare III: The Escape	D/Dan Dare III The Escape	A-Games:D/DanDare3/DanDare3.Slave
 Dark Fusion	D/Dark Fusion	A-Games:D/DarkFusion/DarkFusion.Slave
 Darkman	D/Darkman	A-Games:D/Darkman/Darkman.Slave
 DarkSpyre	D/DarkSpyre	A-Games:D/DarkSpyre/DarkSpyre.Slave
@@ -285,7 +287,7 @@ Dragon Tiles	D/Dragon Tiles	A-Games:D/DragonTiles/DragonTiles.Slave
 Drivin' Force	D/Drivin Force	A-Games:D/DrivinForce/DrivinForce.Slave
 Dr. Mario	D/Dr. Mario	A-Games:D/DrMario/DrMario.slave
 Dux	D/Dux	A-Games:D/Dux/Dux.Slave
-Dyna Blaster	D/Dyna Blaster	A-Games:D/DynaBlaster/DynaBlaster.Slave
+Dyna Blaster	D/Dyna Blaster	A-Games:D/DynaBlaster/DynaBlaster.slave
 Dynamite Düx	D/Dynamite Dux	A-Games:D/DynamiteDux/DynamiteDux.Slave
 Dynasty Wars	D/Dynasty Wars	A-Games:D/DynastyWars/DynastyWars.slave
 Dyter-07	D/Dyter-07	A-Games:D/Dyter07/Dyter07.slave
@@ -323,10 +325,11 @@ Eye	E/Eye	A-Games:E/Eye/Eye.Slave
 Eye of Horus, The	E/Eye of Horus. The	A-Games:E/EyeOfHorus/EyeOfHorus.Slave
 F1	F/F1	A-Games:F/F1/F1.slave
 F-16 Combat Pilot	F/F-16 Combat Pilot	A-Games:F/F16CombatPilot/F16CombatPilot.slave
-F-19 Stealth Fighter	F/F-19 Stealth Fighter	A-Games:F/F19StealthFighter/F19StealthFighter.Slave
+F-19 Stealth Fighter	F/F-19 Stealth Fighter	A-Games:F/F19StealthFighter/F19StealthFighter.slave
+F-19 Stealth Fighter NTSC	F/F-19 Stealth Fighter NTSC	A-Games:F/F19StealthFighterNTSC/F19StealthFighterNTSC.slave
 F1 Tornado	F/F1 Tornado	A-Games:F/F1Tornado/F1Tornado.Slave
 F29 Retaliator	F/F29 Retaliator	A-Games:F/F29Retaliator/F29Retaliator.Slave
-F40 Pursuit Simulator	F/F40 Pursuit Simulator	A-Games:F/F40PursuitSimulator/F40PursuitSimulator.Slave
+F40 Pursuit Simulator NTSC	F/F40 Pursuit Simulator NTSC	A-Games:F/F40PursuitSimulatorNTSC/F40PursuitSimulatorNTSC.Slave
 Fallen Angel	F/Fallen Angel	A-Games:F/FallenAngel/FallenAngel.slave
 Fantasy World Dizzy	F/Fantasy World Dizzy	A-Games:F/FantasyWorldDizzy/FantasyWorldDizzy.Slave
 Fast Brain PL	F/Fast Brain PL	A-Games:F/FastBrainPl/FastBrainPl.slave
@@ -356,12 +359,13 @@ Fly Fighter	F/Fly Fighter	A-Games:F/FlyFighter/FlyFighter.Slave
 Footballer of the Year 2	F/Footballer of the Year 2	A-Games:F/FootballerOfTheYear2/FootballerOfTheYear2.slave
 Forgotten Worlds	F/Forgotten Worlds	A-Games:F/ForgottenWorlds/ForgottenWorlds.Slave
 Foundation's Waste	F/Foundations Waste	A-Games:F/FoundationsWaste/FoundationsWaste.Slave
-The Four Crystals of Trazere	T/The Four Crystals of Traze	A-Games:F/FourCrystalsOfTrazere/FourCrystalsOfTrazere.Slave
-The Four Crystals of Trazere getlegendsavedisk	T/The Four Crystals of Tr V2	A-Games:F/FourCrystalsOfTrazere/getlegendsavedisk.slave
+The Four Crystals of Trazere getlegendsavedisk NTSC	T/The Four Crystals of Traze	A-Games:F/FourCrystalsOfTrazereNTSC/getlegendsavedisk.slave
+The Four Crystals of Trazere NTSC	T/The Four Crystals of Tr V2	A-Games:F/FourCrystalsOfTrazereNTSC/FourCrystalsOfTrazereNTSC.Slave
 Franco Baresi World Cup Kick Off IT	F/Franco Baresi World Cup Ki	A-Games:F/FrancoBaresiWorldCupIt/FrancoBaresiWorldCupIt.Slave
 Frankenstein	F/Frankenstein	A-Games:F/Frankenstein/Frankenstein.slave
 Freak Out	F/Freak Out	A-Games:F/FreakOut/FreakOut.slave
 Frenetic	F/Frenetic	A-Games:F/Frenetic/Frenetic.Slave
+Fright Night 512K	F/Fright Night 512K	A-Games:F/FrightNight512k/FrightNight512k.Slave
 Frost Byte	F/Frost Byte	A-Games:F/FrostByte/FrostByte.Slave
 Full Contact	F/Full Contact	A-Games:F/FullContact/FullContact.slave
 Future Shock	F/Future Shock	A-Games:F/FutureShock/FutureShock.slave
@@ -378,7 +382,7 @@ Galaga '92	G/Galaga 92	A-Games:G/Galaga92/Galaga92.Slave
 Galaxy '89	G/Galaxy 89	A-Games:G/Galaxy89/Galaxy89.slave
 Galaxy Blast	G/Galaxy Blast	A-Games:G/GalaxyBlast/GalaxyBlast.Slave
 Galaxy Force II	G/Galaxy Force II	A-Games:G/GalaxyForce2/GalaxyForce2.slave
-Game of Harmony, The	G/Game of Harmony. The	A-Games:G/GameOfHarmony/GameOfHarmony.Slave
+Game of Harmony, The NTSC	G/Game of Harmony. The NTSC	A-Games:G/GameOfHarmonyNTSC/GameOfHarmonyNTSC.Slave
 The Games: Summer Edition	T/The Games Summer Edition	A-Games:G/GamesSummerEdition/GamesSummerEdition.Slave
 Ganymed	G/Ganymed	A-Games:G/Ganymed/Ganymed.slave
 Garfield: Winter's Tail	G/Garfield Winters Tail	A-Games:G/GarfieldAWintersTail/GarfieldAWintersTail.Slave
@@ -405,6 +409,7 @@ Gnome	G/Gnome	A-Games:G/Gnome/Gnome.Slave
 Gnome Alone	G/Gnome Alone	A-Games:G/GnomeAlone/GnomeAlone.Slave
 Godfather, The	G/Godfather. The	A-Games:G/Godfather/Godfather.Slave
 Golden Axe	G/Golden Axe	A-Games:G/GoldenAxe/GoldenAxe.Slave
+Golden Axe NTSC	G/Golden Axe NTSC	A-Games:G/GoldenAxeNTSC/GoldenAxeNTSC.Slave
 Gold of the Aztecs, The	G/Gold of the Aztecs. The	A-Games:G/GoldOfTheAztecs/GoldOfTheAztecs.Slave
 Gold of the Aztecs, The (v1.1) Kernal1.1	G/Gold of the Aztecs. The v1	A-Games:G/GoldOfTheAztecs_Kernal1.1/GoldOfTheAztecs(v1.1).Slave
 Goldrunner	G/Goldrunner	A-Games:G/Goldrunner/Goldrunner.Slave
@@ -422,7 +427,7 @@ Gunshoot	G/Gunshoot	A-Games:G/Gunshoot/Gunshoot.Slave
 Guy Spy and the Crystals of Armageddon	G/Guy Spy and the Crystals o	A-Games:G/GuySpy/GuySpy.Slave
 Halley Project, The: A Mission In Our Solar System	H/Halley Project. The A Miss	A-Games:H/HalleyProject/HalleyProject.Slave
 Hammer Boy	H/Hammer Boy	A-Games:H/HammerBoy/HammerBoy.slave
-Hammerfist	H/Hammerfist	A-Games:H/Hammerfist/Hammerfist.slave
+Hammerfist	H/Hammerfist	A-Games:H/Hammerfist/Hammerfist.Slave
 Hard 'n' Heavy	H/Hard n Heavy 	A-Games:H/HardNHeavy/HardNHeavy.slave
 Harlequin 512KB	H/Harlequin 512KB	A-Games:H/Harlequin512KB/Harlequin512KB.Slave
 Harley-Davidson	H/Harley-Davidson	A-Games:H/HarleyDavidson/HarleyDavidson.slave
@@ -455,12 +460,12 @@ Hudson Hawk	H/Hudson Hawk	A-Games:H/HudsonHawk/HudsonHawk.Slave
 Human Killing Machine	H/Human Killing Machine	A-Games:H/HumanKillingMachine/HumanKillingMachine.slave
 Humans 2: The Jurassic Levels	H/Humans 2 The Jurassic Leve	A-Games:H/Humans2/Humans2.slave
 Humans 2: The Jurassic Levels DE	H/Humans 2 The Jurassic L V2	A-Games:H/Humans2De/Humans2De.slave
-Hunter	H/Hunter	A-Games:H/Hunter/Hunter.slave
+Hunter	H/Hunter	A-Games:H/Hunter/Hunter.Slave
 Hunter DE	H/Hunter DE	A-Games:H/HunterDe/HunterDe.slave
 Hunter FR	H/Hunter FR	A-Games:H/HunterFr/HunterFr.slave
 Hunt for Red October, The	H/Hunt for Red October. The	A-Games:H/HuntForRedOctoberTheMovie/HuntForRedOctoberTheMovie.Slave
 Hybris	H/Hybris	A-Games:H/Hybris/Hybris.slave
-Hybris	H/Hybris 	A-Games:H/Hybris/Hybris.Slave
+Hybris NTSC	H/Hybris NTSC	A-Games:H/HybrisNTSC/HybrisNTSC.Slave
 Hydra	H/Hydra	A-Games:H/Hydra/Hydra.Slave
 Hyperdome	H/Hyperdome	A-Games:H/Hyperdome/Hyperdome.Slave
 Hyperion	H/Hyperion	A-Games:H/Hyperion/Hyperion.Slave
@@ -521,6 +526,7 @@ Kid Gloves	K/Kid Gloves	A-Games:K/KidGloves/KidGloves.Slave
 Kid Gloves II	K/Kid Gloves II	A-Games:K/KidGloves2/KidGloves2.Slave
 Kikstart II	K/Kikstart II	A-Games:K/Kikstart2/Kikstart2.Slave
 Killing Cloud, The	K/Killing Cloud. The	A-Games:K/KillingCloud/KillingCloud.Slave
+Killing Cloud, The NTSC	K/Killing Cloud. The NTSC	A-Games:K/KillingCloudNTSC/KillingCloudNTSC.Slave
 Killing Game Show, The	K/Killing Game Show. The	A-Games:K/KillingGameShow/KillingGameShow.Slave
 Kiro's Quest	K/Kiros Quest	A-Games:K/KirosQuest/KirosQuest.slave
 Klax	K/Klax	A-Games:K/Klax/Klax.Slave
@@ -530,7 +536,7 @@ Kristal, The NTSC	K/Kristal. The NTSC	A-Games:K/KristalNTSC/KristalNTSC.Slave
 Krusty's Super Fun House	K/Krustys Super Fun House	A-Games:K/KrustysSuperFunHouse/KrustysSuperFunHouse.Slave
 Krypton Egg	K/Krypton Egg	A-Games:K/KryptonEgg/KryptonEgg.Slave
 Kwik Snax	K/Kwik Snax	A-Games:K/KwikSnax/KwikSnax.slave
-Labyrinth DK	L/Labyrinth DK	A-Games:L/LabyrinthDk/LabyrinthDk.slave
+Labyrinth DK	L/Labyrinth DK	A-Games:L/LabyrinthDetNyeCOMputerDk/LabyrinthDetNyeCOMputerDk.slave
 Laser Squad	L/Laser Squad	A-Games:L/LaserSquad/LaserSquad.slave
 Laser Squad IT	L/Laser Squad IT	A-Games:L/LaserSquadIt/LaserSquadIt.slave
 Laser Squad NTSC	L/Laser Squad NTSC	A-Games:L/LaserSquadNTSC/LaserSquadNTSC.slave
@@ -540,8 +546,8 @@ Last Ninja 3	L/Last Ninja 3	A-Games:L/LastNinja3/LastNinja3.Slave
 Leatherneck	L/Leatherneck	A-Games:L/Leatherneck/Leatherneck.Slave
 Leavin' Teramis	L/Leavin Teramis	A-Games:L/LeavinTeramis/LeavinTeramis.Slave
 Legacy NoIntro	L/Legacy NoIntro	A-Games:L/LegacyNoIntro/LegacyNoIntro.slave
-Legend	L/Legend	A-Games:L/LegendMindscape/LegendMindscape.Slave
 Legend getlegendsavedisk	L/Legend getlegendsavedisk	A-Games:L/LegendMindscape/getlegendsavedisk.slave
+Legend	L/Legend	A-Games:L/LegendMindscape/LegendMindscape.Slave
 Legend of the Lost	L/Legend of the Lost	A-Games:L/LegendOfTheLost/LegendOfTheLost.Slave
 Lemmings Files Alt	L/Lemmings Files Alt	A-Games:L/LemmingsAltFiles/LemmingsAltFiles.Slave
 Lemmings Image Alt	L/Lemmings Image Alt	A-Games:L/LemmingsAltImage/LemmingsAltImage.Slave
@@ -573,7 +579,8 @@ Magic Boy	M/Magic Boy	A-Games:M/MagicBoy/MagicBoy.slave
 Magician, The	M/Magician. The	A-Games:M/Magician/Magician.Slave
 Magic Lines	M/Magic Lines	A-Games:M/MagicLines/MagicLines.Slave
 Magic Pockets	M/Magic Pockets	A-Games:M/MagicPockets/MagicPockets.Slave
-Magic Pockets NTSC	M/Magic Pockets NTSC	A-Games:M/MagicPocketsNTSC/MagicPocketsNTSC.Slave
+Magic Pockets NTSC	M/Magic Pockets NTSC	A-Games:M/MagicPocketsNTSC/MagicPocketsNTSC.slave
+Magic Pockets NTSC	M/Magic Pockets NTSC 	A-Games:M/MagicPocketsNTSC/MagicPocketsNTSC.Slave
 Magnatron	M/Magnatron	A-Games:M/Magnatron/Magnatron.Slave
 Manchester United	M/Manchester United	A-Games:M/ManchesterUnited/ManchesterUnited.Slave
 Man from the Council, The	M/Man from the Council. The	A-Games:M/ManFromTheCouncil/ManFromTheCouncil.Slave
@@ -616,7 +623,7 @@ Moonshine Racers	M/Moonshine Racers	A-Games:M/MoonShineRacers/MoonShineRacers.Sl
 Morph	M/Morph	A-Games:M/Morph/Morph.Slave
 Mot	M/Mot	A-Games:M/MOT/MOT.Slave
 Motörhead	M/Motorhead	A-Games:M/Motorhead/Motorhead.Slave
-MouseQuest	M/MouseQuest	A-Games:M/MouseQuest/MouseQuest.Slave
+MouseQuest NTSC	M/MouseQuest NTSC	A-Games:M/MouseQuestNTSC/MouseQuestNTSC.Slave
 Mousetrap	M/Mousetrap	A-Games:M/Mousetrap/Mousetrap.Slave
 Do! Run Run Files	D/Do Run Run Files	A-Games:M/MrDoRunRunFiles/MrDoRunRunFiles.Slave
 Do! Run Run Image	D/Do Run Run Image	A-Games:M/MrDoRunRunImage/MrDoRunRunImage.Slave
@@ -644,6 +651,7 @@ Nigel Mansell's Grand Prix	N/Nigel Mansells Grand Prix	A-Games:N/NigelMansellsGr
 Nightbreed: The Action Game	N/Nightbreed The Action Game	A-Games:N/NightbreedAction/NightbreedAction.Slave
 Night Breed: The Interactive Movie	N/Night Breed The Interactiv	A-Games:N/NightbreedMovie/NightbreedMovie.Slave
 Nightdawn	N/Nightdawn	A-Games:N/Nightdawn/Nightdawn.slave
+Nightdawn NTSC	N/Nightdawn NTSC	A-Games:N/NightdawnNTSC/NightdawnNTSC.slave
 Night Hunter	N/Night Hunter	A-Games:N/NightHunter/NightHunter.slave
 Ninja Rabbits	N/Ninja Rabbits	A-Games:N/NinjaRabbits/NinjaRabbits.Slave
 Ninja Spirit	N/Ninja Spirit	A-Games:N/NinjaSpirit/NinjaSpirit.Slave
@@ -669,11 +677,11 @@ Orbital Destroyer	O/Orbital Destroyer	A-Games:O/OrbitalDestroyer/OrbitalDestroye
 Oriental Games	O/Oriental Games	A-Games:O/OrientalGames/OrientalGames.Slave
 Ork	O/Ork	A-Games:O/Ork/Ork.Slave
 Ork Demo	O/Ork Demo	A-Games:O/OrkDemo/OrkDemo.Slave
-Ork NTSC	O/Ork NTSC	A-Games:O/OrkNTSC/OrkNTSC.slave
-OsWALD of the Ice Floes	O/OsWALD of the Ice Floes	A-Games:O/OsWALDOfTheIceFloes/OsWALDOfTheIceFloes.Slave
+Ork NTSC	O/Ork NTSC	A-Games:O/OrkNTSC/OrkNTSC.Slave
+OsWALD of the Ice Floes NTSC	O/OsWALD of the Ice Floes NT	A-Games:O/OsWALDOfTheIceFloesNTSC/OsWALDOfTheIceFloesNTSC.Slave
 Outlands	O/Outlands	A-Games:O/Outlands&DizzyDice/Outlands&DizzyDice.slave
-Out Run	O/Out Run	A-Games:O/OutRunSega/OutRunSega.slave
-Out Run	O/Out Run 	A-Games:O/OutRunUSGold/OutRunUSGold.slave
+Out Run	O/Out Run	A-Games:O/OutRun/OutRun.slave
+Out Run NTSC	O/Out Run NTSC	A-Games:O/OutRunNTSC/OutRunNTSC.slave
 Outzone	O/Outzone	A-Games:O/Outzone/Outzone.Slave
 Overlander	O/Overlander	A-Games:O/Overlander/Overlander.Slave
 Oxxonian	O/Oxxonian	A-Games:O/Oxxonian/Oxxonian.Slave
@@ -693,26 +701,26 @@ Parasol Stars: The Story of Rainbow Islands II	P/Parasol Stars The Story of	A-Ga
 Passing Shot	P/Passing Shot	A-Games:P/PassingShot/PassingShot.Slave
 Pegasus	P/Pegasus	A-Games:P/Pegasus/Pegasus.Slave
 Penthouse Hot Numbers	P/Penthouse Hot Numbers	A-Games:P/PenthouseHotNumbers/PenthouseHotNumbers.Slave
-Peter Beardsley's International Football	P/Peter Beardsleys Internati	A-Games:P/PeterBeardsleysIF/PeterBeardsleysIF.Slave
+Peter Beardsley's International Football NTSC	P/Peter Beardsleys Internati	A-Games:P/PeterBeardsleysIFNTSC/PeterBeardsleysIFNTSC.Slave
 Peter Schmeichel Soccer	P/Peter Schmeichel Soccer	A-Games:P/PeterSchmeichelSoccer/PeterSchmeichelSoccer.Slave
 Phantom Fighter	P/Phantom Fighter	A-Games:P/PhantomFighter/PhantomFighter.Slave
 Phobia	P/Phobia	A-Games:P/Phobia/Phobia.Slave
 Photon Storm	P/Photon Storm	A-Games:P/PhotonStorm/PhotonStorm.slave
 Pick 'n Pile	P/Pick n Pile	A-Games:P/PickNPile/PickNPile.Slave
 Pink Panther	P/Pink Panther	A-Games:P/PinkPanther/PinkPanther.slave
-Pipe Dream	P/Pipe Dream	A-Games:P/PipeDream/PipeDream.Slave
+Pipe Dream NTSC	P/Pipe Dream NTSC	A-Games:P/PipeDreamNTSC/PipeDreamNTSC.Slave
 Pipeline	P/Pipeline	A-Games:P/PipelineNomad/PipelineNomad.Slave
 Pipeline	P/Pipeline 	A-Games:P/PipelineOracle/PipelineOracle.Slave
 Pipe Mania	P/Pipe Mania	A-Games:P/PipeMania/PipeMania.Slave
 Pit-Fighter	P/Pit-Fighter	A-Games:P/PitFighter/PitFighter.slave
 Plague, The	P/Plague. The	A-Games:P/Plague/Plague.slave
-Platoon	P/Platoon	A-Games:P/Platoon/Platoon.Slave
+Platoon NTSC	P/Platoon NTSC	A-Games:P/PlatoonNTSC/PlatoonNTSC.Slave
 Player Manager	P/Player Manager	A-Games:P/PlayerManager/PlayerManager.slave
 Player Manager DE	P/Player Manager DE	A-Games:P/PlayerManagerDe/PlayerManagerDe.slave
 Player Manager FR	P/Player Manager FR	A-Games:P/PlayerManagerFr/PlayerManagerFr.slave
 Player Manager IT	P/Player Manager IT	A-Games:P/PlayerManagerIt/PlayerManagerIt.slave
 Plotting	P/Plotting	A-Games:P/Plotting/Plotting.slave
-Pod	P/Pod	A-Games:P/Pod/Pod.Slave
+Pod	P/Pod	A-Games:P/Pod/Pod.slave
 Postman Pat	P/Postman Pat	A-Games:P/PostmanPat/PostmanPat.Slave
 Power, The	P/Power. The	A-Games:P/Power/Power.Slave
 PowerMonger	P/PowerMonger	A-Games:P/Powermonger/Powermonger.Slave
@@ -738,7 +746,7 @@ Pub Trivia Simulator	P/Pub Trivia Simulator	A-Games:P/PubTriviaSimulator/PubTriv
 Puffy's Saga	P/Puffys Saga	A-Games:P/PuffysSaga/PuffysSaga.Slave
 Puzznic	P/Puzznic	A-Games:P/Puzznic/Puzznic.Slave
 Pyramax	P/Pyramax	A-Games:P/Pyramax/Pyramax.Slave
-Qix	Q/Qix	A-Games:Q/Qix/Qix.Slave
+Qix NTSC	Q/Qix NTSC	A-Games:Q/QixNTSC/QixNTSC.Slave
 Quadralien	Q/Quadralien	A-Games:Q/Quadralien/Quadralien.slave
 Quadrel	Q/Quadrel	A-Games:Q/Quadrel/Quadrel.Slave
 Quartz	Q/Quartz	A-Games:Q/Quartz/Quartz.slave
@@ -751,6 +759,7 @@ Rainbow Islands	R/Rainbow Islands	A-Games:R/RainbowIslands/RainbowIslands.slave
 Rainbow Warrior	R/Rainbow Warrior	A-Games:R/RainbowWarrior/RainbowWarrior.Slave
 Rally Cross Challenge	R/Rally Cross Challenge	A-Games:R/RallyCrossChallenge/RallyCrossChallenge.Slave
 Rambo III	R/Rambo III	A-Games:R/Rambo3/Rambo3.slave
+Rambo III NTSC	R/Rambo III NTSC	A-Games:R/Rambo3NTSC/Rambo3NTSC.slave
 Rampage	R/Rampage	A-Games:R/Rampage/Rampage.slave
 Rat Trap	R/Rat Trap	A-Games:R/RatTrap/RatTrap.Slave
 R.B.I. 2 Baseball	R/R.B.I. 2 Baseball	A-Games:R/RBI2Baseball/RBI2Baseball.Slave
@@ -761,8 +770,8 @@ Rebellion	R/Rebellion	A-Games:R/Rebellion/Rebellion.slave
 Red Heat	R/Red Heat	A-Games:R/RedHeat/RedHeat.slave
 Reflexity: Pinball Challenge	R/Reflexity Pinball Challeng	A-Games:R/Reflexity/Reflexity.Slave
 Renegade	R/Renegade	A-Games:R/Renegade/Renegade.slave
-Renegades Deluxe	R/Renegades Deluxe	A-Games:R/Renegades/Renegades.Slave
 Renegades Deluxe Editor	R/Renegades Deluxe Editor	A-Games:R/Renegades/RenegadesEditor.Slave
+Renegades Deluxe	R/Renegades Deluxe	A-Games:R/Renegades/Renegades.Slave
 Resolution 101	R/Resolution 101	A-Games:R/Resolution101/Resolution101.Slave
 Star Wars: Return of the Jedi	S/Star Wars Return of the Je	A-Games:R/ReturnOfTheJedi/ReturnOfTheJedi.slave
 Return to Genesis	R/Return to Genesis	A-Games:R/ReturnToGenesis/ReturnToGenesis.Slave
@@ -830,13 +839,13 @@ Seven Gates of Jambala, The Image	S/Seven Gates of Jambala. V2	A-Games:S/SevenGa
 Seymour goes to Hollywood	S/Seymour goes to Hollywood	A-Games:S/SeymourGoesToHollywood/SeymourGoesToHollywood.slave
 Shadow Dancer	S/Shadow Dancer	A-Games:S/ShadowDancer/ShadowDancer.slave
 Shadowlands	S/Shadowlands	A-Games:S/Shadowlands/Shadowlands.Slave
-Shadow of the Beast	S/Shadow of the Beast	A-Games:S/ShadowOfTheBeast/ShadowOfTheBeast.slave
+Shadow of the Beast	S/Shadow of the Beast	A-Games:S/ShadowOfTheBeast/ShadowOfTheBeast.Slave
 Shadow of the Beast II	S/Shadow of the Beast II	A-Games:S/ShadowOfTheBeast2/ShadowOfTheBeast2.Slave
 Shadow of the Beast II Demo	S/Shadow of the Beast II Dem	A-Games:S/ShadowOfTheBeast2Demo/ShadowOfTheBeast2Demo.Slave
 Shadow of the Beast II NTSC	S/Shadow of the Beast II NTS	A-Games:S/ShadowOfTheBeast2NTSC/ShadowOfTheBeast2NTSC.Slave
 Shadow of the Beast Demo	S/Shadow of the Beast Demo	A-Games:S/ShadowOfTheBeastDemo/ShadowOfTheBeastDemo.Slave
-Shadow Warriors	S/Shadow Warriors	A-Games:S/ShadowWarriors/ShadowWarriors.slave
-Shadow Warriors	S/Shadow Warriors 	A-Games:S/ShadowWarriors/ShadowWarriors.Slave
+Shadow Warriors	S/Shadow Warriors	A-Games:S/ShadowWarriors/ShadowWarriors.Slave
+Shadow Warriors	S/Shadow Warriors 	A-Games:S/ShadowWarriors/ShadowWarriors.slave
 Sharkey's Moll	S/Sharkeys Moll	A-Games:S/SharkeysMoll/SharkeysMoll.Slave
 She-Fox	S/She-Fox	A-Games:S/SheFox/SheFox.slave
 Shinobi	S/Shinobi	A-Games:S/Shinobi/Shinobi.Slave
@@ -879,20 +888,22 @@ Space Assault	S/Space Assault	A-Games:S/SpaceAssault/SpaceAssault.slave
 Space Crusade	S/Space Crusade	A-Games:S/SpaceCrusade/SpaceCrusade.Slave
 Space Crusade VoyageBeyond	S/Space Crusade VoyageBeyond	A-Games:S/SpaceCrusade&VoyageBeyond/SpaceCrusade.Slave
 Space Crusade VoyageBeyond	S/Space Crusade VoyageBey V2	A-Games:S/SpaceCrusade&VoyageBeyond/VoyageBeyond.Slave
-Spacecutter	S/Spacecutter	A-Games:S/Spacecutter/Spacecutter.Slave
+Spacecutter NTSC	S/Spacecutter NTSC	A-Games:S/SpacecutterNTSC/SpacecutterNTSC.Slave
 Space Gun	S/Space Gun	A-Games:S/SpaceGun/SpaceGun.Slave
 Space Harrier	S/Space Harrier	A-Games:S/SpaceHarrier/SpaceHarrier.Slave
 Space Harrier RetrnFntZone	S/Space Harrier RetrnFntZone	A-Games:S/SpaceHarrier&RetrnFntZone/SpaceHarrier.slave
 Space Harrier II	S/Space Harrier II	A-Games:S/SpaceHarrier2/SpaceHarrier2.Slave
 Space Harrier NTSC	S/Space Harrier NTSC	A-Games:S/SpaceHarrierNTSC/SpaceHarrierNTSC.Slave
 Space Pilot 89	S/Space Pilot 89	A-Games:S/SpacePilot89/SpacePilot89.Slave
+Spaceport	S/Spaceport	A-Games:S/Spaceport/Spaceport.Slave
 Space Station Oblivion	S/Space Station Oblivion	A-Games:S/SpaceStation/SpaceStation.Slave
+Spacewrecked: 14 Billion Light Years From Earth NTSC	S/Spacewrecked 14 Billion Li	A-Games:S/SpacewreckedNTSC/SpacewreckedNTSC.Slave
 Speedball	S/Speedball	A-Games:S/Speedball/Speedball.slave
 Speedball 2: Brutal Deluxe	S/Speedball 2 Brutal Deluxe	A-Games:S/Speedball2/Speedball2.Slave
 Speedball 2: Brutal Deluxe NTSC	S/Speedball 2 Brutal Deluxe 	A-Games:S/Speedball2NTSC/Speedball2NTSC.Slave
 Speedball NTSC	S/Speedball NTSC	A-Games:S/SpeedballNTSC/SpeedballNTSC.slave
 Speedboat Assassin	S/Speedboat Assassin	A-Games:S/SpeedboatAssassins/SpeedboatAssassins.Slave
-Speed Buggy	S/Speed Buggy	A-Games:S/SpeedBuggy/SpeedBuggy.slave
+Speed Buggy NTSC	S/Speed Buggy NTSC	A-Games:S/SpeedBuggyNTSC/SpeedBuggyNTSC.slave
 Spellbound Dizzy	S/Spellbound Dizzy	A-Games:S/SpellboundDizzy/SpellboundDizzy.Slave
 Sorcerer	S/Sorcerer	A-Games:S/SpellfireTheSorcerer/SpellfireTheSorcerer.slave
 Spherical	S/Spherical	A-Games:S/Spherical/Spherical.Slave
@@ -926,11 +937,11 @@ Street Fighter	S/Street Fighter	A-Games:S/StreetFighter/StreetFighter.slave
 Street Gang	S/Street Gang	A-Games:S/StreetGang/StreetGang.slave
 Strider	S/Strider	A-Games:S/Strider/Strider.Slave
 Strider II	S/Strider II	A-Games:S/Strider2/Strider2.Slave
-Strike Aces	S/Strike Aces	A-Games:S/StrikeAces/StrikeAces.Slave
+Strike Aces NTSC	S/Strike Aces NTSC	A-Games:S/StrikeAcesNTSC/StrikeAcesNTSC.Slave
 Stryx	S/Stryx	A-Games:S/Stryx/Stryx.Slave
 Stunt Car Racer	S/Stunt Car Racer	A-Games:S/StuntCarRacer/StuntCarRacer.Slave
 Stunt Car Racer	S/Stunt Car Racer 	A-Games:S/StuntCarRacerTNT/StuntCarRacerTNT.Slave
-Stunt Track Racer	S/Stunt Track Racer	A-Games:S/StuntTrackRacer/StuntTrackRacer.Slave
+Stunt Track Racer NTSC	S/Stunt Track Racer NTSC	A-Games:S/StuntTrackRacerNTSC/StuntTrackRacerNTSC.Slave
 Subbuteo: The Computer Game	S/Subbuteo The Computer Game	A-Games:S/Subbuteo/Subbuteo.Slave
 Suburban Commando	S/Suburban Commando	A-Games:S/SuburbanCommando/SuburbanCommando.Slave
 Summer Camp	S/Summer Camp	A-Games:S/SummerCamp/SummerCamp.Slave
@@ -947,14 +958,16 @@ Super Cauldron	S/Super Cauldron	A-Games:S/SuperCauldron/SuperCauldron.Slave
 Super Grand Prix	S/Super Grand Prix	A-Games:S/SuperGrandPrix/SuperGrandPrix.Slave
 Grid Runner	G/Grid Runner	A-Games:S/SuperGridRunner/SuperGridRunner.Slave
 Superman: The Man of Steel	S/Superman The Man of Steel	A-Games:S/Superman/Superman.Slave
-Super Monaco GP	S/Super Monaco GP	A-Games:S/SuperMonacoGP/SuperMonacoGP.Slave
-Super Monaco GP	S/Super Monaco GP 	A-Games:S/SuperMonacoGP/SuperMonacoGP.slave
+Super Monaco GP	S/Super Monaco GP	A-Games:S/SuperMonacoGP/SuperMonacoGP.slave
+Super Monaco GP	S/Super Monaco GP 	A-Games:S/SuperMonacoGP/SuperMonacoGP.Slave
 Super Scramble Simulator	S/Super Scramble Simulator	A-Games:S/SuperScrambleSimulator/SuperScrambleSimulator.slave
 Super Seymour	S/Super Seymour	A-Games:S/SuperSeymourSavesPlanet/SuperSeymourSavesPlanet.slave
 Super Skweek 512KB	S/Super Skweek 512KB	A-Games:S/SuperSkweek512KB/SuperSkweek512KB.Slave
 Super Space Invaders	S/Super Space Invaders	A-Games:S/SuperSpaceInvaders/SuperSpaceInvaders.slave
+Super Space Invaders NTSC	S/Super Space Invaders NTSC	A-Games:S/SuperSpaceInvadersNTSC/SuperSpaceInvadersNTSC.slave
 Supremacy	S/Supremacy	A-Games:S/Supremacy/Supremacy.Slave
 Switchblade	S/Switchblade	A-Games:S/Switchblade/Switchblade.Slave
+Switchblade II	S/Switchblade II	A-Games:S/Switchblade2/Switchblade2.Slave
 Sword & The Rose, The	S/Sword The Rose. The	A-Games:S/Sword&TheRose/Sword&TheRose.slave
 Sword of Honour	S/Sword of Honour	A-Games:S/SwordOfHonour/SwordOfHonour.slave
 Sword of Sodan	S/Sword of Sodan	A-Games:S/SwordOfSodan/SwordOfSodan.slave
@@ -974,12 +987,14 @@ Terry's Big Adventure	T/Terrys Big Adventure	A-Games:T/TerrysBigAdventure/Terrys
 Tetra Quest	T/Tetra Quest	A-Games:T/TetraQuest/TetraQuest.slave
 Tetrix	T/Tetrix	A-Games:T/Tetrix/Tetrix.Slave
 Theme Park Mystery	T/Theme Park Mystery	A-Games:T/ThemeParkMystery/ThemeParkMystery.slave
+Theme Park Mystery NTSC	T/Theme Park Mystery NTSC	A-Games:T/ThemeParkMysteryNTSC/ThemeParkMysteryNTSC.slave
 Thomas the Tank Engine	T/Thomas the Tank Engine	A-Games:T/ThomasTheTankEngine/ThomasTheTankEngine.Slave
 Thomas the Tank Engine 2	T/Thomas the Tank Engine 2	A-Games:T/ThomasTheTankEngine2/ThomasTheTankEngine2.slave
 Thunderbirds	T/Thunderbirds	A-Games:T/Thunderbirds/Thunderbirds.slave
 Thunder Blade	T/Thunder Blade	A-Games:T/ThunderBlade/ThunderBlade.Slave
 Thunder Blade NTSC	T/Thunder Blade NTSC	A-Games:T/ThunderBladeNTSC/ThunderBladeNTSC.Slave
 Thunder Burner	T/Thunder Burner	A-Games:T/ThunderBurner/ThunderBurner.Slave
+ThunderCats	T/ThunderCats	A-Games:T/ThunderCats/ThunderCats.slave
 Thunderstrike	T/Thunderstrike	A-Games:T/ThunderStrike/ThunderStrike.slave
 Tie-Break	T/Tie-Break	A-Games:T/TieBreak/TieBreak.Slave
 Tiger Road	T/Tiger Road	A-Games:T/TigerRoad/TigerRoad.Slave
@@ -1003,7 +1018,7 @@ Total Recall Files	T/Total Recall Files	A-Games:T/TotalRecallFiles/TotalRecallFi
 Total Recall Image	T/Total Recall Image	A-Games:T/TotalRecallImage/TotalRecallImage.Slave
 Tournament Golf	T/Tournament Golf	A-Games:T/TournamentGolf/TournamentGolf.Slave
 Tower of Babel	T/Tower of Babel	A-Games:T/TowerOfBabel/TowerOfBabel.Slave
-Tower Toppler	T/Tower Toppler	A-Games:T/TowerToppler/TowerToppler.slave
+Tower Toppler NTSC	T/Tower Toppler NTSC	A-Games:T/TowerTopplerNTSC/TowerTopplerNTSC.slave
 Celica GT Rally	C/Celica GT Rally	A-Games:T/ToyotaCelicaGTRally/ToyotaCelicaGTRally.Slave
 Tracker	T/Tracker	A-Games:T/Tracker/Tracker.Slave
 Trained Assassin	T/Trained Assassin	A-Games:T/TrainedAssassin/TrainedAssassin.Slave
@@ -1030,8 +1045,8 @@ Ultimate Pinball Quest, The	U/Ultimate Pinball Quest. Th	A-Games:U/UltimatePinba
 Ultimate Ride, The	U/Ultimate Ride. The	A-Games:U/UltimateRide/UltimateRide.slave
 Universal Warrior	U/Universal Warrior	A-Games:U/UniversalWarrior/UniversalWarrior.slave
 Unsensible Soccer	U/Unsensible Soccer	A-Games:U/UnsensibleSoccer/UnsensibleSoccer.Slave
-UN Squadron	U/UN Squadron	A-Games:U/UNSquadron/UNSquadron.slave
-UN Squadron	U/UN Squadron 	A-Games:U/UNSquadronEarok/UNSquadronEarok.slave
+UN Squadron	U/UN Squadron 	A-Games:U/UNSquadron/UNSquadron.slave
+UN Squadron	U/UN Squadron  	A-Games:U/UNSquadronEarok/UNSquadronEarok.slave
 Untouchables, The	U/Untouchables. The	A-Games:U/Untouchables/Untouchables.Slave
 Untouchables, The	U/Untouchables. The 	A-Games:U/UntouchablesSE/UntouchablesSE.Slave
 Vampire's Empire	V/Vampires Empire	A-Games:V/VampiresEmpire/VampiresEmpire.Slave
@@ -1052,8 +1067,8 @@ Viz	V/Viz	A-Games:V/Viz/Viz.Slave
 Voodoo Nightmare	V/Voodoo Nightmare	A-Games:V/VoodooNightmare/VoodooNightmare.Slave
 Voyager	V/Voyager	A-Games:V/Voyager/Voyager.slave
 Vroom	V/Vroom	A-Games:V/Vroom/Vroom.Slave
-Vroom DataDisk	V/Vroom DataDisk	A-Games:V/Vroom&DataDisk/Vroom.Slave
-Vroom DataDisk	V/Vroom DataDisk 	A-Games:V/Vroom&DataDisk/DataDisk.Slave
+Vroom DataDisk	V/Vroom DataDisk	A-Games:V/Vroom&DataDisk/DataDisk.Slave
+Vroom DataDisk	V/Vroom DataDisk 	A-Games:V/Vroom&DataDisk/Vroom.Slave
 Vroom Multi-Player	V/Vroom Multi-Player	A-Games:V/VroomMultiPlayer/VroomMultiplayer.Slave
 Vyrus	V/Vyrus	A-Games:V/Vyrus/Vyrus.Slave
 Wacky Races	W/Wacky Races	A-Games:W/WackyRaces/WackyRaces.Slave
@@ -1081,6 +1096,7 @@ Wipe Out	W/Wipe Out	A-Games:W/WipeOut/WipeOut.slave
 Wizball	W/Wizball	A-Games:W/Wizball/Wizball.Slave
 Wolfchild	W/Wolfchild	A-Games:W/Wolfchild/Wolfchild.Slave
 Wonderboy in Monsterland	W/Wonderboy in Monsterland	A-Games:W/WonderboyInMonsterland/WonderboyInMonsterland.Slave
+Wonderboy in Monsterland	W/Wonderboy in Monsterland 	A-Games:W/WonderboyInMonsterlandSE/WonderboyInMonsterlandSE.Slave
 World Championship Boxing Manager	W/World Championship Boxing	A-Games:W/WorldChampBoxingManager/WorldChampBoxingManager.Slave
 World Class Rugby	W/World Class Rugby	A-Games:W/WorldClassRugby/WorldClassRugby.Slave
 World Class Rugby: Five Nations Edition	W/World Class Rugby Five Nat	A-Games:W/WorldClassRugby5Nations/WorldClassRugby5Nations.Slave
@@ -1097,6 +1113,7 @@ Xenon	X/Xenon	A-Games:X/Xenon/Xenon.slave
 Xenon 2: Megablast 1Disk	X/Xenon 2 Megablast 1Disk	A-Games:X/Xenon21Disk/Xenon21Disk.Slave
 Xenon 2: Megablast 2Disk	X/Xenon 2 Megablast 2Disk	A-Games:X/Xenon22Disk/Xenon22Disk.Slave
 Xenon 2: Megablast Demo	X/Xenon 2 Megablast Demo	A-Games:X/Xenon2Demo/Xenon2Demo.Slave
+Xenon 2: Megablast NTSC	X/Xenon 2 Megablast NTSC	A-Games:X/Xenon2NTSC/Xenon2NTSC.Slave
 Xenophobe	X/Xenophobe	A-Games:X/Xenophobe/Xenophobe.slave
 XR-35 Fighter Mission	X/XR-35 Fighter Mission	A-Games:X/XR35/XR35.Slave
 Xybots	X/Xybots	A-Games:X/Xybots/Xybots.Slave
@@ -1105,10 +1122,11 @@ Yogi's Big Clean Up	Y/Yogis Big Clean Up	A-Games:Y/YogisBigCleanUp/YogisBigClean
 Yogi's Great Escape	Y/Yogis Great Escape	A-Games:Y/YogisGreatEscape/YogisGreatEscape.Slave
 Yolanda Files	Y/Yolanda Files	A-Games:Y/YolandaFiles/YolandaFiles.Slave
 Yolanda Image	Y/Yolanda Image	A-Games:Y/YolandaImage/YolandaImage.Slave
-Zany Golf	Z/Zany Golf	A-Games:Z/ZanyGolf/ZanyGolf.slave
+Zany Golf NTSC	Z/Zany Golf NTSC	A-Games:Z/ZanyGolfNTSC/ZanyGolfNTSC.slave
 Zarathrusta	Z/Zarathrusta	A-Games:Z/Zarathrusta/Zarathrusta.slave
 Zaxxon 512KB	Z/Zaxxon 512KB	A-Games:Z/Zaxxon512KB/Zaxxon512KB.Slave
 Ziriax	Z/Ziriax	A-Games:Z/Ziriax/Ziriax.slave
+Ziriax	Z/Ziriax 	A-Games:Z/ZiriaxUltimateEdition/ZiriaxUltimateEdition.slave
 Zone Warrior	Z/Zone Warrior	A-Games:Z/ZoneWarrior/ZoneWarrior.slave
 Zoom!	Z/Zoom	A-Games:Z/Zoom/Zoom.Slave
 Z-Out	Z/Z-Out	A-Games:Z/ZOut/ZOut.slave

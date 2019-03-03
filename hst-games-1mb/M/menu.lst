@@ -3,7 +3,8 @@ Magic Boy	M/Magic Boy	A-Games:M/MagicBoy/MagicBoy.slave
 Magician, The	M/Magician. The	A-Games:M/Magician/Magician.Slave
 Magic Lines	M/Magic Lines	A-Games:M/MagicLines/MagicLines.Slave
 Magic Pockets	M/Magic Pockets	A-Games:M/MagicPockets/MagicPockets.Slave
-Magic Pockets NTSC	M/Magic Pockets NTSC	A-Games:M/MagicPocketsNTSC/MagicPocketsNTSC.Slave
+Magic Pockets NTSC	M/Magic Pockets NTSC	A-Games:M/MagicPocketsNTSC/MagicPocketsNTSC.slave
+Magic Pockets NTSC	M/Magic Pockets NTSC 	A-Games:M/MagicPocketsNTSC/MagicPocketsNTSC.Slave
 Magnatron	M/Magnatron	A-Games:M/Magnatron/Magnatron.Slave
 Manchester United	M/Manchester United	A-Games:M/ManchesterUnited/ManchesterUnited.Slave
 Man from the Council, The	M/Man from the Council. The	A-Games:M/ManFromTheCouncil/ManFromTheCouncil.Slave
@@ -46,7 +47,7 @@ Moonshine Racers	M/Moonshine Racers	A-Games:M/MoonShineRacers/MoonShineRacers.Sl
 Morph	M/Morph	A-Games:M/Morph/Morph.Slave
 Mot	M/Mot	A-Games:M/MOT/MOT.Slave
 Motörhead	M/Motorhead	A-Games:M/Motorhead/Motorhead.Slave
-MouseQuest	M/MouseQuest	A-Games:M/MouseQuest/MouseQuest.Slave
+MouseQuest NTSC	M/MouseQuest NTSC	A-Games:M/MouseQuestNTSC/MouseQuestNTSC.Slave
 Mousetrap	M/Mousetrap	A-Games:M/Mousetrap/Mousetrap.Slave
 M.U.D.S.	M/M.U.D.S.	A-Games:M/MUDS/MUDS.slave
 Munsters, The	M/Munsters. The	A-Games:M/Munsters/Munsters.Slave
