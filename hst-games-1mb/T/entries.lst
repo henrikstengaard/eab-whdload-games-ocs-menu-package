@@ -1,18 +1,19 @@
-The Cartoons	T/The Cartoons	A-Games:C/Cartoons/Cartoons.Slave
+The Cartoons	T/The Cartoons	A-Games:C/Cartoons/Cartoons.slave
 The Four Crystals of Trazere getlegendsavedisk NTSC	T/The Four Crystals of Traze	A-Games:F/FourCrystalsOfTrazereNTSC/getlegendsavedisk.slave
 The Four Crystals of Trazere NTSC	T/The Four Crystals of Tr V2	A-Games:F/FourCrystalsOfTrazereNTSC/FourCrystalsOfTrazereNTSC.Slave
 The Games: Summer Edition	T/The Games Summer Edition	A-Games:G/GamesSummerEdition/GamesSummerEdition.Slave
-The Great Giana Sisters Special Edition	T/The Great Giana Sisters Sp	A-Games:G/GianaSistersSE/GianaSistersSE.slave
+The Great Giana Sisters Special Edition (Beta/Unreleased)	T/The Great Giana Sisters Sp	A-Beta:G/GianaSistersSE/GianaSistersSE.slave
 The Hellrun Machine	T/The Hellrun Machine	A-Games:H/HellrunMachine/HellrunMachine.Slave
 The North Sea Inferno	T/The North Sea Inferno	A-Games:N/NorthSeaInferno/NorthSeaInferno.Slave
 The Paranoia Complex	T/The Paranoia Complex	A-Games:P/ParanoiaComplex/ParanoiaComplex.Slave
 The Paranoia Complex DE	T/The Paranoia Complex DE	A-Games:P/ParanoiaComplexDe/ParanoiaComplexDe.Slave
 T-Bird	T/T-Bird	A-Games:T/TBird/TBird.Slave
-Team Suzuki	T/Team Suzuki	A-Games:T/TeamSuzuki/TeamSuzuki.slave
+Team Suzuki	T/Team Suzuki	A-Games:T/TeamSuzuki/TeamSuzuki.Slave
 Tearaway Thomas	T/Tearaway Thomas	A-Games:T/TearawayThomas/TearawayThomas.slave
 Tecnoball	T/Tecnoball	A-Games:T/Tecnoball/Tecnoball.slave
 Teenage Mutant Hero Turtles	T/Teenage Mutant Hero Turtle	A-Games:T/TeenageMtntHeroTurtles/TeenageMtntHeroTurtles.Slave
 Teenage Mutant Hero Turtles	T/Teenage Mutant Hero Tur V2	A-Games:T/TeenageMtntHeroTurtlesCOp/TeenageMtntHeroTurtlesCOp.slave
+Tennis Cup II	T/Tennis Cup II	A-Games:T/TennisCup2/TennisCup2.slave
 Tennis Cup 512KB	T/Tennis Cup 512KB	A-Games:T/TennisCup512Kb/TennisCup512Kb.Slave
 Tennis Cup FR 512KB	T/Tennis Cup FR 512KB	A-Games:T/TennisCup512KbFr/TennisCup512KbFr.Slave
 Terramex	T/Terramex	A-Games:T/Terramex/Terramex.Slave
@@ -34,7 +35,7 @@ Tie-Break	T/Tie-Break	A-Games:T/TieBreak/TieBreak.Slave
 Tiger Road	T/Tiger Road	A-Games:T/TigerRoad/TigerRoad.Slave
 Time Bandit	T/Time Bandit	A-Games:T/TimeBandit/TimeBandit.slave
 Time Lock	T/Time Lock	A-Games:T/TimeLock/TimeLock.slave
-Time Machine	T/Time Machine	A-Games:T/TimeMachine/TimeMachine.slave
+Time Machine	T/Time Machine	A-Games:T/TimeMachine/TimeMachine.Slave
 Time Soldier	T/Time Soldier	A-Games:T/TimeSoldier/TimeSoldier.Slave
 Tiny Skweeks	T/Tiny Skweeks	A-Games:T/TinySkweeks/TinySkweeks.Slave
 Tip Off	T/Tip Off	A-Games:T/TipOff/TipOff.Slave
@@ -52,18 +53,18 @@ Total Recall Files	T/Total Recall Files	A-Games:T/TotalRecallFiles/TotalRecallFi
 Total Recall Image	T/Total Recall Image	A-Games:T/TotalRecallImage/TotalRecallImage.Slave
 Tournament Golf	T/Tournament Golf	A-Games:T/TournamentGolf/TournamentGolf.Slave
 Tower of Babel	T/Tower of Babel	A-Games:T/TowerOfBabel/TowerOfBabel.Slave
-Tower Toppler NTSC	T/Tower Toppler NTSC	A-Games:T/TowerTopplerNTSC/TowerTopplerNTSC.slave
+Tower Toppler NTSC	T/Tower Toppler NTSC	A-Games:T/TowerTopplerNTSC/TowerTopplerNTSC.Slave
 Tracker	T/Tracker	A-Games:T/Tracker/Tracker.Slave
 Trained Assassin	T/Trained Assassin	A-Games:T/TrainedAssassin/TrainedAssassin.Slave
 Transplant	T/Transplant	A-Games:T/Transplant/Transplant.Slave
 Treasure Island Dizzy	T/Treasure Island Dizzy	A-Games:T/TreasureIslandDizzy/TreasureIslandDizzy.slave
 Treasure Trap	T/Treasure Trap	A-Games:T/TreasureTrap/TreasureTrap.slave
-Troddlers	T/Troddlers	A-Games:T/Troddlers/Troddlers.Slave
+Troddlers Files	T/Troddlers Files	A-Games:T/TroddlersFiles/TroddlersFiles.Slave
+Troddlers Image	T/Troddlers Image	A-Games:T/TroddlersImage/TroddlersImage.Slave
 Trog	T/Trog	A-Games:T/Trog/Trog.Slave
 Turbo Out Run	T/Turbo Out Run	A-Games:T/TurboOutRun/TurboOutRun.Slave
 Turn n' Burn	T/Turn n Burn	A-Games:T/TurnNBurn/TurnNBurn.slave
 Turrican	T/Turrican	A-Games:T/Turrican/Turrican.Slave
-Turrican II	T/Turrican II	A-Games:T/Turrican2/Turrican2.Slave
 Turrican 3	T/Turrican 3	A-Games:T/Turrican3/Turrican3.Slave
 Turrican CDTV	T/Turrican CDTV	A-Games:T/TurricanCDTV/TurricanCDTV.Slave
 Turrican Demo	T/Turrican Demo	A-Games:T/TurricanDemo/TurricanDemo.Slave
@@ -71,6 +72,7 @@ Turrican NTSC	T/Turrican NTSC	A-Games:T/TurricanNTSC/TurricanNTSC.Slave
 Tusker	T/Tusker	A-Games:T/Tusker/Tusker.Slave
 Twintris	T/Twintris	A-Games:T/Twintris/Twintris.Slave
 Twin Turbos	T/Twin Turbos	A-Games:T/TwinTurbos/TwinTurbos.slave
-Twinworld: Land of Vision	T/Twinworld Land of Vision	A-Games:T/TwinWorld/TwinWorld.Slave
+Twinworld: Land of Vision	T/Twinworld Land of Vision	A-Games:T/TwinWorld/Twinworld.slave
+Typhoon Thompson in Search for the Sea Child 512K NTSC	T/Typhoon Thompson in Search	A-Games:T/TyphoonThompson512kNTSC/TyphoonThompson512kNTSC.slave
 The Way Of The Little Dragon	T/The Way Of The Little Drag	A-Games:W/WayOfTheLittleDragon/WayOfTheLittleDragon.Slave
 The Way Of The Little Dragon	T/The Way Of The Little D V2	A-Games:W/WayOfTheLittleDragonAStar/WayOfTheLittleDragonAStar.Slave

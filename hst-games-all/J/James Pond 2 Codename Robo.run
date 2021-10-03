@@ -1,9 +1,9 @@
 ; Hst Launcher run script
 ; -----------------------
-;RunFile=A-Games:J/JamesPond2CD32/data/JamesPond2.Slave
+;RunFile=A-Games:J/JamesPond2/JamesPond2.Slave
 
 ; Run WHDLoad
-cd "A-Games:J/JamesPond2CD32/data/"
+cd "A-Games:J/JamesPond2/"
 IF EXISTS ENV:whdloadargs
   whdload "JamesPond2.Slave" $whdloadargs
 ELSE

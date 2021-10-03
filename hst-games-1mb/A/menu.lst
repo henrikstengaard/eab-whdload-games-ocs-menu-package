@@ -1,8 +1,7 @@
 Academy	A/Academy	A-Games:A/Academy/Academy.slave
 Action Fighter	A/Action Fighter	A-Games:A/ActionFighter/ActionFighter.slave
-Addams Family, The	A/Addams Family. The	A-Games:A/AddamsFamily/AddamsFamily.slave
+Addams Family, The (Beta/Unreleased)	A/Addams Family. The BetaUnr	A-Beta:A/AddamsFamily/AddamsFamily.slave
 Adrenalynn	A/Adrenalynn	A-Games:A/Adrenalynn/Adrenalynn.Slave
-Advanced Ski Simulator	A/Advanced Ski Simulator	A-Games:A/AdvancedSkiSimulator/AdvancedSkiSimulator.slave
 Adventures of Quik & Silva, The	A/Adventures of Quik Silva.	A-Games:A/AdventuresOfQuik&Silva/AdventuresOfQuik&Silva.Slave
 Adventures of Robin Hood, The	A/Adventures of Robin Hood.	A-Games:A/AdventuresOfRobinHood/AdventuresOfRobinHood.slave
 Afterburner	A/Afterburner	A-Games:A/AfterBurner/AfterBurner.Slave
@@ -13,6 +12,7 @@ Agony Demo	A/Agony Demo	A-Games:A/AgonyDemo/AgonyDemo.slave
 Agony NTSC	A/Agony NTSC	A-Games:A/AgonyNTSC/AgonyNTSC.slave
 Airball	A/Airball	A-Games:A/Airball/Airball.slave
 Airborne Ranger	A/Airborne Ranger	A-Games:A/AirborneRanger/AirborneRanger.Slave
+Albedo FR	A/Albedo FR	A-Games:A/AlbedoFr/AlbedoFr.slave
 Alcatraz	A/Alcatraz	A-Games:A/Alcatraz/Alcatraz.slave
 Alchemy Demo	A/Alchemy Demo	A-Games:A/AlchemyDemo/AlchemyDemo.Slave
 Alianator	A/Alianator	A-Games:A/Alianator/Alianator.Slave
@@ -28,11 +28,11 @@ American Gladiators	A/American Gladiators	A-Games:A/AmericanGladiators/AmericanG
 American Tag-Team Wrestling	A/American Tag-Team Wrestlin	A-Games:A/AmericanTagTeamWrestling/AmericanTagTeamWrestling.Slave
 Anarchy	A/Anarchy	A-Games:A/Anarchy/Anarchy.Slave
 Apache Flight	A/Apache Flight	A-Games:A/ApacheFlight/ApacheFlight.slave
-APB Files	A/APB Files	A-Games:A/APBFiles/APBFiles.slave
-All Points Bulletin Image	A/All Points Bulletin Image	A-Games:A/APBImage/APBImage.slave
+APB	A/APB	A-Games:A/APB/APB.slave
 Apidya	A/Apidya	A-Games:A/ApidyaAudios/ApidyaAudios.slave
 Apidya	A/Apidya 	A-Games:A/ApidyaKaiko/ApidyaKaiko.slave
-Apidya SE	A/Apidya SE	A-Games:A/ApidyaSpecialEdition/ApidyaSE.slave
+Apidya SE (Beta/Unreleased)	A/Apidya SE BetaUnreleased	A-Beta:A/ApidyaSpecialEdition/ApidyaSE.slave
+Apple Hunt	A/Apple Hunt	A-Games:A/AppleHunt/AppleHunt.slave
 Apprentice	A/Apprentice	A-Games:A/Apprentice/Apprentice.slave
 Aquaventura	A/Aquaventura	A-Games:A/Aquaventura/Aquaventura.Slave
 Aquaventura NTSC	A/Aquaventura NTSC	A-Games:A/AquaventuraNTSC/AquaventuraNTSC.Slave
@@ -47,8 +47,8 @@ Arkanoid	A/Arkanoid	A-Games:A/Arkanoid/Arkanoid.Slave
 Arkanoid NTSC	A/Arkanoid NTSC	A-Games:A/ArkanoidNTSC/ArkanoidNTSC.Slave
 Arkanoid: Revenge of Doh	A/Arkanoid Revenge of Doh	A-Games:A/ArkanoidRevengeOfDoh/ArkanoidRevengeOfDoh.slave
 Armageddon Man, The	A/Armageddon Man. The	A-Games:A/ArmageddonMan/ArmageddonMan.Slave
+Armalyte (Beta/Unreleased)	A/Armalyte BetaUnreleased	A-Beta:A/Armalyte/Armalyte.Slave
 Armalyte	A/Armalyte	A-Games:A/Armalyte/Armalyte.Slave
-Armalyte	A/Armalyte 	A-Games:A/Armalyte/Armalyte.Slave
 Army Moves	A/Army Moves	A-Games:A/ArmyMoves/ArmyMoves.Slave
 Arnie	A/Arnie	A-Games:A/Arnie/Arnie.slave
 Artura	A/Artura	A-Games:A/Artura/Artura.Slave
@@ -56,7 +56,7 @@ Astaroth	A/Astaroth	A-Games:A/Astaroth/Astaroth.Slave
 Astro Marine Corps	A/Astro Marine Corps	A-Games:A/AstroMarineCorps/AstroMarineCorps.Slave
 ATF II - Advanced Tactical Fighter II	A/ATF II - Advanced Tactical	A-Games:A/ATF2/ATF2.Slave
 Atlantyda PL	A/Atlantyda PL	A-Games:A/AtlantydaPl/AtlantydaPl.slave
-Atomic Robo-Kid	A/Atomic Robo-Kid	A-Games:A/AtomicRoboKid/AtomicRobokid.slave
+Atomic Robo-Kid	A/Atomic Robo-Kid	A-Games:A/AtomicRoboKid/AtomicRoboKid.Slave
 Atomino	A/Atomino	A-Games:A/Atomino/Atomino.slave
 Atomino DE	A/Atomino DE	A-Games:A/AtominoDe/AtominoDe.slave
 Atomino NTSC	A/Atomino NTSC	A-Games:A/AtominoNTSC/AtominoNTSC.slave

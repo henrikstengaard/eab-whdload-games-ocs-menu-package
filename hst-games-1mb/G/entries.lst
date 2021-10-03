@@ -11,13 +11,13 @@ Game of Harmony, The NTSC	G/Game of Harmony. The NTSC	A-Games:G/GameOfHarmonyNTS
 Ganymed	G/Ganymed	A-Games:G/Ganymed/Ganymed.slave
 Garfield: Winter's Tail	G/Garfield Winters Tail	A-Games:G/GarfieldAWintersTail/GarfieldAWintersTail.Slave
 Gary Lineker's Hot Shot	G/Gary Linekers Hot Shot	A-Games:G/GaryLinekersHotShot/GaryLinekersHotShot.Slave
-Gauntlet II	G/Gauntlet II	A-Games:G/Gauntlet2/Gauntlet2.slave
+Gauntlet II	G/Gauntlet II	A-Games:G/Gauntlet2/Gauntlet2.Slave
 Gauntlet III: The Final Quest	G/Gauntlet III The Final Que	A-Games:G/Gauntlet3/Gauntlet3.slave
 Gazza II	G/Gazza II	A-Games:G/Gazza2/Gazza2.Slave
 Gear Works	G/Gear Works	A-Games:G/GearWorks/GearWorks.Slave
-Gemini Wing	G/Gemini Wing	A-Games:G/GeminiWing/GeminiWing.slave
-Gem Stone Legend	G/Gem Stone Legend	A-Games:G/GemStoneLegend/GemStoneLegend.Slave
+Gem Stone Legend	G/Gem Stone Legend	A-Games:G/GemStoneLegend/GemStoneLegend.slave
 Gem'X	G/GemX	A-Games:G/GemX/GemX.slave
+Ghost Battle (Beta/Unreleased)	G/Ghost Battle BetaUnrelease	A-Beta:G/GhostBattle/GhostBattle.slave
 Ghost Battle	G/Ghost Battle	A-Games:G/GhostBattle/GhostBattle.Slave
 Ghostbusters II	G/Ghostbusters II	A-Games:G/Ghostbusters2/Ghostbusters2.Slave
 Ghostbusters II NTSC	G/Ghostbusters II NTSC	A-Games:G/Ghostbusters2NTSC/Ghostbusters2NTSC.Slave
@@ -25,20 +25,23 @@ Ghouls 'n Ghosts	G/Ghouls n Ghosts	A-Games:G/GhoulsNGhosts/GhoulsNGhosts.Slave
 Giganoid	G/Giganoid	A-Games:G/Giganoid/Giganoid.slave
 Gladiators	G/Gladiators	A-Games:G/Gladiators/Gladiators.slave
 Globulus	G/Globulus	A-Games:G/Globulus/Globulus.slave
+Globulus	G/Globulus 	A-Games:G/GlobulusPR/GlobulusPR.slave
 G-LOC R360	G/G-LOC R360	A-Games:G/GLOCR360/GLOCR360.slave
 G.Nius	G/G.Nius	A-Games:G/GNius/GNius.Slave
 Gnome	G/Gnome	A-Games:G/Gnome/Gnome.Slave
 Gnome Alone	G/Gnome Alone	A-Games:G/GnomeAlone/GnomeAlone.Slave
 Godfather, The	G/Godfather. The	A-Games:G/Godfather/Godfather.Slave
-Golden Axe	G/Golden Axe	A-Games:G/GoldenAxe/GoldenAxe.Slave
-Golden Axe NTSC	G/Golden Axe NTSC	A-Games:G/GoldenAxeNTSC/GoldenAxeNTSC.Slave
+Golden Axe	G/Golden Axe	A-Games:G/GoldenAxe/GoldenAxe.slave
+Golden Axe NTSC	G/Golden Axe NTSC	A-Games:G/GoldenAxeNTSC/GoldenAxeNTSC.slave
 Gold of the Aztecs, The	G/Gold of the Aztecs. The	A-Games:G/GoldOfTheAztecs/GoldOfTheAztecs.Slave
 Gold of the Aztecs, The (v1.1) Kernal1.1	G/Gold of the Aztecs. The v1	A-Games:G/GoldOfTheAztecs_Kernal1.1/GoldOfTheAztecs(v1.1).Slave
 Goldrunner	G/Goldrunner	A-Games:G/Goldrunner/Goldrunner.Slave
 Goldrunner II	G/Goldrunner II	A-Games:G/Goldrunner2/Goldrunner2.Slave
 Goldrunner II SceneryDisk	G/Goldrunner II SceneryDisk	A-Games:G/Goldrunner2&SceneryDisks/Goldrunner2&SceneryDisks.Slave
+Gordian Tomb	G/Gordian Tomb	A-Games:G/GordianTomb/GordianTomb.slave
 Graeme Souness Soccer Manager	G/Graeme Souness Soccer Mana	A-Games:G/GraemeSounessSoccerManagr/GraemeSounessSoccerManagr.Slave
-Grand Monster Slam	G/Grand Monster Slam	A-Games:G/GrandMonsterSlam/GrandMonsterSlam.Slave
+Grand Monster Slam 1Disk	G/Grand Monster Slam 1Disk	A-Games:G/GrandMonsterSlam1Disk/GrandMonsterSlam1Disk.slave
+Grand Monster Slam 2Disk	G/Grand Monster Slam 2Disk	A-Games:G/GrandMonsterSlam2Disk/GrandMonsterSlam2Disk.slave
 Grand Prix Master	G/Grand Prix Master	A-Games:G/GrandPrixMaster/GrandPrixMaster.Slave
 Gravity-Force	G/Gravity-Force	A-Games:G/GravityForce/GravityForce.Slave
 Great Courts	G/Great Courts	A-Games:G/GreatCourts/GreatCourts.slave

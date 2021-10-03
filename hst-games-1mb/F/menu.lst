@@ -5,8 +5,8 @@ F-19 Stealth Fighter	F/F-19 Stealth Fighter	A-Games:F/F19StealthFighter/F19Steal
 F-19 Stealth Fighter NTSC	F/F-19 Stealth Fighter NTSC	A-Games:F/F19StealthFighterNTSC/F19StealthFighterNTSC.slave
 F1 Tornado	F/F1 Tornado	A-Games:F/F1Tornado/F1Tornado.Slave
 F29 Retaliator	F/F29 Retaliator	A-Games:F/F29Retaliator/F29Retaliator.Slave
-F40 Pursuit Simulator NTSC	F/F40 Pursuit Simulator NTSC	A-Games:F/F40PursuitSimulatorNTSC/F40PursuitSimulatorNTSC.Slave
-Fallen Angel	F/Fallen Angel	A-Games:F/FallenAngel/FallenAngel.slave
+F40 Pursuit Simulator NTSC	F/F40 Pursuit Simulator NTSC	A-Games:F/F40PursuitSimulatorNTSC/F40PursuitSimulatorNTSC.slave
+Fallen Angel	F/Fallen Angel	A-Games:F/FallenAngel/FallenAngel.Slave
 Fantasy World Dizzy	F/Fantasy World Dizzy	A-Games:F/FantasyWorldDizzy/FantasyWorldDizzy.Slave
 Fast Brain PL	F/Fast Brain PL	A-Games:F/FastBrainPl/FastBrainPl.slave
 Fast Food!	F/Fast Food	A-Games:F/FastFood/FastFood.Slave
@@ -15,11 +15,11 @@ Fast Lane! The Spice Engineering Challenge	F/Fast Lane The Spice Engine	A-Games:
 Federation of Free Traders	F/Federation of Free Traders	A-Games:F/FederationOfFreeTraders/FederationOfFreeTraders.slave
 Fernandez Must Die	F/Fernandez Must Die	A-Games:F/FernandezMustDie/FernandezMustDie.Slave
 Fighting Soccer NTSC	F/Fighting Soccer NTSC	A-Games:F/FightingSoccerNTSC/FightingSoccerNTSC.slave
-Final Blow	F/Final Blow	A-Games:F/FinalBlow/FinalBlow.slave
+Final Blow	F/Final Blow	A-Games:F/FinalBlow/FinalBlow.Slave
 Final Fight 512K	F/Final Fight 512K	A-Games:F/FinalFight512k/FinalFight512k.slave
-Fire and Ice	F/Fire and Ice	A-Games:F/Fire&Ice/Fire&Ice.slave
 Fire and Ice Demo	F/Fire and Ice Demo	A-Games:F/Fire&IceXmasDemo/Fire&IceXmasDemo.Slave
 Fire and Brimstone	F/Fire and Brimstone	A-Games:F/FireAndBrimstone/FireAndBrimstone.Slave
+Fire and Ice	F/Fire and Ice	A-Games:F/FireAndIce/FireAndIce.slave
 Fireblaster	F/Fireblaster	A-Games:F/Fireblaster/Fireblaster.Slave
 Firehawk	F/Firehawk	A-Games:F/Firehawk/FireHawk.Slave
 First Contact	F/First Contact	A-Games:F/FirstContact/FirstContact.Slave
@@ -27,18 +27,20 @@ Fist Fighter	F/Fist Fighter	A-Games:F/FistFighter/FistFighter.slave
 Flimbo's Quest	F/Flimbos Quest	A-Games:F/FlimbosQuest/FlimbosQuest.slave
 Flintstones, The	F/Flintstones. The	A-Games:F/Flintstones/Flintstones.Slave
 Flip-it & Magnose: Water Carriers from Mars	F/Flip-it Magnose Water Carr	A-Games:F/Flipit&Magnose/Flipit&Magnose.slave
-Fly Fighter highs	F/Fly Fighter highs	A-Games:F/FlyFighter/highs
 Fly Fighter	F/Fly Fighter	A-Games:F/FlyFighter/FlyFighter.Slave
+Fly Fighter highs	F/Fly Fighter highs	A-Games:F/FlyFighter/highs
 Footballer of the Year 2	F/Footballer of the Year 2	A-Games:F/FootballerOfTheYear2/FootballerOfTheYear2.slave
 Forgotten Worlds	F/Forgotten Worlds	A-Games:F/ForgottenWorlds/ForgottenWorlds.Slave
 Foundation's Waste	F/Foundations Waste	A-Games:F/FoundationsWaste/FoundationsWaste.Slave
 Franco Baresi World Cup Kick Off IT	F/Franco Baresi World Cup Ki	A-Games:F/FrancoBaresiWorldCupIt/FrancoBaresiWorldCupIt.Slave
 Frankenstein	F/Frankenstein	A-Games:F/Frankenstein/Frankenstein.slave
+Frantic Freddie	F/Frantic Freddie	A-Games:F/FranticFreddie/FranticFreddie.slave
 Freak Out	F/Freak Out	A-Games:F/FreakOut/FreakOut.slave
 Frenetic	F/Frenetic	A-Games:F/Frenetic/Frenetic.Slave
 Fright Night 512K	F/Fright Night 512K	A-Games:F/FrightNight512k/FrightNight512k.Slave
 Frost Byte	F/Frost Byte	A-Games:F/FrostByte/FrostByte.Slave
 Full Contact	F/Full Contact	A-Games:F/FullContact/FullContact.slave
+Full Contact	F/Full Contact 	A-Games:F/FullContactPR/FullContactPR.slave
 Future Shock	F/Future Shock	A-Games:F/FutureShock/FutureShock.slave
 Future Tank	F/Future Tank	A-Games:F/FutureTank/FutureTank.slave
 Fuzzball Intro	F/Fuzzball Intro	A-Games:F/Fuzzball/Intro.Slave

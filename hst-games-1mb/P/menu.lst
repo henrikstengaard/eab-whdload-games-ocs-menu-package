@@ -24,7 +24,8 @@ Pipeline	P/Pipeline	A-Games:P/PipelineNomad/PipelineNomad.Slave
 Pipeline	P/Pipeline 	A-Games:P/PipelineOracle/PipelineOracle.Slave
 Pipe Mania	P/Pipe Mania	A-Games:P/PipeMania/PipeMania.Slave
 Pit-Fighter	P/Pit-Fighter	A-Games:P/PitFighter/PitFighter.slave
-Plague, The	P/Plague. The	A-Games:P/Plague/Plague.slave
+Plague, The	P/Plague. The	A-Games:P/Plague/Plague.Slave
+Plague, The NTSC	P/Plague. The NTSC	A-Games:P/PlagueNTSC/PlagueNTSC.Slave
 Platoon NTSC	P/Platoon NTSC	A-Games:P/PlatoonNTSC/PlatoonNTSC.Slave
 Player Manager	P/Player Manager	A-Games:P/PlayerManager/PlayerManager.slave
 Player Manager DE	P/Player Manager DE	A-Games:P/PlayerManagerDe/PlayerManagerDe.slave
@@ -34,13 +35,14 @@ Plotting	P/Plotting	A-Games:P/Plotting/Plotting.slave
 Pod	P/Pod	A-Games:P/Pod/Pod.slave
 Postman Pat	P/Postman Pat	A-Games:P/PostmanPat/PostmanPat.Slave
 Power, The	P/Power. The	A-Games:P/Power/Power.Slave
+Power Drift	P/Power Drift	A-Games:P/PowerDrift/PowerDrift.slave
 PowerMonger	P/PowerMonger	A-Games:P/Powermonger/Powermonger.Slave
 Powermonger WW1 Edition	P/Powermonger WW1 Edition	A-Games:P/PowermongerWW1Edition/PowermongerWW1Edition.slave
 Power Styx	P/Power Styx	A-Games:P/Powerstyx/Powerstyx.slave
 P.P. Hammer	P/P.P. Hammer	A-Games:P/PPHammer/PPHammer.Slave
 Predator	P/Predator	A-Games:P/Predator/Predator.Slave
 Predator 2	P/Predator 2	A-Games:P/Predator2/Predator2.Slave
-Prince	P/Prince	A-Games:P/Prince/Prince.Slave
+Prince	P/Prince	A-Games:P/Prince/Prince.slave
 Prison	P/Prison	A-Games:P/Prison/Prison.Slave
 Prison NTSC	P/Prison NTSC	A-Games:P/PrisonNTSC/PrisonNTSC.Slave
 Pro Boxing Simulator	P/Pro Boxing Simulator	A-Games:P/ProBoxingSimulator/ProBoxingSimulator.Slave
@@ -48,8 +50,8 @@ Project-X	P/Project-X	A-Games:P/ProjectXBonusLevel/ProjectXBonusLevel.Slave
 Projectyle	P/Projectyle	A-Games:P/Projectyle/Projectyle.slave
 Prophecy I: The Viking Child	P/Prophecy I The Viking Chil	A-Games:P/Prophecy1VikingChild/Prophecy1VikingChild.Slave
 Pro Powerboat Simulator	P/Pro Powerboat Simulator	A-Games:P/ProPowerBoatSimulator/ProPowerBoatSimulator.Slave
-Pro Tennis Simulator Files	P/Pro Tennis Simulator Files	A-Games:P/ProTennisSimulatorFiles/ProTennisSimulatorFiles.Slave
-Pro Tennis Simulator Image	P/Pro Tennis Simulator Image	A-Games:P/ProTennisSimulatorImage/ProTennisSimulatorImage.Slave
+Pro Tennis Simulator Files	P/Pro Tennis Simulator Files	A-Games:P/ProTennisSimulatorFiles/ProTennisSimulatorFiles.slave
+Pro Tennis Simulator Image	P/Pro Tennis Simulator Image	A-Games:P/ProTennisSimulatorImage/ProTennisSimulatorImage.slave
 Pro Tennis Tour	P/Pro Tennis Tour	A-Games:P/ProTennisTour/ProTennisTour.slave
 Psyborg	P/Psyborg	A-Games:P/Psyborg/Psyborg.Slave
 Pub Trivia Simulator	P/Pub Trivia Simulator	A-Games:P/PubTriviaSimulator/PubTriviaSimulator.Slave
