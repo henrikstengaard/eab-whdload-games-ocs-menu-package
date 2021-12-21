@@ -10,7 +10,7 @@
 9 Lives	0-9/9 Lives	A-Games:0-9/9Lives/9Lives.Slave
 Academy	A/Academy	A-Games:A/Academy/Academy.slave
 Action Fighter	A/Action Fighter	A-Games:A/ActionFighter/ActionFighter.slave
-Addams Family, The (Beta/Unreleased)	A/Addams Family. The BetaUnr	A-Beta:A/AddamsFamily/AddamsFamily.slave
+Addams Family, The (Beta/Unreleased)	A/Addams Family. The BetaUnr	A-GamesBeta:A/AddamsFamily/AddamsFamily.slave
 Adrenalynn	A/Adrenalynn	A-Games:A/Adrenalynn/Adrenalynn.Slave
 Adventures of Quik & Silva, The	A/Adventures of Quik Silva.	A-Games:A/AdventuresOfQuik&Silva/AdventuresOfQuik&Silva.Slave
 Adventures of Robin Hood, The	A/Adventures of Robin Hood.	A-Games:A/AdventuresOfRobinHood/AdventuresOfRobinHood.slave
@@ -41,7 +41,7 @@ Apache Flight	A/Apache Flight	A-Games:A/ApacheFlight/ApacheFlight.slave
 APB	A/APB	A-Games:A/APB/APB.slave
 Apidya	A/Apidya	A-Games:A/ApidyaAudios/ApidyaAudios.slave
 Apidya	A/Apidya 	A-Games:A/ApidyaKaiko/ApidyaKaiko.slave
-Apidya SE (Beta/Unreleased)	A/Apidya SE BetaUnreleased	A-Beta:A/ApidyaSpecialEdition/ApidyaSE.slave
+Apidya SE (Beta/Unreleased)	A/Apidya SE BetaUnreleased	A-GamesBeta:A/ApidyaSpecialEdition/ApidyaSE.slave
 Apple Hunt	A/Apple Hunt	A-Games:A/AppleHunt/AppleHunt.slave
 Apprentice	A/Apprentice	A-Games:A/Apprentice/Apprentice.slave
 Aquaventura	A/Aquaventura	A-Games:A/Aquaventura/Aquaventura.Slave
@@ -52,13 +52,13 @@ Archer MacLean Presents: Billard Americain	A/Archer MacLean Presents Bi	A-Games:
 Archer Maclean's Pool	A/Archer Macleans Pool	A-Games:A/ArcherMacLeansPool/ArcherMacLeansPool.Slave
 Archipelagos	A/Archipelagos	A-Games:A/Archipelagos/Archipelagos.Slave
 Archipelagos NTSC	A/Archipelagos NTSC	A-Games:A/ArchipelagosNTSC/ArchipelagosNTSC.Slave
-UN Squadron (Beta/Unreleased)	U/UN Squadron BetaUnreleased	A-Beta:A/Area88/Area88.slave
+UN Squadron (Beta/Unreleased)	U/UN Squadron BetaUnreleased	A-GamesBeta:A/Area88/Area88.slave
 Arena	A/Arena	A-Games:A/Arena/Arena.slave
 Arkanoid	A/Arkanoid	A-Games:A/Arkanoid/Arkanoid.Slave
 Arkanoid NTSC	A/Arkanoid NTSC	A-Games:A/ArkanoidNTSC/ArkanoidNTSC.Slave
 Arkanoid: Revenge of Doh	A/Arkanoid Revenge of Doh	A-Games:A/ArkanoidRevengeOfDoh/ArkanoidRevengeOfDoh.slave
 Armageddon Man, The	A/Armageddon Man. The	A-Games:A/ArmageddonMan/ArmageddonMan.Slave
-Armalyte (Beta/Unreleased)	A/Armalyte BetaUnreleased	A-Beta:A/Armalyte/Armalyte.Slave
+Armalyte (Beta/Unreleased)	A/Armalyte BetaUnreleased	A-GamesBeta:A/Armalyte/Armalyte.Slave
 Armalyte	A/Armalyte	A-Games:A/Armalyte/Armalyte.Slave
 Army Moves	A/Army Moves	A-Games:A/ArmyMoves/ArmyMoves.Slave
 Arnie	A/Arnie	A-Games:A/Arnie/Arnie.slave
@@ -153,7 +153,7 @@ Bubble Gun	B/Bubble Gun	A-Games:B/BubbleGun/BubbleGun.Slave
 Buffalo Bill's Wild West Show	B/Buffalo Bills Wild West Sh	A-Games:B/BuffaloBillsWildWestShow/BuffaloBillsWildWestShow.Slave
 Bug Bash	B/Bug Bash	A-Games:B/BugBash/BugBash.Slave
 Buggy Boy	B/Buggy Boy	A-Games:B/BuggyBoy/BuggyBoy.Slave
-Buggy Boy (Beta/Unreleased)	B/Buggy Boy BetaUnreleased	A-Beta:B/BuggyBoy/BuggyBoy.slave
+Buggy Boy (Beta/Unreleased)	B/Buggy Boy BetaUnreleased	A-GamesBeta:B/BuggyBoy/BuggyBoy.slave
 Cabal	C/Cabal	A-Games:C/Cabal/Cabal.slave
 Cabaret Asteroids	C/Cabaret Asteroids	A-Games:C/CabaretAsteroids/CabaretAsteroids.slave
 Cabaret Asteroids	C/Cabaret Asteroids 	A-Games:C/CabaretAsteroidsRepacked/CabaretAsteroidsRepacked.slave
@@ -199,7 +199,7 @@ CJ's Elephant Antics	C/CJs Elephant Antics	A-Games:C/CJsElephantAntics/CJsElepha
 Clik Clak	C/Clik Clak	A-Games:C/ClikClak/ClikClak.Slave
 Cloud Kingdoms	C/Cloud Kingdoms	A-Games:C/CloudKingdoms/CloudKingdoms.slave
 Clown-O-Mania	C/Clown-O-Mania	A-Games:C/ClownOMania/ClownOMania.slave
-Cobra (Beta/Unreleased)	C/Cobra BetaUnreleased	A-Beta:C/Cobra/Cobra.slave
+Cobra (Beta/Unreleased)	C/Cobra BetaUnreleased	A-GamesBeta:C/Cobra/Cobra.slave
 Color Buster	C/Color Buster	A-Games:C/ColorBuster/ColorBuster.slave
 Commando	C/Commando	A-Games:C/Commando/Commando.slave
 Conqueror	C/Conqueror	A-Games:C/Conqueror/Conqueror.Slave
@@ -405,13 +405,13 @@ Gazza II	G/Gazza II	A-Games:G/Gazza2/Gazza2.Slave
 Gear Works	G/Gear Works	A-Games:G/GearWorks/GearWorks.Slave
 Gem Stone Legend	G/Gem Stone Legend	A-Games:G/GemStoneLegend/GemStoneLegend.slave
 Gem'X	G/GemX	A-Games:G/GemX/GemX.slave
-Ghost Battle (Beta/Unreleased)	G/Ghost Battle BetaUnrelease	A-Beta:G/GhostBattle/GhostBattle.slave
+Ghost Battle (Beta/Unreleased)	G/Ghost Battle BetaUnrelease	A-GamesBeta:G/GhostBattle/GhostBattle.slave
 Ghost Battle	G/Ghost Battle	A-Games:G/GhostBattle/GhostBattle.Slave
 Ghostbusters II	G/Ghostbusters II	A-Games:G/Ghostbusters2/Ghostbusters2.Slave
 Ghostbusters II NTSC	G/Ghostbusters II NTSC	A-Games:G/Ghostbusters2NTSC/Ghostbusters2NTSC.Slave
 Ghouls 'n Ghosts	G/Ghouls n Ghosts	A-Games:G/GhoulsNGhosts/GhoulsNGhosts.Slave
-Hard 'n' Heavy (Beta/Unreleased)	H/Hard n Heavy BetaUnrelease	A-Beta:G/Giana2/Giana2.slave
-The Great Giana Sisters Special Edition (Beta/Unreleased)	T/The Great Giana Sisters Sp	A-Beta:G/GianaSistersSE/GianaSistersSE.slave
+Hard 'n' Heavy (Beta/Unreleased)	H/Hard n Heavy BetaUnrelease	A-GamesBeta:G/Giana2/Giana2.slave
+The Great Giana Sisters Special Edition (Beta/Unreleased)	T/The Great Giana Sisters Sp	A-GamesBeta:G/GianaSistersSE/GianaSistersSE.slave
 Giganoid	G/Giganoid	A-Games:G/Giganoid/Giganoid.slave
 Gladiators	G/Gladiators	A-Games:G/Gladiators/Gladiators.slave
 Globulus	G/Globulus	A-Games:G/Globulus/Globulus.slave
@@ -460,7 +460,7 @@ Helter Skelter	H/Helter Skelter	A-Games:H/HelterSkelter/HelterSkelter.Slave
 Heroes of the Lance	H/Heroes of the Lance	A-Games:H/HeroesOfTheLance/HeroesOfTheLance.slave
 HeroQuest	H/HeroQuest	A-Games:H/HeroQuest/HeroQuest.slave
 HeroQuest	H/HeroQuest 	A-Games:H/HeroQuest&ReturnWitchLord/HeroQuest&ReturnWitchLord.slave
-HeroQuest DE Fix (Beta/Unreleased)	H/HeroQuest DE Fix BetaUnrel	A-Beta:H/HeroQuestDeFix/HeroQuestDeFix.slave
+HeroQuest DE Fix (Beta/Unreleased)	H/HeroQuest DE Fix BetaUnrel	A-GamesBeta:H/HeroQuestDeFix/HeroQuestDeFix.slave
 High Steel	H/High Steel	A-Games:H/HighSteel/HighSteel.Slave
 Hill Street Blues	H/Hill Street Blues	A-Games:H/HillStreetBlues/HillStreetBlues.Slave
 Hollywood Poker	H/Hollywood Poker	A-Games:H/HollywoodPoker/HollywoodPoker.Slave
@@ -479,7 +479,7 @@ Hunter	H/Hunter	A-Games:H/Hunter/Hunter.Slave
 Hunter DE	H/Hunter DE	A-Games:H/HunterDe/HunterDe.slave
 Hunter FR	H/Hunter FR	A-Games:H/HunterFr/HunterFr.slave
 Hunt for Red October, The	H/Hunt for Red October. The	A-Games:H/HuntForRedOctoberTheMovie/HuntForRedOctoberTheMovie.Slave
-Hybris (Beta/Unreleased)	H/Hybris BetaUnreleased	A-Beta:H/Hybris/Hybris.slave
+Hybris (Beta/Unreleased)	H/Hybris BetaUnreleased	A-GamesBeta:H/Hybris/Hybris.slave
 Hybris NTSC	H/Hybris NTSC	A-Games:H/HybrisNTSC/HybrisNTSC.Slave
 Hydra	H/Hydra	A-Games:H/Hydra/Hydra.Slave
 Hyperdome	H/Hyperdome	A-Games:H/Hyperdome/Hyperdome.Slave
@@ -657,9 +657,9 @@ Nebulus	N/Nebulus	A-Games:N/Nebulus/Nebulus.Slave
 Nebulus 2	N/Nebulus 2	A-Games:N/Nebulus2/Nebulus2.slave
 Necronom	N/Necronom	A-Games:N/Necronom/Necronom.Slave
 Neighbours	N/Neighbours	A-Games:N/Neighbours/Neighbours.Slave
-Netherworld (Beta/Unreleased)	N/Netherworld BetaUnreleased	A-Beta:N/Netherworld/Netherworld.slave
+Netherworld (Beta/Unreleased)	N/Netherworld BetaUnreleased	A-GamesBeta:N/Netherworld/Netherworld.slave
 Netherworld	N/Netherworld	A-Games:N/Netherworld/Netherworld.slave
-Neutralizer II Demo (Beta/Unreleased)	N/Neutralizer II Demo BetaUn	A-Beta:N/Neutralizer2Demo/Neutralizer2Demo.slave
+Neutralizer II Demo (Beta/Unreleased)	N/Neutralizer II Demo BetaUn	A-GamesBeta:N/Neutralizer2Demo/Neutralizer2Demo.slave
 Neverending Story II, The	N/Neverending Story II. The	A-Games:N/NeverEndingStory2/NeverEndingStory2.slave
 Nevermind	N/Nevermind	A-Games:N/NeverMind/Nevermind.Slave
 Newzealand Story, The	N/Newzealand Story. The	A-Games:N/NewZealandStory/NewZealandStory.slave
@@ -755,7 +755,7 @@ Predator 2	P/Predator 2	A-Games:P/Predator2/Predator2.Slave
 A Prehistoric Tale	A/A Prehistoric Tale	A-Games:P/PrehistoricTale/PrehistoricTale.slave
 Prince	P/Prince	A-Games:P/Prince/Prince.slave
 Prison	P/Prison	A-Games:P/Prison/Prison.Slave
-Prison NTSC	P/Prison NTSC	A-Games:P/PrisonNTSC/PrisonNTSC.Slave
+Prison NTSC	P/Prison NTSC	A-Games:P/PrisonNTSC/PrisonNTSC.slave
 Pro Boxing Simulator	P/Pro Boxing Simulator	A-Games:P/ProBoxingSimulator/ProBoxingSimulator.Slave
 Project-X	P/Project-X	A-Games:P/ProjectXBonusLevel/ProjectXBonusLevel.Slave
 Projectyle	P/Projectyle	A-Games:P/Projectyle/Projectyle.slave
@@ -888,7 +888,7 @@ Slayer	S/Slayer	A-Games:S/Slayer/Slayer.Slave
 Sliders	S/Sliders	A-Games:S/Sliders/Sliders.Slave
 Sly Spy: Secret Agent	S/Sly Spy Secret Agent	A-Games:S/SlySpySecretAgent/SlySpySecretAgent.slave
 Smash	S/Smash	A-Games:S/Smash/Smash.slave
-Snakes (Beta/Unreleased)	S/Snakes BetaUnreleased	A-Beta:S/Snakes/Snakes.Slave
+Snakes (Beta/Unreleased)	S/Snakes BetaUnreleased	A-GamesBeta:S/Snakes/Snakes.Slave
 Snoopy and Peanuts	S/Snoopy and Peanuts	A-Games:S/Snoopy&Peanuts/Snoopy&Peanuts.Slave
 Snoopy and Peanuts NoSounds	S/Snoopy and Peanuts NoSound	A-Games:S/Snoopy&PeanutsNoSounds/Snoopy&PeanutsNoSounds.Slave
 Snow Bros. Files	S/Snow Bros. Files	A-Games:S/SnowBrosFiles/SnowBrosFiles.slave
@@ -959,10 +959,10 @@ Strider	S/Strider	A-Games:S/Strider/Strider.Slave
 Strider II	S/Strider II	A-Games:S/Strider2/Strider2.Slave
 Strike Aces NTSC	S/Strike Aces NTSC	A-Games:S/StrikeAcesNTSC/StrikeAcesNTSC.Slave
 Stryx	S/Stryx	A-Games:S/Stryx/Stryx.Slave
-Stunt Car Racer (Beta/Unreleased)	S/Stunt Car Racer BetaUnrele	A-Beta:S/StuntCarRacer/StuntCarRacer.slave
+Stunt Car Racer (Beta/Unreleased)	S/Stunt Car Racer BetaUnrele	A-GamesBeta:S/StuntCarRacer/StuntCarRacer.slave
 Stunt Car Racer	S/Stunt Car Racer	A-Games:S/StuntCarRacer/StuntCarRacer.Slave
 Stunt Car Racer	S/Stunt Car Racer 	A-Games:S/StuntCarRacerTNT/StuntCarRacerTNT.Slave
-Stunt Car Racer (Beta/Unreleased)	S/Stunt Car Racer BetaUnr V2	A-Beta:S/StuntCarRacerTNT/StuntCarRacerTNT.slave
+Stunt Car Racer (Beta/Unreleased)	S/Stunt Car Racer BetaUnr V2	A-GamesBeta:S/StuntCarRacerTNT/StuntCarRacerTNT.slave
 Stunt Track Racer NTSC	S/Stunt Track Racer NTSC	A-Games:S/StuntTrackRacerNTSC/StuntTrackRacerNTSC.Slave
 Subbuteo: The Computer Game	S/Subbuteo The Computer Game	A-Games:S/Subbuteo/Subbuteo.Slave
 Suburban Commando	S/Suburban Commando	A-Games:S/SuburbanCommando/SuburbanCommando.Slave
@@ -980,7 +980,7 @@ Super Cauldron	S/Super Cauldron	A-Games:S/SuperCauldron/SuperCauldron.Slave
 Super Grand Prix	S/Super Grand Prix	A-Games:S/SuperGrandPrix/SuperGrandPrix.Slave
 Grid Runner	G/Grid Runner	A-Games:S/SuperGridRunner/SuperGridRunner.Slave
 Superman: The Man of Steel	S/Superman The Man of Steel	A-Games:S/Superman/Superman.Slave
-Super Monaco GP (Beta/Unreleased)	S/Super Monaco GP BetaUnrele	A-Beta:S/SuperMonacoGP/SuperMonacoGP.Slave
+Super Monaco GP (Beta/Unreleased)	S/Super Monaco GP BetaUnrele	A-GamesBeta:S/SuperMonacoGP/SuperMonacoGP.Slave
 Super Monaco GP	S/Super Monaco GP	A-Games:S/SuperMonacoGP/SuperMonacoGP.slave
 Super Scramble Simulator	S/Super Scramble Simulator	A-Games:S/SuperScrambleSimulator/SuperScrambleSimulator.slave
 Super Seymour	S/Super Seymour	A-Games:S/SuperSeymourSavesPlanet/SuperSeymourSavesPlanet.slave
@@ -1070,9 +1070,9 @@ Ultimate Ride, The	U/Ultimate Ride. The	A-Games:U/UltimateRide/UltimateRide.slav
 Universal Warrior	U/Universal Warrior	A-Games:U/UniversalWarrior/UniversalWarrior.Slave
 Unsensible Soccer	U/Unsensible Soccer	A-Games:U/UnsensibleSoccer/UnsensibleSoccer.Slave
 UN Squadron	U/UN Squadron	A-Games:U/UNSquadron/UNSquadron.slave
-UN Squadron (Beta/Unreleased)	U/UN Squadron BetaUnrelea V2	A-Beta:U/UNSquadronEarok/UNSquadronEarok.slave
+UN Squadron (Beta/Unreleased)	U/UN Squadron BetaUnrelea V2	A-GamesBeta:U/UNSquadronEarok/UNSquadronEarok.slave
 Untouchables, The	U/Untouchables. The	A-Games:U/Untouchables/Untouchables.Slave
-Untouchables, The (Beta/Unreleased)	U/Untouchables. The BetaUnre	A-Beta:U/UntouchablesSE/UntouchablesSE.Slave
+Untouchables, The (Beta/Unreleased)	U/Untouchables. The BetaUnre	A-GamesBeta:U/UntouchablesSE/UntouchablesSE.Slave
 Vac-Suit Jack Demo	V/Vac-Suit Jack Demo	A-Games:V/VacSuitJackDemo/VacSuitJackDemo.Slave
 Vampire's Empire	V/Vampires Empire	A-Games:V/VampiresEmpire/VampiresEmpire.Slave
 Vaxine	V/Vaxine	A-Games:V/Vaxine/Vaxine.Slave
@@ -1122,7 +1122,7 @@ Wipe Out	W/Wipe Out	A-Games:W/WipeOut/WipeOut.slave
 Wizball	W/Wizball	A-Games:W/Wizball/Wizball.Slave
 Wolfchild	W/Wolfchild	A-Games:W/Wolfchild/Wolfchild.slave
 Wonderboy in Monsterland	W/Wonderboy in Monsterland	A-Games:W/WonderboyInMonsterland/WonderboyInMonsterland.Slave
-Wonderboy in Monsterland (Beta/Unreleased)	W/Wonderboy in Monsterland B	A-Beta:W/WonderboyInMonsterlandSE/WonderboyInMonsterlandSE.Slave
+Wonderboy in Monsterland (Beta/Unreleased)	W/Wonderboy in Monsterland B	A-GamesBeta:W/WonderboyInMonsterlandSE/WonderboyInMonsterlandSE.Slave
 World Championship Boxing Manager	W/World Championship Boxing	A-Games:W/WorldChampBoxingManager/WorldChampBoxingManager.Slave
 World Class Rugby	W/World Class Rugby	A-Games:W/WorldClassRugby/WorldClassRugby.Slave
 World Class Rugby: Five Nations Edition	W/World Class Rugby Five Nat	A-Games:W/WorldClassRugby5Nations/WorldClassRugby5Nations.Slave
@@ -1152,7 +1152,7 @@ Zany Golf NTSC	Z/Zany Golf NTSC	A-Games:Z/ZanyGolfNTSC/ZanyGolfNTSC.slave
 Zarathrusta	Z/Zarathrusta	A-Games:Z/Zarathrusta/Zarathrusta.slave
 Zaxxon 512KB	Z/Zaxxon 512KB	A-Games:Z/Zaxxon512KB/Zaxxon512KB.Slave
 Ziriax	Z/Ziriax	A-Games:Z/Ziriax/Ziriax.slave
-Ziriax (Beta/Unreleased)	Z/Ziriax BetaUnreleased	A-Beta:Z/ZiriaxUltimateEdition/ZiriaxUltimateEdition.slave
+Ziriax (Beta/Unreleased)	Z/Ziriax BetaUnreleased	A-GamesBeta:Z/ZiriaxUltimateEdition/ZiriaxUltimateEdition.slave
 Zone Warrior	Z/Zone Warrior	A-Games:Z/ZoneWarrior/ZoneWarrior.slave
 Zoom!	Z/Zoom	A-Games:Z/Zoom/Zoom.Slave
 Z-Out	Z/Z-Out	A-Games:Z/ZOut/ZOut.slave

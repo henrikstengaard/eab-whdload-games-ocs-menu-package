@@ -167,7 +167,7 @@ Sly Spy: Secret Agent	S/Sly Spy Secret Agent	A-Games:S/SlySpySecretAgent/SlySpyS
 Smarty And The Nasty Gluttons	S/Smarty And The Nasty Glutt	A-Games:S/SmartyAndTheNastyGluttons/SmartyAndTheNastyGluttons.slave
 Smash	S/Smash	A-Games:S/Smash/Smash.slave
 Smash TV	S/Smash TV	A-Games:S/SmashTV/SmashTV.Slave
-Snakes (Beta/Unreleased)	S/Snakes BetaUnreleased	A-Beta:S/Snakes/Snakes.Slave
+Snakes (Beta/Unreleased)	S/Snakes BetaUnreleased	A-GamesBeta:S/Snakes/Snakes.Slave
 Snapperazzi	S/Snapperazzi	A-Games:S/Snapperazzi/Snapperazzi.Slave
 Sneech	S/Sneech	A-Games:S/Sneech/Sneech.Slave
 Snoopy and Peanuts	S/Snoopy and Peanuts	A-Games:S/Snoopy&Peanuts/Snoopy&Peanuts.Slave
@@ -320,10 +320,10 @@ Strip Poker II	S/Strip Poker II 	A-Games:S/StripPoker2+/StripPoker2+.Slave
 Strip Poker II DataDisk1	S/Strip Poker II DataDisk1	A-Games:S/StripPoker2+&DataDisk1/StripPoker2+&DataDisk1.Slave
 Stryx	S/Stryx	A-Games:S/Stryx/Stryx.Slave
 S.T.U.N. Runner	S/S.T.U.N. Runner	A-Games:S/STUNRunner/STUNRunner.Slave
-Stunt Car Racer (Beta/Unreleased)	S/Stunt Car Racer BetaUnrele	A-Beta:S/StuntCarRacer/StuntCarRacer.slave
 Stunt Car Racer	S/Stunt Car Racer	A-Games:S/StuntCarRacer/StuntCarRacer.Slave
+Stunt Car Racer (Beta/Unreleased)	S/Stunt Car Racer BetaUnrele	A-GamesBeta:S/StuntCarRacer/StuntCarRacer.slave
 Stunt Car Racer	S/Stunt Car Racer 	A-Games:S/StuntCarRacerTNT/StuntCarRacerTNT.Slave
-Stunt Car Racer (Beta/Unreleased)	S/Stunt Car Racer BetaUnr V2	A-Beta:S/StuntCarRacerTNT/StuntCarRacerTNT.slave
+Stunt Car Racer (Beta/Unreleased)	S/Stunt Car Racer BetaUnr V2	A-GamesBeta:S/StuntCarRacerTNT/StuntCarRacerTNT.slave
 Stunt Track Racer NTSC	S/Stunt Track Racer NTSC	A-Games:S/StuntTrackRacerNTSC/StuntTrackRacerNTSC.Slave
 Sub Battle Simulator NTSC	S/Sub Battle Simulator NTSC	A-Games:S/SubBattleSimulatorNTSC/SubBattleSimulatorNTSC.Slave
 Subbuteo: The Computer Game	S/Subbuteo The Computer Game	A-Games:S/Subbuteo/Subbuteo.Slave
@@ -349,13 +349,13 @@ Superfrog Demo CUAmiga	S/Superfrog Demo CUAmiga	A-Games:S/SuperfrogDemoCUAmiga/S
 Superfrog Demo TheOne	S/Superfrog Demo TheOne	A-Games:S/SuperfrogDemoTheOne/SuperfrogDemoTheOne.Slave
 Super Gem'Z	S/Super GemZ	A-Games:S/SuperGemZ/SuperGemZ.slave
 Super Grand Prix	S/Super Grand Prix	A-Games:S/SuperGrandPrix/SuperGrandPrix.Slave
+Super Hang-On (Beta/Unreleased)	S/Super Hang-On BetaUnreleas	A-GamesBeta:S/SuperHangOn/SuperHangOn.Slave
 Super Hang-On	S/Super Hang-On	A-Games:S/SuperHangOn/SuperHangOn.slave
-Super Hang-On (Beta/Unreleased)	S/Super Hang-On BetaUnreleas	A-Beta:S/SuperHangOn/SuperHangOn.Slave
 Superhero Demo	S/Superhero Demo	A-Games:S/SuperheroDemo/SuperheroDemo.Slave
 Superman: The Man of Steel	S/Superman The Man of Steel	A-Games:S/Superman/Superman.Slave
 Super Methane Bros	S/Super Methane Bros	A-Games:S/SuperMethaneBros/SuperMethaneBros.slave
 Super Monaco GP	S/Super Monaco GP	A-Games:S/SuperMonacoGP/SuperMonacoGP.slave
-Super Monaco GP (Beta/Unreleased)	S/Super Monaco GP BetaUnrele	A-Beta:S/SuperMonacoGP/SuperMonacoGP.Slave
+Super Monaco GP (Beta/Unreleased)	S/Super Monaco GP BetaUnrele	A-GamesBeta:S/SuperMonacoGP/SuperMonacoGP.Slave
 Super Obliteration	S/Super Obliteration	A-Games:S/SuperObliteration/SuperObliteration.Slave
 Super OsWALD DK	S/Super OsWALD DK	A-Games:S/SuperOsWALDDk/SuperOsWALDDk.Slave
 Super Scramble Simulator	S/Super Scramble Simulator	A-Games:S/SuperScrambleSimulator/SuperScrambleSimulator.slave

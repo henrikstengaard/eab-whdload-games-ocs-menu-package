@@ -54,7 +54,7 @@ Slayer	S/Slayer	A-Games:S/Slayer/Slayer.Slave
 Sliders	S/Sliders	A-Games:S/Sliders/Sliders.Slave
 Sly Spy: Secret Agent	S/Sly Spy Secret Agent	A-Games:S/SlySpySecretAgent/SlySpySecretAgent.slave
 Smash	S/Smash	A-Games:S/Smash/Smash.slave
-Snakes (Beta/Unreleased)	S/Snakes BetaUnreleased	A-Beta:S/Snakes/Snakes.Slave
+Snakes (Beta/Unreleased)	S/Snakes BetaUnreleased	A-GamesBeta:S/Snakes/Snakes.Slave
 Snoopy and Peanuts	S/Snoopy and Peanuts	A-Games:S/Snoopy&Peanuts/Snoopy&Peanuts.Slave
 Snoopy and Peanuts NoSounds	S/Snoopy and Peanuts NoSound	A-Games:S/Snoopy&PeanutsNoSounds/Snoopy&PeanutsNoSounds.Slave
 Snow Bros. Files	S/Snow Bros. Files	A-Games:S/SnowBrosFiles/SnowBrosFiles.slave
@@ -125,10 +125,10 @@ Strider	S/Strider	A-Games:S/Strider/Strider.Slave
 Strider II	S/Strider II	A-Games:S/Strider2/Strider2.Slave
 Strike Aces NTSC	S/Strike Aces NTSC	A-Games:S/StrikeAcesNTSC/StrikeAcesNTSC.Slave
 Stryx	S/Stryx	A-Games:S/Stryx/Stryx.Slave
-Stunt Car Racer (Beta/Unreleased)	S/Stunt Car Racer BetaUnrele	A-Beta:S/StuntCarRacer/StuntCarRacer.slave
+Stunt Car Racer (Beta/Unreleased)	S/Stunt Car Racer BetaUnrele	A-GamesBeta:S/StuntCarRacer/StuntCarRacer.slave
 Stunt Car Racer	S/Stunt Car Racer	A-Games:S/StuntCarRacer/StuntCarRacer.Slave
 Stunt Car Racer	S/Stunt Car Racer 	A-Games:S/StuntCarRacerTNT/StuntCarRacerTNT.Slave
-Stunt Car Racer (Beta/Unreleased)	S/Stunt Car Racer BetaUnr V2	A-Beta:S/StuntCarRacerTNT/StuntCarRacerTNT.slave
+Stunt Car Racer (Beta/Unreleased)	S/Stunt Car Racer BetaUnr V2	A-GamesBeta:S/StuntCarRacerTNT/StuntCarRacerTNT.slave
 Stunt Track Racer NTSC	S/Stunt Track Racer NTSC	A-Games:S/StuntTrackRacerNTSC/StuntTrackRacerNTSC.Slave
 Subbuteo: The Computer Game	S/Subbuteo The Computer Game	A-Games:S/Subbuteo/Subbuteo.Slave
 Suburban Commando	S/Suburban Commando	A-Games:S/SuburbanCommando/SuburbanCommando.Slave
@@ -145,7 +145,7 @@ Super Cars 2Disk	S/Super Cars 2Disk	A-Games:S/SuperCars2Disk/SuperCars2Disk.Slav
 Super Cauldron	S/Super Cauldron	A-Games:S/SuperCauldron/SuperCauldron.Slave
 Super Grand Prix	S/Super Grand Prix	A-Games:S/SuperGrandPrix/SuperGrandPrix.Slave
 Superman: The Man of Steel	S/Superman The Man of Steel	A-Games:S/Superman/Superman.Slave
-Super Monaco GP (Beta/Unreleased)	S/Super Monaco GP BetaUnrele	A-Beta:S/SuperMonacoGP/SuperMonacoGP.Slave
+Super Monaco GP (Beta/Unreleased)	S/Super Monaco GP BetaUnrele	A-GamesBeta:S/SuperMonacoGP/SuperMonacoGP.Slave
 Super Monaco GP	S/Super Monaco GP	A-Games:S/SuperMonacoGP/SuperMonacoGP.slave
 Super Scramble Simulator	S/Super Scramble Simulator	A-Games:S/SuperScrambleSimulator/SuperScrambleSimulator.slave
 Super Seymour	S/Super Seymour	A-Games:S/SuperSeymourSavesPlanet/SuperSeymourSavesPlanet.slave

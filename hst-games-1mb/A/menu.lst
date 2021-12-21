@@ -1,6 +1,6 @@
 Academy	A/Academy	A-Games:A/Academy/Academy.slave
 Action Fighter	A/Action Fighter	A-Games:A/ActionFighter/ActionFighter.slave
-Addams Family, The (Beta/Unreleased)	A/Addams Family. The BetaUnr	A-Beta:A/AddamsFamily/AddamsFamily.slave
+Addams Family, The (Beta/Unreleased)	A/Addams Family. The BetaUnr	A-GamesBeta:A/AddamsFamily/AddamsFamily.slave
 Adrenalynn	A/Adrenalynn	A-Games:A/Adrenalynn/Adrenalynn.Slave
 Adventures of Quik & Silva, The	A/Adventures of Quik Silva.	A-Games:A/AdventuresOfQuik&Silva/AdventuresOfQuik&Silva.Slave
 Adventures of Robin Hood, The	A/Adventures of Robin Hood.	A-Games:A/AdventuresOfRobinHood/AdventuresOfRobinHood.slave
@@ -31,7 +31,7 @@ Apache Flight	A/Apache Flight	A-Games:A/ApacheFlight/ApacheFlight.slave
 APB	A/APB	A-Games:A/APB/APB.slave
 Apidya	A/Apidya	A-Games:A/ApidyaAudios/ApidyaAudios.slave
 Apidya	A/Apidya 	A-Games:A/ApidyaKaiko/ApidyaKaiko.slave
-Apidya SE (Beta/Unreleased)	A/Apidya SE BetaUnreleased	A-Beta:A/ApidyaSpecialEdition/ApidyaSE.slave
+Apidya SE (Beta/Unreleased)	A/Apidya SE BetaUnreleased	A-GamesBeta:A/ApidyaSpecialEdition/ApidyaSE.slave
 Apple Hunt	A/Apple Hunt	A-Games:A/AppleHunt/AppleHunt.slave
 Apprentice	A/Apprentice	A-Games:A/Apprentice/Apprentice.slave
 Aquaventura	A/Aquaventura	A-Games:A/Aquaventura/Aquaventura.Slave
@@ -47,7 +47,7 @@ Arkanoid	A/Arkanoid	A-Games:A/Arkanoid/Arkanoid.Slave
 Arkanoid NTSC	A/Arkanoid NTSC	A-Games:A/ArkanoidNTSC/ArkanoidNTSC.Slave
 Arkanoid: Revenge of Doh	A/Arkanoid Revenge of Doh	A-Games:A/ArkanoidRevengeOfDoh/ArkanoidRevengeOfDoh.slave
 Armageddon Man, The	A/Armageddon Man. The	A-Games:A/ArmageddonMan/ArmageddonMan.Slave
-Armalyte (Beta/Unreleased)	A/Armalyte BetaUnreleased	A-Beta:A/Armalyte/Armalyte.Slave
+Armalyte (Beta/Unreleased)	A/Armalyte BetaUnreleased	A-GamesBeta:A/Armalyte/Armalyte.Slave
 Armalyte	A/Armalyte	A-Games:A/Armalyte/Armalyte.Slave
 Army Moves	A/Army Moves	A-Games:A/ArmyMoves/ArmyMoves.Slave
 Arnie	A/Arnie	A-Games:A/Arnie/Arnie.slave
